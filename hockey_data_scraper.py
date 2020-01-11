@@ -31,7 +31,7 @@ url2='http://www.collegehockeystats.net/1819/boxes/mniayrk1.o06'
 url_1819 = 'http://www.collegehockeystats.net/1819/schedules/d1m'
 #Change the workign directory
 dir1 = '/Users/admin/Blog_Data/Cawledge_Hawkey/Raw_Data/Calledge_Hawkey'
-
+os.chdir(dir1)
 
 d1m_req = requests.get(url)
 print(d1m_req.raise_for_status()) # Check for any errors in the url
@@ -68,6 +68,14 @@ for url in boxscore_list:
     finalurl = baseurl + str_url_base
     scrape_urls.append(finalurl)
     
+    
+#Now that we have the urls let's dump them into a txt file and open them with a
+#script.
+
+with open('d1m_1920_boxscoreurl.txt','w') as d1m1920_bs:
+    for url in scrape_urls:
+        d1m1920_bs.write(url+'\n')
+\
 #Now we can scrape the urlboxscore data into a table that compiles this.
 #Might use a dataframe stack/concatentate
     

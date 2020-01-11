@@ -1,0 +1,609 @@
+,Date,Day,startTime,endTime,totalTime,attendance,homeTeam,awayTeam,gameType,homeScore,awayScore,winner,loser
+0,October 5 2019,Saturday,1900-01-01 14:05:00,1900-01-01 16:12:00,127,188,Boston College,New Brunswick,Exhibition Game,4,2,Home Team,Away Team
+1,October 5 2019,Saturday,1900-01-01 16:00:00,1900-01-01 18:34:00,154,3030,Providence,Maine,Hockey East Conference Game,7,0,Home Team,Away Team
+2,October 5 2019,Saturday,1900-01-01 16:00:00,1900-01-01 18:30:00,150,2088,Union,Boston University,Non-Conference Game,3,7,Away Team,Home Team
+3,October 5 2019,Saturday,1900-01-01 16:05:00,1900-01-01 18:36:00,151,500,Niagara,Ryerson,Exhibition Game,4,3,Home Team,Away Team
+4,October 5 2019,Saturday,1900-01-01 16:00:00,1900-01-01 18:14:00,134,1937,Rensselaer,Brock,Exhibition Game,6,3,Home Team,Away Team
+5,October 5 2019,Saturday,1900-01-01 18:00:00,1900-01-01 20:20:00,140,4207,UMass Lowell,Alabama Huntsville,Non-Conference Game,5,1,Home Team,Away Team
+6,October 5 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:12:00,132,2643,Clarkson,Royal Military,Exhibition Game,7,0,Home Team,Away Team
+7,October 5 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:15:00,135,847,USA Under-18 Team,Northern Michigan,Exhibition Game,1,4,Away Team,Home Team
+8,October 5 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:20:00,135,2782,Western Michigan,Northern Alberta IT,Exhibition Game,6,1,Home Team,Away Team
+9,October 5 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:30:00,145,649,Robert Morris,Michigan Tech,Non-Conference Game,1,2,Away Team,Home Team
+10,October 5 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:43:00,158,703,Sacred Heart,UConn,Non-Conference Game,3,3,Tie,Tie
+11,October 5 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:24:00,139,482,Holy Cross,Simon Fraser,Exhibition Game,9,0,Home Team,Away Team
+12,October 5 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:25:00,140,3656,Vermont,Guelph,Exhibition Game,6,1,Home Team,Away Team
+13,October 5 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:35:00,148,1860,Lake Superior State,Merrimack,Non-Conference Game,6,2,Home Team,Away Team
+14,October 5 2019,Saturday,1900-01-01 18:07:00,1900-01-01 20:25:00,138,2951,Minnesota State,Mount Royal,Exhibition Game,5,2,Home Team,Away Team
+15,October 5 2019,Saturday,1900-01-01 19:30:00,1900-01-01 21:51:00,141,2278,Colgate,RIT,Non-Conference Game,1,3,Away Team,Home Team
+16,October 5 2019,Saturday,1900-01-01 18:07:00,1900-01-01 20:24:00,137,2769,Colorado College,Trinity Western,Exhibition Game,4,1,Home Team,Away Team
+17,October 5 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:15:00,130,4883,Minnesota Duluth,Alberta,Exhibition Game,3,5,Away Team,Home Team
+18,October 5 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:23:00,136,11760,North Dakota,Manitoba,Exhibition Game,5,1,Home Team,Away Team
+19,October 5 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:28:00,143,924,Arizona State,Mercyhurst,Non-Conference Game,2,3,Away Team,Home Team
+20,October 5 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:24:00,137,1511,Alaska,Denver,Non-Conference Game,3,4,Away Team,Home Team
+21,October 6 2019,Sunday,1900-01-01 13:07:00,1900-01-01 15:14:00,127,1236,Penn State,Ottawa,Exhibition Game,5,0,Home Team,Away Team
+22,October 6 2019,Sunday,1900-01-01 14:00:00,1900-01-01 16:44:00,164,1276,Ferris State,Waterloo,Exhibition Game,2,2,Tie,Tie
+23,October 6 2019,Sunday,1900-01-01 15:05:00,1900-01-01 17:18:00,133,444,Robert Morris,Michigan Tech,Non-Conference Game,0,7,Away Team,Home Team
+24,October 6 2019,Sunday,1900-01-01 15:05:00,1900-01-01 17:30:00,145,200,Sacred Heart,Simon Fraser,Exhibition Game,6,1,Home Team,Away Team
+25,October 6 2019,Sunday,1900-01-01 16:05:00,1900-01-01 18:20:00,135,1502,UMass Lowell,Alabama Huntsville,Non-Conference Game,3,1,Home Team,Away Team
+26,October 6 2019,Sunday,1900-01-01 16:00:00,1900-01-01 18:22:00,142,2903,Maine,New Brunswick,Exhibition Game,0,5,Away Team,Home Team
+27,October 6 2019,Sunday,1900-01-01 16:05:00,1900-01-01 18:39:00,154,1234,Quinnipiac,Brock,Exhibition Game,4,4,Tie,Tie
+28,October 6 2019,Sunday,1900-01-01 16:00:00,1900-01-01 18:21:00,141,4855,Michigan,Windsor,Exhibition Game,8,2,Home Team,Away Team
+29,October 6 2019,Sunday,1900-01-01 16:00:00,1900-01-01 18:19:00,139,622,USA Under-18 Team,Notre Dame,Exhibition Game,1,4,Away Team,Home Team
+30,October 6 2019,Sunday,1900-01-01 16:05:00,1900-01-01 18:31:00,146,1541,Army West Point,Union,Non-Conference Game,3,2,Home Team,Away Team
+31,October 6 2019,Sunday,1900-01-01 17:00:00,1900-01-01 19:32:00,152,2507,Miami,Bowling Green,Non-Conference Game,4,7,Away Team,Home Team
+32,October 6 2019,Sunday,1900-01-01 17:00:00,1900-01-01 19:20:00,140,2809,Ohio State,Western Ontario,Exhibition Game,5,2,Home Team,Away Team
+33,October 6 2019,Sunday,1900-01-01 17:00:00,1900-01-01 19:29:00,149,2817,New Hampshire,Guelph,Exhibition Game,4,3,Home Team,Away Team
+34,October 6 2019,Sunday,1900-01-01 17:07:00,1900-01-01 19:32:00,145,1435,Lake Superior State,Merrimack,Non-Conference Game,4,3,Home Team,Away Team
+35,October 6 2019,Sunday,1900-01-01 15:00:00,1900-01-01 17:32:00,152,815,Arizona State,Mercyhurst,Non-Conference Game,6,4,Home Team,Away Team
+36,October 6 2019,Sunday,1900-01-01 17:00:00,1900-01-01 19:20:00,140,6482,Minnesota,Mount Royal,Exhibition Game,2,2,Tie,Tie
+37,October 6 2019,Sunday,1900-01-01 17:07:00,1900-01-01 19:22:00,135,3491,St. Cloud State,Alberta,Exhibition Game,4,2,Home Team,Away Team
+38,October 6 2019,Sunday,1900-01-01 17:05:00,1900-01-01 19:30:00,145,1506,Air Force,Trinity Western,Exhibition Game,8,0,Home Team,Away Team
+39,October 6 2019,Sunday,1900-01-01 17:07:00,1900-01-01 19:24:00,137,1028,Alaska,Denver,Non-Conference Game,0,3,Away Team,Home Team
+40,October 7 2019,Monday,1900-01-01 19:05:00,1900-01-01 21:15:00,130,2500,Michigan State,Western Ontario,Exhibition Game,6,1,Home Team,Away Team
+41,October 7 2019,Monday,1900-01-01 19:07:00,1900-01-01 21:50:00,163,1875,Omaha,Manitoba,Exhibition Game,3,3,Tie,Tie
+42,October 8 2019,Tuesday,1900-01-01 19:07:00,1900-01-01 21:17:00,130,1058,Ferris State,USA Under-18 Team,Exhibition Game,5,1,Home Team,Away Team
+43,October 10 2019,Thursday,1900-01-01 19:07:00,1900-01-01 21:11:00,124,1129,Ferris State,Colgate,Non-Conference Game,3,1,Home Team,Away Team
+44,October 11 2019,Friday,1900-01-01 17:00:00,1900-01-01 19:55:00,175,0,Ohio State,Western Michigan,Non-Conference Game,2,2,Tie,Tie
+45,October 11 2019,Friday,1900-01-01 19:02:00,1900-01-01 21:21:00,139,6172,Boston College,Wisconsin,Non-Conference Game,5,3,Home Team,Away Team
+46,October 11 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:33:00,153,2975,Maine,Alaska Anchorage,Non-Conference Game,7,1,Home Team,Away Team
+47,October 11 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:30:00,143,6062,Penn State,Sacred Heart,Non-Conference Game,8,2,Home Team,Away Team
+48,October 11 2019,Friday,1900-01-01 19:17:00,1900-01-01 21:27:00,130,2823,Quinnipiac,American International,Non-Conference Game,3,2,Home Team,Away Team
+49,October 11 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:18:00,138,1740,Union,Northeastern,Non-Conference Game,1,2,Away Team,Home Team
+50,October 11 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:28:00,148,3628,Massachusetts,Rensselaer,Non-Conference Game,5,3,Home Team,Away Team
+51,October 11 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:21:00,136,501,Robert Morris,Bentley,Atlantic Hockey Conference Game,3,0,Home Team,Away Team
+52,October 11 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:26:00,141,578,Mercyhurst,St. Lawrence,Non-Conference Game,3,2,Home Team,Away Team
+53,October 11 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:25:00,140,1571,Miami,New Hampshire,Non-Conference Game,2,6,Away Team,Home Team
+54,October 11 2019,Friday,1900-01-01 19:10:00,1900-01-01 21:36:00,146,4977,Notre Dame,Air Force,Non-Conference Game,4,3,Home Team,Away Team
+55,October 11 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:26:00,141,2029,UConn,Army West Point,Non-Conference Game,1,2,Away Team,Home Team
+56,October 11 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:22:00,135,3701,Michigan Tech,Alaska,WCHA Conference Game,2,3,Away Team,Home Team
+57,October 11 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:30:00,150,4043,Northern Michigan,Michigan State,Non-Conference Game,3,5,Away Team,Home Team
+58,October 11 2019,Friday,1900-01-01 19:15:00,1900-01-01 21:40:00,145,1900,Providence,Holy Cross,Non-Conference Game,2,3,Away Team,Home Team
+59,October 11 2019,Friday,1900-01-01 19:31:00,1900-01-01 21:57:00,146,4826,Michigan,Clarkson,Non-Conference Game,1,1,Tie,Tie
+60,October 11 2019,Friday,1900-01-01 19:37:00,1900-01-01 21:47:00,130,1778,Lake Superior State,Denver,Non-Conference Game,1,3,Away Team,Home Team
+61,October 11 2019,Friday,1900-01-01 21:10:00,1900-01-01 23:33:00,143,0,Bowling Green,RIT,Non-Conference Game,2,3,Away Team,Home Team
+62,October 11 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:43:00,156,3445,Bemidji State,St. Cloud State,Non-Conference Game,4,4,Tie,Tie
+63,October 11 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:30:00,143,4216,Minnesota State,Arizona State,Non-Conference Game,4,1,Home Team,Away Team
+64,October 11 2019,Friday,1900-01-01 19:12:00,1900-01-01 21:35:00,143,6041,Minnesota Duluth,UMass Lowell,Non-Conference Game,2,3,Away Team,Home Team
+65,October 11 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:25:00,138,5150,Omaha,Alabama Huntsville,Non-Conference Game,6,1,Home Team,Away Team
+66,October 11 2019,Friday,1900-01-01 19:37:00,1900-01-01 21:59:00,142,11068,North Dakota,Canisius,Non-Conference Game,5,0,Home Team,Away Team
+67,October 11 2019,Friday,1900-01-01 19:37:00,1900-01-01 21:56:00,139,3429,Colorado College,Minnesota,Non-Conference Game,3,2,Home Team,Away Team
+68,October 12 2019,Saturday,1900-01-01 15:35:00,1900-01-01 17:55:00,140,2859,UConn,Rensselaer,Non-Conference Game,3,5,Away Team,Home Team
+69,October 12 2019,Saturday,1900-01-01 16:00:00,1900-01-01 18:15:00,135,1852,Union,Northeastern,Non-Conference Game,1,2,Away Team,Home Team
+70,October 12 2019,Saturday,1900-01-01 16:37:00,1900-01-01 18:57:00,140,6111,Penn State,Sacred Heart,Non-Conference Game,5,4,Home Team,Away Team
+71,October 12 2019,Saturday,1900-01-01 17:00:00,1900-01-01 19:13:00,133,2220,Providence,USA Under-18 Team,Exhibition Game,2,1,Home Team,Away Team
+72,October 12 2019,Saturday,1900-01-01 17:05:00,1900-01-01 19:18:00,133,498,Robert Morris,Bentley,Atlantic Hockey Conference Game,4,1,Home Team,Away Team
+73,October 12 2019,Saturday,1900-01-01 17:00:00,1900-01-01 19:22:00,142,0,RIT,Ohio State,Non-Conference Game,1,3,Away Team,Home Team
+74,October 12 2019,Saturday,1900-01-01 18:07:00,1900-01-01 20:37:00,150,3495,Michigan Tech,Alaska,WCHA Conference Game,1,2,Away Team,Home Team
+75,October 12 2019,Saturday,1900-01-01 18:07:00,1900-01-01 20:30:00,143,4071,Northern Michigan,Michigan State,Non-Conference Game,2,0,Home Team,Away Team
+76,October 12 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:25:00,145,2106,Merrimack,Wisconsin,Non-Conference Game,5,1,Home Team,Away Team
+77,October 12 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:44:00,164,2916,Maine,Alaska Anchorage,Non-Conference Game,2,1,Home Team,Away Team
+78,October 12 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:14:00,134,1376,American International,Quinnipiac,Non-Conference Game,2,3,Away Team,Home Team
+79,October 12 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:22:00,137,830,Mercyhurst,St. Lawrence,Non-Conference Game,2,3,Away Team,Home Team
+80,October 12 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:37:00,152,1833,Miami,New Hampshire,Non-Conference Game,4,4,Tie,Tie
+81,October 12 2019,Saturday,1900-01-01 18:07:00,1900-01-01 20:27:00,140,3792,Bemidji State,St. Cloud State,Non-Conference Game,2,2,Tie,Tie
+82,October 12 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:33:00,146,2414,Lake Superior State,Denver,Non-Conference Game,3,4,Away Team,Home Team
+83,October 12 2019,Saturday,1900-01-01 18:07:00,1900-01-01 20:43:00,156,4439,Minnesota State,Arizona State,Non-Conference Game,5,0,Home Team,Away Team
+84,October 12 2019,Saturday,1900-01-01 19:31:00,1900-01-01 21:56:00,145,5080,Michigan,Clarkson,Non-Conference Game,1,3,Away Team,Home Team
+85,October 12 2019,Saturday,1900-01-01 20:00:00,1900-01-01 22:50:00,170,0,Bowling Green,Western Michigan,Non-Conference Game,2,5,Away Team,Home Team
+86,October 12 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:37:00,150,6142,Minnesota Duluth,UMass Lowell,Non-Conference Game,2,1,Home Team,Away Team
+87,October 12 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:29:00,142,11579,North Dakota,Canisius,Non-Conference Game,8,1,Home Team,Away Team
+88,October 12 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:27:00,140,4525,Omaha,Alabama Huntsville,Non-Conference Game,5,0,Home Team,Away Team
+89,October 12 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:34:00,147,3460,Colorado College,Minnesota,Non-Conference Game,3,4,Away Team,Home Team
+90,October 13 2019,Sunday,1900-01-01 15:05:00,1900-01-01 17:31:00,146,3506,Notre Dame,Air Force,Non-Conference Game,6,1,Home Team,Away Team
+91,October 13 2019,Sunday,1900-01-01 16:00:00,1900-01-01 18:22:00,142,1235,Colgate,Boston College,Non-Conference Game,0,3,Away Team,Home Team
+92,October 13 2019,Sunday,1900-01-01 16:05:00,1900-01-01 18:17:00,132,1100,Holy Cross,USA Under-18 Team,Exhibition Game,2,1,Home Team,Away Team
+93,October 15 2019,Tuesday,1900-01-01 19:05:00,1900-01-01 21:34:00,149,2707,Northeastern,Massachusetts,Hockey East Conference Game,3,1,Home Team,Away Team
+94,October 17 2019,Thursday,1900-01-01 19:07:00,1900-01-01 21:29:00,142,5898,Penn State,Alaska,Non-Conference Game,7,0,Home Team,Away Team
+95,October 17 2019,Thursday,1900-01-01 19:05:00,1900-01-01 21:18:00,133,1550,Holy Cross,Merrimack,Non-Conference Game,1,3,Away Team,Home Team
+96,October 18 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:37:00,157,3098,Clarkson,Vermont,Non-Conference Game,3,2,Home Team,Away Team
+97,October 18 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:27:00,147,3906,Ohio State,Omaha,Non-Conference Game,3,2,Home Team,Away Team
+98,October 18 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:19:00,132,6146,Penn State,Alaska,Non-Conference Game,0,4,Away Team,Home Team
+99,October 18 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:30:00,150,3108,Quinnipiac,Maine,Non-Conference Game,2,4,Away Team,Home Team
+100,October 18 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:20:00,140,2588,Rensselaer,UConn,Non-Conference Game,2,5,Away Team,Home Team
+101,October 18 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:27:00,147,733,St. Lawrence,Providence,Non-Conference Game,0,6,Away Team,Home Team
+102,October 18 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:23:00,143,4447,Massachusetts,Union,Non-Conference Game,6,1,Home Team,Away Team
+103,October 18 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:20:00,135,3897,Michigan State,USA Under-18 Team,Exhibition Game,2,1,Home Team,Away Team
+104,October 18 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:23:00,138,469,Sacred Heart,American International,Atlantic Hockey Conference Game,1,2,Away Team,Home Team
+105,October 18 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:20:00,135,1821,Bentley,New Hampshire,Non-Conference Game,3,2,Home Team,Away Team
+106,October 18 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:31:00,146,2341,Miami,Ferris State,Non-Conference Game,4,3,Home Team,Away Team
+107,October 18 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:34:00,147,2328,Bowling Green,Western Michigan,Non-Conference Game,2,1,Home Team,Away Team
+108,October 18 2019,Friday,1900-01-01 19:15:00,1900-01-01 21:35:00,140,3964,UMass Lowell,Colgate,Non-Conference Game,3,4,Away Team,Home Team
+109,October 18 2019,Friday,1900-01-01 19:35:00,1900-01-01 22:18:00,163,3277,Boston University,Northern Michigan,Non-Conference Game,4,4,Tie,Tie
+110,October 18 2019,Friday,1900-01-01 19:30:00,1900-01-01 21:42:00,132,5405,Michigan,Lake Superior State,Non-Conference Game,4,0,Home Team,Away Team
+111,October 18 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:20:00,135,7294,Minnesota,Niagara,Non-Conference Game,3,2,Home Team,Away Team
+112,October 18 2019,Friday,1900-01-01 19:02:00,1900-01-01 21:34:00,152,10410,Wisconsin,Minnesota Duluth,Non-Conference Game,6,2,Home Team,Away Team
+113,October 18 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:46:00,159,4565,Minnesota State,North Dakota,Non-Conference Game,4,4,Tie,Tie
+114,October 18 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:18:00,133,2028,Air Force,Arizona State,Non-Conference Game,0,3,Away Team,Home Team
+115,October 18 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:37:00,150,6038,Denver,Boston College,Non-Conference Game,3,0,Home Team,Away Team
+116,October 19 2019,Saturday,1900-01-01 17:00:00,1900-01-01 19:19:00,139,4385,Ohio State,Omaha,Non-Conference Game,1,2,Away Team,Home Team
+117,October 19 2019,Saturday,1900-01-01 18:05:00,1900-01-01 20:25:00,140,5045,UMass Lowell,Colgate,Non-Conference Game,0,0,Tie,Tie
+118,October 19 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:32:00,147,3083,Boston University,Northern Michigan,Non-Conference Game,3,4,Away Team,Home Team
+119,October 19 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:38:00,153,2504,Northeastern,Holy Cross,Non-Conference Game,2,2,Tie,Tie
+120,October 19 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:43:00,158,3119,Quinnipiac,Maine,Non-Conference Game,4,3,Home Team,Away Team
+121,October 19 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:20:00,140,3258,Rensselaer,Canisius,Non-Conference Game,7,2,Home Team,Away Team
+122,October 19 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:21:00,141,572,St. Lawrence,Vermont,Non-Conference Game,0,2,Away Team,Home Team
+123,October 19 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:27:00,147,5659,Massachusetts,Union,Non-Conference Game,5,0,Home Team,Away Team
+124,October 19 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:25:00,140,2385,Western Michigan,Bowling Green,Non-Conference Game,1,2,Away Team,Home Team
+125,October 19 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:23:00,138,1258,Army West Point,Robert Morris,Atlantic Hockey Conference Game,4,1,Home Team,Away Team
+126,October 19 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:14:00,129,9805,RIT,Merrimack,Non-Conference Game,4,0,Home Team,Away Team
+127,October 19 2019,Saturday,1900-01-01 18:07:00,1900-01-01 20:28:00,141,5038,Minnesota State,North Dakota,Non-Conference Game,2,1,Home Team,Away Team
+128,October 19 2019,Saturday,1900-01-01 19:30:00,1900-01-01 21:51:00,141,3186,Clarkson,Providence,Non-Conference Game,2,4,Away Team,Home Team
+129,October 19 2019,Saturday,1900-01-01 19:30:00,1900-01-01 21:40:00,130,5404,Michigan,Lake Superior State,Non-Conference Game,4,3,Home Team,Away Team
+130,October 19 2019,Saturday,1900-01-01 20:00:00,1900-01-01 22:10:00,130,2319,Miami,Ferris State,Non-Conference Game,1,3,Away Team,Home Team
+131,October 19 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:21:00,136,7802,Minnesota,Niagara,Non-Conference Game,4,2,Home Team,Away Team
+132,October 19 2019,Saturday,1900-01-01 19:02:00,1900-01-01 21:17:00,135,13296,Wisconsin,Minnesota Duluth,Non-Conference Game,3,1,Home Team,Away Team
+133,October 19 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:20:00,135,1966,Air Force,Arizona State,Non-Conference Game,2,5,Away Team,Home Team
+134,October 19 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:45:00,158,6390,Denver,Boston College,Non-Conference Game,6,4,Home Team,Away Team
+135,October 20 2019,Sunday,1900-01-01 14:02:00,1900-01-01 16:26:00,144,2784,Cornell,Nipissing,Exhibition Game,6,2,Home Team,Away Team
+136,October 20 2019,Sunday,1900-01-01 16:05:00,1900-01-01 18:23:00,138,1159,Army West Point,Robert Morris,Atlantic Hockey Conference Game,0,3,Away Team,Home Team
+137,October 24 2019,Thursday,1900-01-01 19:05:00,1900-01-01 21:17:00,132,1722,Air Force,RIT,Atlantic Hockey Conference Game,1,2,Away Team,Home Team
+138,October 25 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:23:00,143,2062,Union,Rensselaer,ECAC Hockey Conference Game,2,3,Away Team,Home Team
+139,October 25 2019,Friday,1900-01-01 19:02:00,1900-01-01 21:25:00,143,6208,Boston College,Providence,Hockey East Conference Game,2,6,Away Team,Home Team
+140,October 25 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:15:00,135,1866,Merrimack,New Hampshire,Hockey East Conference Game,2,3,Away Team,Home Team
+141,October 25 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:40:00,155,4592,UMass Lowell,Boston University,Hockey East Conference Game,3,3,Tie,Tie
+142,October 25 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:20:00,140,1195,Colgate,Miami,Non-Conference Game,3,3,Tie,Tie
+143,October 25 2019,Friday,1900-01-01 19:10:00,1900-01-01 21:31:00,141,3991,Notre Dame,Lake Superior State,Non-Conference Game,5,2,Home Team,Away Team
+144,October 25 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:14:00,134,4873,Massachusetts,American International,Non-Conference Game,4,1,Home Team,Away Team
+145,October 25 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:15:00,130,1368,Bentley,Army West Point,Atlantic Hockey Conference Game,5,0,Home Team,Away Team
+146,October 25 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:20:00,135,600,Niagara,Sacred Heart,Atlantic Hockey Conference Game,0,4,Away Team,Home Team
+147,October 25 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:32:00,147,3329,Vermont,Maine,Hockey East Conference Game,1,2,Away Team,Home Team
+148,October 25 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:23:00,138,1837,Holy Cross,St. Lawrence,Non-Conference Game,2,2,Tie,Tie
+149,October 25 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:27:00,142,1203,Mercyhurst,Ohio State,Non-Conference Game,2,7,Away Team,Home Team
+150,October 25 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:18:00,131,5799,Penn State,Robert Morris,Non-Conference Game,2,1,Home Team,Away Team
+151,October 25 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:18:00,131,2250,Bowling Green,Michigan Tech,WCHA Conference Game,3,1,Home Team,Away Team
+152,October 25 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:28:00,141,1832,Ferris State,Northern Michigan,WCHA Conference Game,3,4,Away Team,Home Team
+153,October 25 2019,Friday,1900-01-01 19:30:00,1900-01-01 21:52:00,142,5800,Michigan,Western Michigan,Non-Conference Game,4,0,Home Team,Away Team
+154,October 25 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:10:00,125,9407,Minnesota,Minnesota Duluth,Non-Conference Game,2,5,Away Team,Home Team
+155,October 25 2019,Friday,1900-01-01 19:02:00,1900-01-01 21:12:00,130,7811,Wisconsin,Clarkson,Non-Conference Game,0,4,Away Team,Home Team
+156,October 25 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:26:00,139,1842,Alabama Huntsville,Minnesota State,WCHA Conference Game,1,5,Away Team,Home Team
+157,October 25 2019,Friday,1900-01-01 19:37:00,1900-01-01 22:00:00,143,3581,St. Cloud State,Northeastern,Non-Conference Game,1,4,Away Team,Home Team
+158,October 25 2019,Friday,1900-01-01 19:37:00,1900-01-01 22:00:00,143,11305,North Dakota,Bemidji State,Non-Conference Game,2,1,Home Team,Away Team
+159,October 25 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:24:00,139,1736,Air Force,RIT,Atlantic Hockey Conference Game,0,1,Away Team,Home Team
+160,October 25 2019,Friday,1900-01-01 19:37:00,1900-01-01 21:58:00,141,3430,Colorado College,Michigan State,Non-Conference Game,3,1,Home Team,Away Team
+161,October 25 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:24:00,137,616,Alaska Anchorage,Alaska,WCHA Conference Game,1,2,Away Team,Home Team
+162,October 26 2019,Saturday,1900-01-01 16:00:00,1900-01-01 18:07:00,127,1143,Colgate,Miami,Non-Conference Game,0,2,Away Team,Home Team
+163,October 26 2019,Saturday,1900-01-01 16:05:00,1900-01-01 18:20:00,135,350,Niagara,Sacred Heart,Atlantic Hockey Conference Game,1,3,Away Team,Home Team
+164,October 26 2019,Saturday,1900-01-01 18:05:00,1900-01-01 20:38:00,153,4178,Notre Dame,Lake Superior State,Non-Conference Game,6,4,Home Team,Away Team
+165,October 26 2019,Saturday,1900-01-01 18:07:00,1900-01-01 20:30:00,143,2500,Ferris State,Northern Michigan,WCHA Conference Game,4,6,Away Team,Home Team
+166,October 26 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:05:00,125,3108,Rensselaer,Union,ECAC Hockey Conference Game,1,2,Away Team,Home Team
+167,October 26 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:15:00,130,2777,Boston University,New Hampshire,Hockey East Conference Game,3,0,Home Team,Away Team
+168,October 26 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:37:00,157,2665,Providence,UMass Lowell,Hockey East Conference Game,2,3,Away Team,Home Team
+169,October 26 2019,Saturday,1900-01-01 19:02:00,1900-01-01 21:15:00,133,4117,Cornell,USA Under-18 Team,Exhibition Game,3,1,Home Team,Away Team
+170,October 26 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:25:00,140,1094,Bentley,St. Lawrence,Non-Conference Game,0,3,Away Team,Home Team
+171,October 26 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:22:00,137,978,Mercyhurst,Ohio State,Non-Conference Game,1,3,Away Team,Home Team
+172,October 26 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:40:00,155,3985,Western Michigan,Michigan,Non-Conference Game,4,1,Home Team,Away Team
+173,October 26 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:26:00,139,1748,Bowling Green,Michigan Tech,WCHA Conference Game,2,4,Away Team,Home Team
+174,October 26 2019,Saturday,1900-01-01 18:07:00,1900-01-01 20:28:00,141,4208,St. Cloud State,Northeastern,Non-Conference Game,2,1,Home Team,Away Team
+175,October 26 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:22:00,135,9672,Wisconsin,Clarkson,Non-Conference Game,4,3,Home Team,Away Team
+176,October 26 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:28:00,141,3084,Alabama Huntsville,Minnesota State,WCHA Conference Game,1,4,Away Team,Home Team
+177,October 26 2019,Saturday,1900-01-01 18:07:00,1900-01-01 20:30:00,143,3390,Colorado College,Michigan State,Non-Conference Game,1,5,Away Team,Home Team
+178,October 26 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:22:00,135,6655,Minnesota Duluth,Minnesota,Non-Conference Game,2,0,Home Team,Away Team
+179,October 26 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:25:00,138,11517,North Dakota,Bemidji State,Non-Conference Game,4,1,Home Team,Away Team
+180,October 26 2019,Saturday,1900-01-01 17:07:00,1900-01-01 19:40:00,153,581,Alaska Anchorage,Alaska,WCHA Conference Game,4,0,Home Team,Away Team
+181,October 27 2019,Sunday,1900-01-01 14:05:00,1900-01-01 16:20:00,135,2725,Quinnipiac,Vermont,Non-Conference Game,4,0,Home Team,Away Team
+182,October 27 2019,Sunday,1900-01-01 15:00:00,1900-01-01 17:15:00,135,476,Canisius,USA Under-18 Team,Exhibition Game,1,1,Tie,Tie
+183,October 31 2019,Thursday,1900-01-01 19:01:00,1900-01-01 21:47:00,166,5793,Penn State,Wisconsin,Big Ten Conference Game,6,1,Home Team,Away Team
+184,October 31 2019,Thursday,1900-01-01 19:07:00,1900-01-01 21:38:00,151,723,Alaska Anchorage,Omaha,Non-Conference Game,3,4,Away Team,Home Team
+185,November 1 2019,Friday,1900-01-01 18:01:00,1900-01-01 20:28:00,147,5980,Penn State,Wisconsin,Big Ten Conference Game,4,2,Home Team,Away Team
+186,November 1 2019,Friday,1900-01-01 18:05:00,1900-01-01 20:11:00,126,272,Sacred Heart,Air Force,Atlantic Hockey Conference Game,7,1,Home Team,Away Team
+187,November 1 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:14:00,134,6317,Ohio State,Michigan,Big Ten Conference Game,3,2,Home Team,Away Team
+188,November 1 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:21:00,141,2200,Yale,Brown,ECAC Hockey Conference Game,3,2,Home Team,Away Team
+189,November 1 2019,Friday,1900-01-01 19:15:00,1900-01-01 21:31:00,136,1734,Merrimack,UConn,Hockey East Conference Game,2,3,Away Team,Home Team
+190,November 1 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:27:00,147,3063,Northeastern,Massachusetts,Hockey East Conference Game,3,6,Away Team,Home Team
+191,November 1 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:21:00,136,4832,New Hampshire,Boston College,Hockey East Conference Game,1,0,Home Team,Away Team
+192,November 1 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:21:00,136,5203,Michigan State,Cornell,Non-Conference Game,2,3,Away Team,Home Team
+193,November 1 2019,Friday,1900-01-01 19:15:00,1900-01-01 21:44:00,149,1788,Providence,Colgate,Non-Conference Game,3,3,Tie,Tie
+194,November 1 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:29:00,149,2956,Clarkson,St. Lawrence,Non-Conference Game,4,3,Home Team,Away Team
+195,November 1 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:25:00,140,1343,Army West Point,American International,Atlantic Hockey Conference Game,2,1,Home Team,Away Team
+196,November 1 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:25:00,140,1953,Bentley,Mercyhurst,Atlantic Hockey Conference Game,3,4,Away Team,Home Team
+197,November 1 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:17:00,132,2937,RIT,Holy Cross,Atlantic Hockey Conference Game,7,4,Home Team,Away Team
+198,November 1 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:20:00,135,3224,Vermont,UMass Lowell,Hockey East Conference Game,1,2,Away Team,Home Team
+199,November 1 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:15:00,130,1931,Miami,USA Under-18 Team,Exhibition Game,4,1,Home Team,Away Team
+200,November 1 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:40:00,153,1746,Lake Superior State,Ferris State,WCHA Conference Game,5,4,Home Team,Away Team
+201,November 1 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:27:00,140,2493,Northern Michigan,Alabama Huntsville,WCHA Conference Game,5,3,Home Team,Away Team
+202,November 1 2019,Friday,1900-01-01 19:30:00,1900-01-01 21:54:00,144,1500,Harvard,Dartmouth,ECAC Hockey Conference Game,7,3,Home Team,Away Team
+203,November 1 2019,Friday,1900-01-01 19:30:00,1900-01-01 22:20:00,170,3447,Maine,Boston University,Hockey East Conference Game,4,2,Home Team,Away Team
+204,November 1 2019,Friday,1900-01-01 19:35:00,1900-01-01 21:45:00,130,636,Canisius,Union,Non-Conference Game,0,3,Away Team,Home Team
+205,November 1 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:37:00,150,4114,Minnesota State,Bowling Green,WCHA Conference Game,2,3,Away Team,Home Team
+206,November 1 2019,Friday,1900-01-01 19:33:00,1900-01-01 22:09:00,156,7459,Minnesota,Notre Dame,Big Ten Conference Game,2,2,Tie,Tie
+207,November 1 2019,Friday,1900-01-01 19:37:00,1900-01-01 22:00:00,143,3531,St. Cloud State,Princeton,Non-Conference Game,3,5,Away Team,Home Team
+208,November 1 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:35:00,148,5687,Denver,Niagara,Non-Conference Game,6,2,Home Team,Away Team
+209,November 1 2019,Friday,1900-01-01 19:37:00,1900-01-01 22:00:00,143,3279,Colorado College,Western Michigan,National Collegiate Hockey Conference Conference Game,3,6,Away Team,Home Team
+210,November 1 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:40:00,155,901,Arizona State,Quinnipiac,Non-Conference Game,5,3,Home Team,Away Team
+211,November 1 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:10:00,123,1470,Alaska,Bemidji State,WCHA Conference Game,0,4,Away Team,Home Team
+212,November 1 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:53:00,166,766,Alaska Anchorage,Omaha,Non-Conference Game,3,3,Tie,Tie
+213,November 2 2019,Saturday,1900-01-01 13:05:00,1900-01-01 15:21:00,136,1484,American International,Army West Point,Atlantic Hockey Conference Game,4,1,Home Team,Away Team
+214,November 2 2019,Saturday,1900-01-01 13:04:00,1900-01-01 15:31:00,147,271,Sacred Heart,Air Force,Atlantic Hockey Conference Game,3,4,Away Team,Home Team
+215,November 2 2019,Saturday,1900-01-01 16:05:00,1900-01-01 18:20:00,135,691,Canisius,Union,Non-Conference Game,4,0,Home Team,Away Team
+216,November 2 2019,Saturday,1900-01-01 17:00:00,1900-01-01 19:24:00,144,7517,Ohio State,Michigan,Big Ten Conference Game,2,1,Home Team,Away Team
+217,November 2 2019,Saturday,1900-01-01 16:04:00,1900-01-01 18:23:00,139,8008,Minnesota,Notre Dame,Big Ten Conference Game,3,5,Away Team,Home Team
+218,November 2 2019,Saturday,1900-01-01 17:05:00,1900-01-01 19:41:00,156,2178,RIT,Holy Cross,Atlantic Hockey Conference Game,3,3,Tie,Tie
+219,November 2 2019,Saturday,1900-01-01 18:00:00,1900-01-01 20:45:00,165,4037,Maine,Boston University,Hockey East Conference Game,2,2,Tie,Tie
+220,November 2 2019,Saturday,1900-01-01 18:07:00,1900-01-01 20:27:00,140,2959,Northern Michigan,Alabama Huntsville,WCHA Conference Game,4,2,Home Team,Away Team
+221,November 2 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:15:00,135,690,Brown,Yale,ECAC Hockey Conference Game,5,1,Home Team,Away Team
+222,November 2 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:22:00,142,2843,Providence,Boston College,Hockey East Conference Game,2,3,Away Team,Home Team
+223,November 2 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:34:00,154,3333,Clarkson,St. Lawrence,Non-Conference Game,3,2,Home Team,Away Team
+224,November 2 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:20:00,135,5752,Michigan State,Cornell,Non-Conference Game,2,6,Away Team,Home Team
+225,November 2 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:39:00,154,4012,New Hampshire,Dartmouth,Non-Conference Game,5,4,Home Team,Away Team
+226,November 2 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:30:00,145,2038,Bentley,Mercyhurst,Atlantic Hockey Conference Game,6,3,Home Team,Away Team
+227,November 2 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:25:00,145,2784,Vermont,UMass Lowell,Hockey East Conference Game,3,5,Away Team,Home Team
+228,November 2 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:30:00,143,2146,Lake Superior State,Ferris State,WCHA Conference Game,4,3,Home Team,Away Team
+229,November 2 2019,Saturday,1900-01-01 18:07:00,1900-01-01 20:27:00,140,5127,Minnesota State,Bowling Green,WCHA Conference Game,5,1,Home Team,Away Team
+230,November 2 2019,Saturday,1900-01-01 18:07:00,1900-01-01 20:40:00,153,4103,St. Cloud State,Princeton,Non-Conference Game,5,5,Tie,Tie
+231,November 2 2019,Saturday,1900-01-01 20:00:00,1900-01-01 22:20:00,140,4573,Massachusetts,Northeastern,Hockey East Conference Game,4,2,Home Team,Away Team
+232,November 2 2019,Saturday,1900-01-01 18:07:00,1900-01-01 20:45:00,158,3452,Colorado College,Western Michigan,National Collegiate Hockey Conference Conference Game,4,4,Tie,Tie
+233,November 2 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:30:00,143,10899,North Dakota,Michigan Tech,Non-Conference Game,3,1,Home Team,Away Team
+234,November 2 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:32:00,145,5805,Denver,Niagara,Non-Conference Game,4,0,Home Team,Away Team
+235,November 2 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:21:00,136,915,Arizona State,Quinnipiac,Non-Conference Game,4,1,Home Team,Away Team
+236,November 2 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:27:00,140,1444,Alaska,Bemidji State,WCHA Conference Game,3,1,Home Team,Away Team
+237,November 3 2019,Sunday,1900-01-01 14:05:00,1900-01-01 16:25:00,140,3387,UConn,Merrimack,Hockey East Conference Game,2,3,Away Team,Home Team
+238,November 7 2019,Thursday,1900-01-01 19:05:00,1900-01-01 21:15:00,130,233,Sacred Heart,Holy Cross,Atlantic Hockey Conference Game,1,2,Away Team,Home Team
+239,November 8 2019,Friday,1900-01-01 18:31:00,1900-01-01 21:06:00,155,5373,Michigan,Minnesota,Big Ten Conference Game,1,1,Tie,Tie
+240,November 8 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:22:00,135,6071,Penn State,Michigan State,Big Ten Conference Game,0,2,Away Team,Home Team
+241,November 8 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:16:00,136,1112,Colgate,Yale,ECAC Hockey Conference Game,2,1,Home Team,Away Team
+242,November 8 2019,Friday,1900-01-01 19:08:00,1900-01-01 21:20:00,132,3451,Cornell,Brown,ECAC Hockey Conference Game,4,1,Home Team,Away Team
+243,November 8 2019,Friday,1900-01-01 19:02:00,1900-01-01 21:25:00,143,1589,Dartmouth,Quinnipiac,ECAC Hockey Conference Game,2,2,Tie,Tie
+244,November 8 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:16:00,136,1633,Harvard,Princeton,ECAC Hockey Conference Game,3,0,Home Team,Away Team
+245,November 8 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:15:00,135,1831,Rensselaer,St. Lawrence,ECAC Hockey Conference Game,6,2,Home Team,Away Team
+246,November 8 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:12:00,132,2080,Union,Clarkson,ECAC Hockey Conference Game,1,5,Away Team,Home Team
+247,November 8 2019,Friday,1900-01-01 19:01:00,1900-01-01 21:20:00,139,5291,Boston College,UConn,Hockey East Conference Game,6,0,Home Team,Away Team
+248,November 8 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:27:00,142,2014,Merrimack,Northeastern,Hockey East Conference Game,1,1,Tie,Tie
+249,November 8 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:30:00,145,3794,Western Michigan,Ferris State,Non-Conference Game,4,2,Home Team,Away Team
+250,November 8 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:15:00,130,1052,Holy Cross,Sacred Heart,Atlantic Hockey Conference Game,2,4,Away Team,Home Team
+251,November 8 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:32:00,147,2303,RIT,Niagara,Atlantic Hockey Conference Game,2,2,Tie,Tie
+252,November 8 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:27:00,140,3185,Michigan Tech,Minnesota State,WCHA Conference Game,0,3,Away Team,Home Team
+253,November 8 2019,Friday,1900-01-01 19:07:00,1900-01-01 22:00:00,173,3020,Northern Michigan,St. Cloud State,Non-Conference Game,3,3,Tie,Tie
+254,November 8 2019,Friday,1900-01-01 19:15:00,1900-01-01 21:35:00,140,4199,UMass Lowell,Maine,Hockey East Conference Game,1,1,Tie,Tie
+255,November 8 2019,Friday,1900-01-01 19:37:00,1900-01-01 22:21:00,164,2873,Boston University,Providence,Hockey East Conference Game,3,3,Tie,Tie
+256,November 8 2019,Friday,1900-01-01 19:35:00,1900-01-01 21:56:00,141,481,Canisius,Robert Morris,Atlantic Hockey Conference Game,2,4,Away Team,Home Team
+257,November 8 2019,Friday,1900-01-01 20:10:00,1900-01-01 22:38:00,148,4740,Notre Dame,Ohio State,Big Ten Conference Game,3,2,Home Team,Away Team
+258,November 8 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:57:00,170,5374,Minnesota Duluth,Denver,National Collegiate Hockey Conference Conference Game,3,3,Tie,Tie
+259,November 8 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:22:00,135,2955,Bemidji State,Lake Superior State,WCHA Conference Game,7,1,Home Team,Away Team
+260,November 8 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:49:00,162,1217,Alabama Huntsville,Alaska Anchorage,WCHA Conference Game,4,4,Tie,Tie
+261,November 8 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:35:00,148,5605,Omaha,Wisconsin,Non-Conference Game,2,5,Away Team,Home Team
+262,November 8 2019,Friday,1900-01-01 19:37:00,1900-01-01 21:53:00,136,10425,North Dakota,Miami,National Collegiate Hockey Conference Conference Game,7,1,Home Team,Away Team
+263,November 8 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:25:00,140,1921,Air Force,Bentley,Atlantic Hockey Conference Game,4,2,Home Team,Away Team
+264,November 8 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:07:00,120,1283,Alaska,Arizona State,Non-Conference Game,4,3,Home Team,Away Team
+265,November 9 2019,Saturday,1900-01-01 15:31:00,1900-01-01 17:39:00,128,5112,UConn,Boston College,Hockey East Conference Game,1,5,Away Team,Home Team
+266,November 9 2019,Saturday,1900-01-01 16:00:00,1900-01-01 18:20:00,140,1241,Colgate,Brown,ECAC Hockey Conference Game,1,4,Away Team,Home Team
+267,November 9 2019,Saturday,1900-01-01 17:01:00,1900-01-01 19:16:00,135,5800,Michigan,Minnesota,Big Ten Conference Game,1,3,Away Team,Home Team
+268,November 9 2019,Saturday,1900-01-01 18:07:00,1900-01-01 20:31:00,144,5936,Penn State,Michigan State,Big Ten Conference Game,6,4,Home Team,Away Team
+269,November 9 2019,Saturday,1900-01-01 18:05:00,1900-01-01 20:32:00,147,4077,UMass Lowell,Maine,Hockey East Conference Game,3,2,Home Team,Away Team
+270,November 9 2019,Saturday,1900-01-01 18:07:00,1900-01-01 20:09:00,122,3328,Michigan Tech,Minnesota State,WCHA Conference Game,1,2,Away Team,Home Team
+271,November 9 2019,Saturday,1900-01-01 18:00:00,1900-01-01 20:43:00,163,3258,Northern Michigan,St. Cloud State,Non-Conference Game,4,5,Away Team,Home Team
+272,November 9 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:22:00,137,4858,Notre Dame,Ohio State,Big Ten Conference Game,2,1,Home Team,Away Team
+273,November 9 2019,Saturday,1900-01-01 19:02:00,1900-01-01 21:30:00,148,4117,Cornell,Yale,ECAC Hockey Conference Game,6,2,Home Team,Away Team
+274,November 9 2019,Saturday,1900-01-01 19:02:00,1900-01-01 21:24:00,142,2837,Dartmouth,Princeton,ECAC Hockey Conference Game,3,1,Home Team,Away Team
+275,November 9 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:25:00,145,1887,Harvard,Quinnipiac,ECAC Hockey Conference Game,7,2,Home Team,Away Team
+276,November 9 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:12:00,132,3426,Rensselaer,Clarkson,ECAC Hockey Conference Game,1,2,Away Team,Home Team
+277,November 9 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:28:00,148,1865,Union,St. Lawrence,ECAC Hockey Conference Game,2,3,Away Team,Home Team
+278,November 9 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:32:00,152,2175,Northeastern,Merrimack,Hockey East Conference Game,3,1,Home Team,Away Team
+279,November 9 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:28:00,148,2741,Providence,Boston University,Hockey East Conference Game,6,5,Home Team,Away Team
+280,November 9 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:15:00,130,819,Niagara,RIT,Atlantic Hockey Conference Game,1,4,Away Team,Home Team
+281,November 9 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:17:00,132,512,Robert Morris,Canisius,Atlantic Hockey Conference Game,4,2,Home Team,Away Team
+282,November 9 2019,Saturday,1900-01-01 18:07:00,1900-01-01 20:21:00,134,2415,Bemidji State,Lake Superior State,WCHA Conference Game,5,1,Home Team,Away Team
+283,November 9 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:35:00,148,5874,Minnesota Duluth,Denver,National Collegiate Hockey Conference Conference Game,5,2,Home Team,Away Team
+284,November 9 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:26:00,139,10775,North Dakota,Miami,National Collegiate Hockey Conference Conference Game,5,4,Home Team,Away Team
+285,November 9 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:25:00,138,1187,Alabama Huntsville,Alaska Anchorage,WCHA Conference Game,1,3,Away Team,Home Team
+286,November 9 2019,Saturday,1900-01-01 20:07:00,1900-01-01 22:20:00,133,1855,Ferris State,Western Michigan,Non-Conference Game,2,8,Away Team,Home Team
+287,November 9 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:37:00,150,6411,Omaha,Wisconsin,Non-Conference Game,5,2,Home Team,Away Team
+288,November 9 2019,Saturday,1900-01-01 19:05:00,1900-01-01 19:20:00,15,1711,Air Force,Bentley,Atlantic Hockey Conference Game,3,2,Home Team,Away Team
+289,November 9 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:17:00,130,1613,Alaska,Arizona State,Non-Conference Game,0,4,Away Team,Home Team
+290,November 10 2019,Sunday,1900-01-01 13:00:00,1900-01-01 15:30:00,150,4707,New Hampshire,Massachusetts,Hockey East Conference Game,3,1,Home Team,Away Team
+291,November 14 2019,Thursday,1900-01-01 18:31:00,1900-01-01 21:08:00,157,5233,Michigan,Michigan State,Big Ten Conference Game,3,4,Away Team,Home Team
+292,November 15 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:16:00,136,723,Brown,Harvard,ECAC Hockey Conference Game,1,4,Away Team,Home Team
+293,November 15 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:17:00,137,2911,Clarkson,Cornell,ECAC Hockey Conference Game,2,4,Away Team,Home Team
+294,November 15 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:28:00,143,1524,Princeton,Rensselaer,ECAC Hockey Conference Game,2,2,Tie,Tie
+295,November 15 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:20:00,135,2934,Quinnipiac,Union,ECAC Hockey Conference Game,2,1,Home Team,Away Team
+296,November 15 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:09:00,129,532,St. Lawrence,Colgate,ECAC Hockey Conference Game,1,4,Away Team,Home Team
+297,November 15 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:14:00,134,1842,Yale,Dartmouth,ECAC Hockey Conference Game,3,4,Away Team,Home Team
+298,November 15 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:25:00,140,2800,Western Michigan,Omaha,National Collegiate Hockey Conference Conference Game,3,2,Home Team,Away Team
+299,November 15 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:35:00,150,1071,Bentley,Robert Morris,Atlantic Hockey Conference Game,4,6,Away Team,Home Team
+300,November 15 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:16:00,131,600,Holy Cross,Army West Point,Atlantic Hockey Conference Game,1,4,Away Team,Home Team
+301,November 15 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:13:00,128,748,Mercyhurst,American International,Atlantic Hockey Conference Game,0,1,Away Team,Home Team
+302,November 15 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:30:00,145,2193,RIT,Sacred Heart,Atlantic Hockey Conference Game,5,9,Away Team,Home Team
+303,November 15 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:32:00,147,2730,UConn,UMass Lowell,Hockey East Conference Game,3,3,Tie,Tie
+304,November 15 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:16:00,131,3118,Vermont,Boston College,Hockey East Conference Game,1,5,Away Team,Home Team
+305,November 15 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:25:00,140,2416,Miami,Minnesota Duluth,National Collegiate Hockey Conference Conference Game,3,1,Home Team,Away Team
+306,November 15 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:19:00,132,1160,Ferris State,Bemidji State,WCHA Conference Game,2,1,Home Team,Away Team
+307,November 15 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:17:00,130,1907,Lake Superior State,Michigan Tech,WCHA Conference Game,2,4,Away Team,Home Team
+308,November 15 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:25:00,138,2605,Northern Michigan,Alaska,WCHA Conference Game,2,1,Home Team,Away Team
+309,November 15 2019,Friday,1900-01-01 19:15:00,1900-01-01 21:37:00,142,2576,Providence,Northeastern,Hockey East Conference Game,3,2,Home Team,Away Team
+310,November 15 2019,Friday,1900-01-01 19:35:00,1900-01-01 21:55:00,140,3504,Boston University,Massachusetts,Hockey East Conference Game,4,3,Home Team,Away Team
+311,November 15 2019,Friday,1900-01-01 19:30:00,1900-01-01 22:05:00,155,4787,Maine,New Hampshire,Hockey East Conference Game,3,1,Home Team,Away Team
+312,November 15 2019,Friday,1900-01-01 19:35:00,1900-01-01 22:00:00,145,1204,Canisius,Niagara,Atlantic Hockey Conference Game,4,2,Home Team,Away Team
+313,November 15 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:30:00,145,8032,Minnesota,Penn State,Big Ten Conference Game,2,8,Away Team,Home Team
+314,November 15 2019,Friday,1900-01-01 19:02:00,1900-01-01 21:21:00,139,9698,Wisconsin,Notre Dame,Big Ten Conference Game,3,0,Home Team,Away Team
+315,November 15 2019,Friday,1900-01-01 19:37:00,1900-01-01 21:54:00,137,3601,St. Cloud State,Colorado College,National Collegiate Hockey Conference Conference Game,2,4,Away Team,Home Team
+316,November 15 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:42:00,155,6056,Denver,North Dakota,National Collegiate Hockey Conference Conference Game,1,1,Tie,Tie
+317,November 15 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:37:00,150,725,Alaska Anchorage,Bowling Green,WCHA Conference Game,1,3,Away Team,Home Team
+318,November 16 2019,Saturday,1900-01-01 16:05:00,1900-01-01 18:20:00,135,657,Canisius,Niagara,Atlantic Hockey Conference Game,3,5,Away Team,Home Team
+319,November 16 2019,Saturday,1900-01-01 16:05:00,1900-01-01 18:32:00,147,687,Mercyhurst,American International,Atlantic Hockey Conference Game,4,3,Home Team,Away Team
+320,November 16 2019,Saturday,1900-01-01 17:05:00,1900-01-01 19:30:00,145,1193,Bentley,Robert Morris,Atlantic Hockey Conference Game,2,4,Away Team,Home Team
+321,November 16 2019,Saturday,1900-01-01 17:05:00,1900-01-01 19:23:00,138,755,Holy Cross,Army West Point,Atlantic Hockey Conference Game,1,3,Away Team,Home Team
+322,November 16 2019,Saturday,1900-01-01 17:05:00,1900-01-01 19:15:00,130,2114,RIT,Sacred Heart,Atlantic Hockey Conference Game,1,3,Away Team,Home Team
+323,November 16 2019,Saturday,1900-01-01 18:05:00,1900-01-01 20:15:00,130,4397,UMass Lowell,UConn,Hockey East Conference Game,1,2,Away Team,Home Team
+324,November 16 2019,Saturday,1900-01-01 18:07:00,1900-01-01 20:20:00,133,1020,Ferris State,Bemidji State,WCHA Conference Game,1,4,Away Team,Home Team
+325,November 16 2019,Saturday,1900-01-01 18:07:00,1900-01-01 20:30:00,143,2785,Northern Michigan,Alaska,WCHA Conference Game,2,3,Away Team,Home Team
+326,November 16 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:13:00,133,6552,Michigan State,Michigan,Big Ten Conference Game,3,0,Home Team,Away Team
+327,November 16 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:12:00,132,489,Brown,Dartmouth,ECAC Hockey Conference Game,1,4,Away Team,Home Team
+328,November 16 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:14:00,134,2705,Clarkson,Colgate,ECAC Hockey Conference Game,5,1,Home Team,Away Team
+329,November 16 2019,Saturday,1900-01-01 19:02:00,1900-01-01 21:26:00,144,2034,Princeton,Union,ECAC Hockey Conference Game,1,2,Away Team,Home Team
+330,November 16 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:17:00,132,3090,Quinnipiac,Rensselaer,ECAC Hockey Conference Game,3,1,Home Team,Away Team
+331,November 16 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:12:00,132,592,St. Lawrence,Cornell,ECAC Hockey Conference Game,1,6,Away Team,Home Team
+332,November 16 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:12:00,132,3077,Yale,Harvard,ECAC Hockey Conference Game,1,6,Away Team,Home Team
+333,November 16 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:40:00,160,5012,Maine,New Hampshire,Hockey East Conference Game,2,1,Home Team,Away Team
+334,November 16 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:27:00,142,3227,Western Michigan,Omaha,National Collegiate Hockey Conference Conference Game,3,6,Away Team,Home Team
+335,November 16 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:22:00,137,3585,Vermont,Boston College,Hockey East Conference Game,0,3,Away Team,Home Team
+336,November 16 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:25:00,140,2879,Miami,Minnesota Duluth,National Collegiate Hockey Conference Conference Game,2,3,Away Team,Home Team
+337,November 16 2019,Saturday,1900-01-01 18:07:00,1900-01-01 20:36:00,149,3923,St. Cloud State,Colorado College,National Collegiate Hockey Conference Conference Game,2,5,Away Team,Home Team
+338,November 16 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:18:00,131,2094,Lake Superior State,Michigan Tech,WCHA Conference Game,1,2,Away Team,Home Team
+339,November 16 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:26:00,141,8203,Minnesota,Penn State,Big Ten Conference Game,3,6,Away Team,Home Team
+340,November 16 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:35:00,148,12593,Wisconsin,Notre Dame,Big Ten Conference Game,4,5,Away Team,Home Team
+341,November 16 2019,Saturday,1900-01-01 20:00:00,1900-01-01 22:24:00,144,2032,Northeastern,Providence,Hockey East Conference Game,7,3,Home Team,Away Team
+342,November 16 2019,Saturday,1900-01-01 20:00:00,1900-01-01 22:30:00,150,5583,Massachusetts,Boston University,Hockey East Conference Game,4,1,Home Team,Away Team
+343,November 16 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:32:00,145,6308,Denver,North Dakota,National Collegiate Hockey Conference Conference Game,1,4,Away Team,Home Team
+344,November 16 2019,Saturday,1900-01-01 17:07:00,1900-01-01 19:25:00,138,712,Alaska Anchorage,Bowling Green,WCHA Conference Game,0,3,Away Team,Home Team
+345,November 21 2019,Thursday,1900-01-01 19:05:00,1900-01-01 21:15:00,130,303,Sacred Heart,Holy Cross,Atlantic Hockey Conference Game,3,4,Away Team,Home Team
+346,November 22 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:41:00,161,4898,Michigan State,Notre Dame,Big Ten Conference Game,1,1,Tie,Tie
+347,November 22 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:28:00,141,5739,Penn State,Ohio State,Big Ten Conference Game,5,4,Home Team,Away Team
+348,November 22 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:20:00,140,617,Brown,Clarkson,ECAC Hockey Conference Game,1,2,Away Team,Home Team
+349,November 22 2019,Friday,1900-01-01 19:02:00,1900-01-01 21:23:00,141,3876,Cornell,Quinnipiac,ECAC Hockey Conference Game,2,1,Home Team,Away Team
+350,November 22 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:20:00,140,2554,Rensselaer,Harvard,ECAC Hockey Conference Game,3,6,Away Team,Home Team
+351,November 22 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:22:00,142,1910,Yale,St. Lawrence,ECAC Hockey Conference Game,6,3,Home Team,Away Team
+352,November 22 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:30:00,150,2021,Northeastern,Maine,Hockey East Conference Game,5,2,Home Team,Away Team
+353,November 22 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:35:00,155,2904,Massachusetts,Merrimack,Hockey East Conference Game,2,2,Tie,Tie
+354,November 22 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:21:00,141,5246,New Hampshire,Michigan,Non-Conference Game,1,4,Away Team,Home Team
+355,November 22 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:12:00,127,1458,Army West Point,RIT,Atlantic Hockey Conference Game,2,1,Home Team,Away Team
+356,November 22 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:13:00,128,815,Mercyhurst,Niagara,Atlantic Hockey Conference Game,0,5,Away Team,Home Team
+357,November 22 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:16:00,131,686,Robert Morris,Air Force,Atlantic Hockey Conference Game,0,2,Away Team,Home Team
+358,November 22 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:44:00,159,3384,UConn,Providence,Hockey East Conference Game,3,3,Tie,Tie
+359,November 22 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:32:00,145,2381,Bowling Green,Lake Superior State,WCHA Conference Game,5,0,Home Team,Away Team
+360,November 22 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:37:00,150,3337,Michigan Tech,Northern Michigan,WCHA Conference Game,3,2,Home Team,Away Team
+361,November 22 2019,Friday,1900-01-01 19:30:00,1900-01-01 22:00:00,150,807,Colgate,Princeton,ECAC Hockey Conference Game,2,2,Tie,Tie
+362,November 22 2019,Friday,1900-01-01 19:35:00,1900-01-01 21:40:00,125,2331,Boston University,Vermont,Hockey East Conference Game,3,0,Home Team,Away Team
+363,November 22 2019,Friday,1900-01-01 19:35:00,1900-01-01 21:47:00,132,1052,Holy Cross,Sacred Heart,Atlantic Hockey Conference Game,1,4,Away Team,Home Team
+364,November 22 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:19:00,134,7903,Minnesota,Wisconsin,Big Ten Conference Game,4,1,Home Team,Away Team
+365,November 22 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:00:00,113,5574,Minnesota Duluth,Colorado College,National Collegiate Hockey Conference Conference Game,4,3,Home Team,Away Team
+366,November 22 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:47:00,160,5322,Omaha,Miami,National Collegiate Hockey Conference Conference Game,3,3,Tie,Tie
+367,November 22 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:28:00,141,3007,Bemidji State,Alabama Huntsville,WCHA Conference Game,5,3,Home Team,Away Team
+368,November 22 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:22:00,135,4037,Minnesota State,Alaska Anchorage,WCHA Conference Game,7,1,Home Team,Away Team
+369,November 22 2019,Friday,1900-01-01 19:37:00,1900-01-01 21:57:00,140,11223,North Dakota,St. Cloud State,National Collegiate Hockey Conference Conference Game,4,2,Home Team,Away Team
+370,November 22 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:41:00,154,4527,Denver,Western Michigan,National Collegiate Hockey Conference Conference Game,1,2,Away Team,Home Team
+371,November 22 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:37:00,150,1508,Alaska,Ferris State,WCHA Conference Game,2,3,Away Team,Home Team
+372,November 23 2019,Saturday,1900-01-01 16:01:00,1900-01-01 18:32:00,151,3168,Boston University,Vermont,Hockey East Conference Game,3,3,Tie,Tie
+373,November 23 2019,Saturday,1900-01-01 16:05:00,1900-01-01 18:20:00,135,2030,Army West Point,RIT,Atlantic Hockey Conference Game,2,4,Away Team,Home Team
+374,November 23 2019,Saturday,1900-01-01 18:07:00,1900-01-01 20:31:00,144,5213,Penn State,Ohio State,Big Ten Conference Game,3,4,Away Team,Home Team
+375,November 23 2019,Saturday,1900-01-01 18:07:00,1900-01-01 20:42:00,155,3945,Northern Michigan,Michigan Tech,WCHA Conference Game,2,3,Away Team,Home Team
+376,November 23 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:21:00,141,5902,Michigan State,Notre Dame,Big Ten Conference Game,3,2,Home Team,Away Team
+377,November 23 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:14:00,134,557,Brown,St. Lawrence,ECAC Hockey Conference Game,3,2,Home Team,Away Team
+378,November 23 2019,Saturday,1900-01-01 19:30:00,1900-01-01 21:55:00,145,769,Colgate,Quinnipiac,ECAC Hockey Conference Game,3,1,Home Team,Away Team
+379,November 23 2019,Saturday,1900-01-01 19:02:00,1900-01-01 21:21:00,139,4267,Cornell,Princeton,ECAC Hockey Conference Game,5,1,Home Team,Away Team
+380,November 23 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:21:00,141,1799,Yale,Clarkson,ECAC Hockey Conference Game,1,4,Away Team,Home Team
+381,November 23 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:24:00,139,2412,Merrimack,Massachusetts,Hockey East Conference Game,2,3,Away Team,Home Team
+382,November 23 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:30:00,150,1929,Northeastern,Maine,Hockey East Conference Game,3,2,Home Team,Away Team
+383,November 23 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:32:00,152,2183,Providence,UConn,Hockey East Conference Game,5,2,Home Team,Away Team
+384,November 23 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:13:00,133,6038,New Hampshire,Michigan,Non-Conference Game,3,2,Home Team,Away Team
+385,November 23 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:18:00,133,500,Niagara,Mercyhurst,Atlantic Hockey Conference Game,3,1,Home Team,Away Team
+386,November 23 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:41:00,156,824,Robert Morris,Air Force,Atlantic Hockey Conference Game,1,1,Tie,Tie
+387,November 23 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:55:00,168,2746,Bowling Green,Lake Superior State,WCHA Conference Game,1,3,Away Team,Home Team
+388,November 23 2019,Saturday,1900-01-01 18:07:00,1900-01-01 20:17:00,130,3112,Bemidji State,Alabama Huntsville,WCHA Conference Game,7,0,Home Team,Away Team
+389,November 23 2019,Saturday,1900-01-01 18:07:00,1900-01-01 20:28:00,141,4522,Minnesota State,Alaska Anchorage,WCHA Conference Game,3,0,Home Team,Away Team
+390,November 23 2019,Saturday,1900-01-01 19:35:00,1900-01-01 21:53:00,138,1107,Canisius,Rensselaer,Non-Conference Game,2,3,Away Team,Home Team
+391,November 23 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:45:00,160,8612,Minnesota,Wisconsin,Big Ten Conference Game,3,3,Tie,Tie
+392,November 23 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:20:00,133,5781,Minnesota Duluth,Colorado College,National Collegiate Hockey Conference Conference Game,5,0,Home Team,Away Team
+393,November 23 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:35:00,148,11747,North Dakota,St. Cloud State,National Collegiate Hockey Conference Conference Game,2,1,Home Team,Away Team
+394,November 23 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:28:00,141,5619,Omaha,Miami,National Collegiate Hockey Conference Conference Game,1,4,Away Team,Home Team
+395,November 23 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:25:00,138,4942,Denver,Western Michigan,National Collegiate Hockey Conference Conference Game,6,1,Home Team,Away Team
+396,November 23 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:27:00,140,1475,Alaska,Ferris State,WCHA Conference Game,3,1,Home Team,Away Team
+397,November 26 2019,Tuesday,1900-01-01 19:05:00,1900-01-01 21:10:00,125,3669,Boston College,Yale,Non-Conference Game,6,2,Home Team,Away Team
+398,November 26 2019,Tuesday,1900-01-01 19:05:00,1900-01-01 21:09:00,124,1826,Boston University,Sacred Heart,Non-Conference Game,0,4,Away Team,Home Team
+399,November 26 2019,Tuesday,1900-01-01 19:05:00,1900-01-01 21:20:00,135,567,American International,Army West Point,Atlantic Hockey Conference Game,1,4,Away Team,Home Team
+400,November 26 2019,Tuesday,1900-01-01 19:05:00,1900-01-01 21:05:00,120,1144,Bentley,Brown,Non-Conference Game,1,0,Home Team,Away Team
+401,November 28 2019,Thursday,1900-01-01 19:05:00,1900-01-01 21:10:00,125,8567,Minnesota,North Dakota,Non-Conference Game,3,9,Away Team,Home Team
+402,November 29 2019,Friday,1900-01-01 15:00:00,1900-01-01 17:35:00,155,3200,Northeastern,New Hampshire,Hockey East Conference Game,4,0,Home Team,Away Team
+403,November 29 2019,Friday,1900-01-01 13:05:00,1900-01-01 15:32:00,147,819,Canisius,Army West Point,Atlantic Hockey Conference Game,3,4,Away Team,Home Team
+404,November 29 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:38:00,158,3823,Colgate,Princeton,Non-Conference Game,3,1,Home Team,Away Team
+405,November 29 2019,Friday,1900-01-01 16:05:00,1900-01-01 18:23:00,138,3006,UConn,Miami,Non-Conference Game,6,4,Home Team,Away Team
+406,November 29 2019,Friday,1900-01-01 16:05:00,1900-01-01 18:12:00,127,3512,UMass Lowell,Rensselaer,Non-Conference Game,4,0,Home Team,Away Team
+407,November 29 2019,Friday,1900-01-01 16:30:00,1900-01-01 18:50:00,140,3095,Harvard,Boston College,Non-Conference Game,2,4,Away Team,Home Team
+408,November 29 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:24:00,139,1961,Merrimack,Penn State,Non-Conference Game,0,7,Away Team,Home Team
+409,November 29 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:15:00,130,5271,Notre Dame,Bowling Green,Non-Conference Game,2,5,Away Team,Home Team
+410,November 29 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:16:00,131,692,American International,RIT,Atlantic Hockey Conference Game,4,2,Home Team,Away Team
+411,November 29 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:20:00,135,637,Holy Cross,Bentley,Atlantic Hockey Conference Game,2,3,Away Team,Home Team
+412,November 29 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:16:00,131,639,Niagara,Air Force,Atlantic Hockey Conference Game,4,3,Home Team,Away Team
+413,November 29 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:18:00,131,1751,Lake Superior State,Bemidji State,WCHA Conference Game,1,4,Away Team,Home Team
+414,November 29 2019,Friday,1900-01-01 19:35:00,1900-01-01 21:57:00,142,2992,Quinnipiac,Massachusetts,Non-Conference Game,0,3,Away Team,Home Team
+415,November 29 2019,Friday,1900-01-01 19:30:00,1900-01-01 21:46:00,136,515,St. Lawrence,Maine,Non-Conference Game,2,5,Away Team,Home Team
+416,November 29 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:15:00,130,9823,Minnesota,North Dakota,Non-Conference Game,2,3,Away Team,Home Team
+417,November 29 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:17:00,130,1142,Alabama Huntsville,Northern Michigan,WCHA Conference Game,4,2,Home Team,Away Team
+418,November 29 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:30:00,143,5494,Minnesota Duluth,Minnesota State,Non-Conference Game,1,4,Away Team,Home Team
+419,November 29 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:27:00,142,845,Arizona State,Vermont,Non-Conference Game,2,1,Home Team,Away Team
+420,November 29 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:20:00,133,712,Alaska Anchorage,Ferris State,WCHA Conference Game,1,4,Away Team,Home Team
+421,November 29 2019,Friday,1900-01-01 19:13:00,1900-01-01 21:33:00,140,1255,Alaska,Michigan Tech,WCHA Conference Game,4,3,Home Team,Away Team
+422,November 30 2019,Saturday,1900-01-01 15:00:00,1900-01-01 17:23:00,143,4163,Princeton,New Hampshire,Non-Conference Game,2,3,Away Team,Home Team
+423,November 30 2019,Saturday,1900-01-01 13:05:00,1900-01-01 15:22:00,137,517,American International,RIT,Atlantic Hockey Conference Game,5,1,Home Team,Away Team
+424,November 30 2019,Saturday,1900-01-01 13:05:00,1900-01-01 15:20:00,135,907,Canisius,Army West Point,Atlantic Hockey Conference Game,2,3,Away Team,Home Team
+425,November 30 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:36:00,156,5846,Northeastern,Colgate,Non-Conference Game,4,3,Home Team,Away Team
+426,November 30 2019,Saturday,1900-01-01 16:00:00,1900-01-01 18:16:00,136,2360,Providence,Brown,Non-Conference Game,4,2,Home Team,Away Team
+427,November 30 2019,Saturday,1900-01-01 16:05:00,1900-01-01 18:30:00,145,1260,Bentley,Holy Cross,Atlantic Hockey Conference Game,4,1,Home Team,Away Team
+428,November 30 2019,Saturday,1900-01-01 16:05:00,1900-01-01 18:16:00,131,2735,UConn,Miami,Non-Conference Game,4,3,Home Team,Away Team
+429,November 30 2019,Saturday,1900-01-01 17:00:00,1900-01-01 19:10:00,130,4251,Ohio State,Michigan State,Big Ten Conference Game,3,1,Home Team,Away Team
+430,November 30 2019,Saturday,1900-01-01 17:07:00,1900-01-01 19:30:00,143,1433,Lake Superior State,Bemidji State,WCHA Conference Game,2,2,Tie,Tie
+431,November 30 2019,Saturday,1900-01-01 18:05:00,1900-01-01 20:30:00,145,3766,UMass Lowell,Penn State,Non-Conference Game,3,2,Home Team,Away Team
+432,November 30 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:15:00,130,1301,Merrimack,Rensselaer,Non-Conference Game,5,1,Home Team,Away Team
+433,November 30 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:17:00,137,363,St. Lawrence,Maine,Non-Conference Game,1,1,Tie,Tie
+434,November 30 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:24:00,144,2857,Massachusetts,Quinnipiac,Non-Conference Game,1,2,Away Team,Home Team
+435,November 30 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:40:00,155,200,Niagara,Air Force,Atlantic Hockey Conference Game,1,1,Tie,Tie
+436,November 30 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:53:00,168,803,Robert Morris,Mercyhurst,Atlantic Hockey Conference Game,2,2,Tie,Tie
+437,November 30 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:37:00,150,3382,Bowling Green,Notre Dame,Non-Conference Game,5,2,Home Team,Away Team
+438,November 30 2019,Saturday,1900-01-01 19:02:00,1900-01-01 21:32:00,150,9894,Wisconsin,Michigan,Big Ten Conference Game,3,2,Home Team,Away Team
+439,November 30 2019,Saturday,1900-01-01 20:15:00,1900-01-01 22:29:00,134,15142,Boston University,Cornell,Non-Conference Game,0,2,Away Team,Home Team
+440,November 30 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:22:00,135,956,Alabama Huntsville,Northern Michigan,WCHA Conference Game,1,3,Away Team,Home Team
+441,November 30 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:47:00,160,5103,Minnesota Duluth,Minnesota State,Non-Conference Game,1,3,Away Team,Home Team
+442,November 30 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:45:00,160,800,Arizona State,Vermont,Non-Conference Game,2,2,Tie,Tie
+443,November 30 2019,Saturday,1900-01-01 17:07:00,1900-01-01 19:47:00,160,742,Alaska Anchorage,Ferris State,WCHA Conference Game,4,4,Tie,Tie
+444,November 30 2019,Saturday,1900-01-01 19:10:00,1900-01-01 21:22:00,132,1365,Alaska,Michigan Tech,WCHA Conference Game,1,2,Away Team,Home Team
+445,December 1 2019,Sunday,1900-01-01 14:31:00,1900-01-01 16:56:00,145,4222,Ohio State,Michigan State,Big Ten Conference Game,2,0,Home Team,Away Team
+446,December 1 2019,Sunday,1900-01-01 16:01:00,1900-01-01 18:29:00,148,9571,Wisconsin,Michigan,Big Ten Conference Game,1,3,Away Team,Home Team
+447,December 3 2019,Tuesday,1900-01-01 19:05:00,1900-01-01 21:18:00,133,2922,Boston University,Harvard,Non-Conference Game,5,2,Home Team,Away Team
+448,December 3 2019,Tuesday,1900-01-01 19:05:00,1900-01-01 21:15:00,130,414,American International,Sacred Heart,Atlantic Hockey Conference Game,2,4,Away Team,Home Team
+449,December 6 2019,Friday,1900-01-01 13:05:00,1900-01-01 15:15:00,130,244,American International,Canisius,Atlantic Hockey Conference Game,6,0,Home Team,Away Team
+450,December 6 2019,Friday,1900-01-01 16:02:00,1900-01-01 18:28:00,146,1001,Princeton,Colorado College,Non-Conference Game,2,7,Away Team,Home Team
+451,December 6 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:12:00,132,6007,Michigan State,Wisconsin,Big Ten Conference Game,3,0,Home Team,Away Team
+452,December 6 2019,Friday,1900-01-01 19:02:00,1900-01-01 21:21:00,139,1303,Dartmouth,Colgate,ECAC Hockey Conference Game,1,5,Away Team,Home Team
+453,December 6 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:15:00,135,3095,Harvard,Cornell,ECAC Hockey Conference Game,1,3,Away Team,Home Team
+454,December 6 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:20:00,140,1718,Rensselaer,Yale,ECAC Hockey Conference Game,1,4,Away Team,Home Team
+455,December 6 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:10:00,130,1482,Union,Brown,ECAC Hockey Conference Game,5,0,Home Team,Away Team
+456,December 6 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:34:00,154,4507,Massachusetts,Maine,Hockey East Conference Game,5,1,Home Team,Away Team
+457,December 6 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:40:00,155,3324,Western Michigan,North Dakota,National Collegiate Hockey Conference Conference Game,0,1,Away Team,Home Team
+458,December 6 2019,Friday,1900-01-01 19:01:00,1900-01-01 21:11:00,130,7295,Boston College,Notre Dame,Non-Conference Game,4,0,Home Team,Away Team
+459,December 6 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:36:00,151,1419,Army West Point,Bentley,Atlantic Hockey Conference Game,4,3,Home Team,Away Team
+460,December 6 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:25:00,140,2071,RIT,Mercyhurst,Atlantic Hockey Conference Game,7,3,Home Team,Away Team
+461,December 6 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:27:00,142,2012,UConn,Vermont,Hockey East Conference Game,3,2,Home Team,Away Team
+462,December 6 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:19:00,134,2016,Miami,St. Cloud State,National Collegiate Hockey Conference Conference Game,1,2,Away Team,Home Team
+463,December 6 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:27:00,140,2657,Bowling Green,Alabama Huntsville,WCHA Conference Game,9,3,Home Team,Away Team
+464,December 6 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:17:00,130,2689,Michigan Tech,Alaska Anchorage,WCHA Conference Game,2,1,Home Team,Away Team
+465,December 6 2019,Friday,1900-01-01 19:15:00,1900-01-01 21:45:00,150,1997,Providence,UMass Lowell,Hockey East Conference Game,2,3,Away Team,Home Team
+466,December 6 2019,Friday,1900-01-01 20:01:00,1900-01-01 22:26:00,145,5321,Ohio State,Minnesota,Big Ten Conference Game,3,2,Home Team,Away Team
+467,December 6 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:34:00,147,5299,Omaha,Minnesota Duluth,National Collegiate Hockey Conference Conference Game,3,6,Away Team,Home Team
+468,December 6 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:24:00,137,2547,Bemidji State,Alaska,WCHA Conference Game,3,1,Home Team,Away Team
+469,December 6 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:20:00,133,4330,Minnesota State,Lake Superior State,WCHA Conference Game,5,1,Home Team,Away Team
+470,December 6 2019,Friday,1900-01-01 20:37:00,1900-01-01 23:02:00,145,5246,Michigan,Penn State,Big Ten Conference Game,4,1,Home Team,Away Team
+471,December 6 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:13:00,128,1902,Air Force,Holy Cross,Atlantic Hockey Conference Game,7,2,Home Team,Away Team
+472,December 6 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:25:00,140,917,Arizona State,Denver,Non-Conference Game,4,1,Home Team,Away Team
+473,December 7 2019,Saturday,1900-01-01 13:10:00,1900-01-01 15:30:00,140,376,American International,Canisius,Atlantic Hockey Conference Game,3,2,Home Team,Away Team
+474,December 7 2019,Saturday,1900-01-01 15:35:00,1900-01-01 17:57:00,142,2884,UConn,Vermont,Hockey East Conference Game,7,4,Home Team,Away Team
+475,December 7 2019,Saturday,1900-01-01 18:05:00,1900-01-01 20:30:00,145,4033,UMass Lowell,Providence,Hockey East Conference Game,1,4,Away Team,Home Team
+476,December 7 2019,Saturday,1900-01-01 18:07:00,1900-01-01 20:17:00,130,2838,Michigan Tech,Alaska Anchorage,WCHA Conference Game,4,1,Home Team,Away Team
+477,December 7 2019,Saturday,1900-01-01 16:35:00,1900-01-01 19:05:00,150,2800,Arizona State,Denver,Non-Conference Game,2,2,Tie,Tie
+478,December 7 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:30:00,150,5608,Michigan State,Wisconsin,Big Ten Conference Game,5,4,Home Team,Away Team
+479,December 7 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:18:00,138,3158,Clarkson,St. Lawrence,ECAC Hockey Conference Game,3,1,Home Team,Away Team
+480,December 7 2019,Saturday,1900-01-01 19:02:00,1900-01-01 21:21:00,139,2267,Dartmouth,Cornell,ECAC Hockey Conference Game,2,1,Home Team,Away Team
+481,December 7 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:20:00,140,1611,Harvard,Colgate,ECAC Hockey Conference Game,3,4,Away Team,Home Team
+482,December 7 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:15:00,135,2101,Rensselaer,Brown,ECAC Hockey Conference Game,2,1,Home Team,Away Team
+483,December 7 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:15:00,135,1614,Union,Yale,ECAC Hockey Conference Game,0,2,Away Team,Home Team
+484,December 7 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:20:00,135,3681,Boston University,Northeastern,Hockey East Conference Game,6,3,Home Team,Away Team
+485,December 7 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:16:00,131,1748,Merrimack,New Hampshire,Hockey East Conference Game,4,2,Home Team,Away Team
+486,December 7 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:25:00,145,3545,Massachusetts,Maine,Hockey East Conference Game,4,1,Home Team,Away Team
+487,December 7 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:35:00,150,3349,Western Michigan,North Dakota,National Collegiate Hockey Conference Conference Game,2,8,Away Team,Home Team
+488,December 7 2019,Saturday,1900-01-01 19:02:00,1900-01-01 21:21:00,139,1685,Princeton,Colorado College,Non-Conference Game,1,2,Away Team,Home Team
+489,December 7 2019,Saturday,1900-01-01 17:05:00,1900-01-01 19:49:00,164,1608,Air Force,Holy Cross,Atlantic Hockey Conference Game,3,3,Tie,Tie
+490,December 7 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:14:00,129,1872,Army West Point,Bentley,Atlantic Hockey Conference Game,2,4,Away Team,Home Team
+491,December 7 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:20:00,135,2227,RIT,Mercyhurst,Atlantic Hockey Conference Game,3,2,Home Team,Away Team
+492,December 7 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:15:00,130,256,Sacred Heart,Robert Morris,Atlantic Hockey Conference Game,6,0,Home Team,Away Team
+493,December 7 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:22:00,137,1863,Miami,St. Cloud State,National Collegiate Hockey Conference Conference Game,3,5,Away Team,Home Team
+494,December 7 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:47:00,160,2279,Bowling Green,Alabama Huntsville,WCHA Conference Game,2,2,Tie,Tie
+495,December 7 2019,Saturday,1900-01-01 18:07:00,1900-01-01 20:25:00,138,2516,Bemidji State,Alaska,WCHA Conference Game,3,5,Away Team,Home Team
+496,December 7 2019,Saturday,1900-01-01 18:07:00,1900-01-01 20:16:00,129,4452,Minnesota State,Lake Superior State,WCHA Conference Game,2,0,Home Team,Away Team
+497,December 7 2019,Saturday,1900-01-01 19:31:00,1900-01-01 21:51:00,140,5444,Michigan,Penn State,Big Ten Conference Game,1,3,Away Team,Home Team
+498,December 7 2019,Saturday,1900-01-01 20:00:00,1900-01-01 22:27:00,147,3816,Ohio State,Minnesota,Big Ten Conference Game,1,1,Tie,Tie
+499,December 7 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:47:00,160,5312,Omaha,Minnesota Duluth,National Collegiate Hockey Conference Conference Game,3,4,Away Team,Home Team
+500,December 8 2019,Sunday,1900-01-01 16:05:00,1900-01-01 18:10:00,125,142,Sacred Heart,Robert Morris,Atlantic Hockey Conference Game,4,2,Home Team,Away Team
+501,December 8 2019,Sunday,1900-01-01 17:05:00,1900-01-01 19:23:00,138,3985,Notre Dame,Boston College,Non-Conference Game,1,6,Away Team,Home Team
+502,December 8 2019,Sunday,1900-01-01 19:05:00,1900-01-01 21:10:00,125,4074,New Hampshire,Merrimack,Hockey East Conference Game,5,2,Home Team,Away Team
+503,December 10 2019,Tuesday,1900-01-01 19:00:00,1900-01-01 21:10:00,130,410,Brown,Massachusetts,Non-Conference Game,0,4,Away Team,Home Team
+504,December 10 2019,Tuesday,1900-01-01 19:02:00,1900-01-01 21:22:00,140,888,Princeton,American International,Non-Conference Game,2,1,Home Team,Away Team
+505,December 10 2019,Tuesday,1900-01-01 19:00:00,1900-01-01 21:25:00,145,1472,Yale,Maine,Non-Conference Game,3,1,Home Team,Away Team
+506,December 12 2019,Thursday,1900-01-01 19:02:00,1900-01-01 21:42:00,160,1175,Dartmouth,Bentley,Non-Conference Game,2,2,Tie,Tie
+507,December 13 2019,Friday,1900-01-01 13:05:00,1900-01-01 15:20:00,135,219,American International,Niagara,Atlantic Hockey Conference Game,3,1,Home Team,Away Team
+508,December 13 2019,Friday,1900-01-01 19:05:00,1900-01-01 21:31:00,146,3806,Notre Dame,Penn State,Big Ten Conference Game,2,4,Away Team,Home Team
+509,December 13 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:12:00,132,1505,Union,Merrimack,Non-Conference Game,3,2,Home Team,Away Team
+510,December 13 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:30:00,143,920,Ferris State,Alabama Huntsville,WCHA Conference Game,2,2,Tie,Tie
+511,December 13 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:20:00,133,1381,Lake Superior State,Bowling Green,WCHA Conference Game,0,2,Away Team,Home Team
+512,December 13 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:17:00,130,2227,Northern Michigan,Minnesota State,WCHA Conference Game,2,5,Away Team,Home Team
+513,December 13 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:27:00,140,2885,Michigan Tech,Clarkson,Non-Conference Game,2,2,Tie,Tie
+514,December 13 2019,Friday,1900-01-01 19:37:00,1900-01-01 21:58:00,141,3703,St. Cloud State,Omaha,National Collegiate Hockey Conference Conference Game,4,1,Home Team,Away Team
+515,December 13 2019,Friday,1900-01-01 19:07:00,1900-01-01 21:30:00,143,5758,Denver,Colorado College,National Collegiate Hockey Conference Conference Game,3,0,Home Team,Away Team
+516,December 14 2019,Saturday,1900-01-01 13:05:00,1900-01-01 15:18:00,133,467,American International,Niagara,Atlantic Hockey Conference Game,0,0,Tie,Tie
+517,December 14 2019,Saturday,1900-01-01 16:00:00,1900-01-01 18:28:00,148,1764,Northeastern,Dartmouth,Non-Conference Game,6,4,Home Team,Away Team
+518,December 14 2019,Saturday,1900-01-01 17:05:00,1900-01-01 19:15:00,130,429,Robert Morris,Army West Point,Atlantic Hockey Conference Game,0,4,Away Team,Home Team
+519,December 14 2019,Saturday,1900-01-01 18:05:00,1900-01-01 20:22:00,137,4306,Notre Dame,Penn State,Big Ten Conference Game,3,0,Home Team,Away Team
+520,December 14 2019,Saturday,1900-01-01 18:00:00,1900-01-01 20:20:00,140,2246,Northern Michigan,Minnesota State,WCHA Conference Game,4,1,Home Team,Away Team
+521,December 14 2019,Saturday,1900-01-01 18:07:00,1900-01-01 20:42:00,155,3008,Michigan Tech,Clarkson,Non-Conference Game,2,4,Away Team,Home Team
+522,December 14 2019,Saturday,1900-01-01 19:00:00,1900-01-01 21:17:00,137,5306,Michigan State,Arizona State,Non-Conference Game,3,4,Away Team,Home Team
+523,December 14 2019,Saturday,1900-01-01 18:07:00,1900-01-01 20:30:00,143,3977,St. Cloud State,Omaha,National Collegiate Hockey Conference Conference Game,3,4,Away Team,Home Team
+524,December 14 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:35:00,148,1463,Lake Superior State,Bowling Green,WCHA Conference Game,3,2,Home Team,Away Team
+525,December 14 2019,Saturday,1900-01-01 19:37:00,1900-01-01 21:57:00,140,1030,Ferris State,Alabama Huntsville,WCHA Conference Game,3,1,Home Team,Away Team
+526,December 14 2019,Saturday,1900-01-01 19:10:00,1900-01-01 21:30:00,140,4400,Colorado College,Denver,National Collegiate Hockey Conference Conference Game,1,3,Away Team,Home Team
+527,December 15 2019,Sunday,1900-01-01 13:05:00,1900-01-01 15:45:00,160,376,Robert Morris,Army West Point,Atlantic Hockey Conference Game,1,1,Tie,Tie
+528,December 15 2019,Sunday,1900-01-01 17:00:00,1900-01-01 19:20:00,140,5004,Michigan State,Arizona State,Non-Conference Game,1,0,Home Team,Away Team
+529,December 21 2019,Saturday,1900-01-01 19:07:00,1900-01-01 21:37:00,150,5479,Omaha,Arizona State,Non-Conference Game,4,5,Away Team,Home Team
+530,December 22 2019,Sunday,1900-01-01 16:07:00,1900-01-01 18:25:00,138,5294,Omaha,Arizona State,Non-Conference Game,8,4,Home Team,Away Team
+531,December 27 2019,Friday,1900-01-01 19:00:00,1900-01-01 21:19:00,139,4651,Ohio State,Colgate,Non-Conference Game,3,2,Home Team,Away Team
+532,December 28 2019,Saturday,1900-01-01 13:05:00,1900-01-01 15:15:00,130,312,Sacred Heart,Bentley,Atlantic Hockey Conference Game,4,0,Home Team,Away Team
+533,December 28 2019,Saturday,1900-01-01 16:00:00,1900-01-01 18:13:00,133,4490,Ohio State,Colgate,Non-Conference Game,3,0,Home Team,Away Team
+534,December 28 2019,Saturday,1900-01-01 16:02:00,1900-01-01 18:40:00,158,3003,St. Lawrence,UConn,Non-Conference Game,2,2,Tie,Tie
+535,December 28 2019,Saturday,1900-01-01 16:00:00,1900-01-01 18:15:00,135,3397,Providence,Lake Superior State,Non-Conference Game,2,1,Home Team,Away Team
+536,December 28 2019,Saturday,1900-01-01 16:05:00,1900-01-01 18:22:00,137,525,Canisius,Holy Cross,Atlantic Hockey Conference Game,5,2,Home Team,Away Team
+537,December 28 2019,Saturday,1900-01-01 16:00:00,1900-01-01 18:05:00,125,7615,Minnesota State,St. Cloud State,Non-Conference Game,2,7,Away Team,Home Team
+538,December 28 2019,Saturday,1900-01-01 19:03:00,1900-01-01 21:27:00,144,2195,Princeton,Quinnipiac,ECAC Hockey Conference Game,1,3,Away Team,Home Team
+539,December 28 2019,Saturday,1900-01-01 16:00:00,1900-01-01 18:13:00,133,2253,Harvard,Arizona State,Non-Conference Game,4,1,Home Team,Away Team
+540,December 28 2019,Saturday,1900-01-01 19:37:00,1900-01-01 21:53:00,136,3003,Dartmouth,Colorado College,Non-Conference Game,5,2,Home Team,Away Team
+541,December 28 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:17:00,132,0,USA Under-18 Team,North Dakota,Exhibition Game,1,3,Away Team,Home Team
+542,December 28 2019,Saturday,1900-01-01 19:20:00,1900-01-01 21:46:00,146,3397,Vermont,Union,Non-Conference Game,2,0,Home Team,Away Team
+543,December 28 2019,Saturday,1900-01-01 19:05:00,1900-01-01 21:15:00,130,7615,Minnesota,Bemidji State,Non-Conference Game,5,2,Home Team,Away Team
+544,December 29 2019,Sunday,1900-01-01 13:05:00,1900-01-01 15:20:00,135,311,Sacred Heart,Bentley,Atlantic Hockey Conference Game,2,3,Away Team,Home Team
+545,December 29 2019,Sunday,1900-01-01 15:05:00,1900-01-01 17:38:00,153,1324,RIT,Guelph,Exhibition Game,2,2,Tie,Tie
+546,December 29 2019,Sunday,1900-01-01 13:00:00,1900-01-01 15:33:00,153,1744,Harvard,Arizona State,Non-Conference Game,4,4,Tie,Tie
+547,December 29 2019,Sunday,1900-01-01 16:05:00,1900-01-01 18:21:00,136,1903,Merrimack,Minnesota Duluth,Non-Conference Game,1,4,Away Team,Home Team
+548,December 29 2019,Sunday,1900-01-01 16:00:00,1900-01-01 18:30:00,150,3063,Maine,American International,Non-Conference Game,5,1,Home Team,Away Team
+549,December 29 2019,Sunday,1900-01-01 16:02:00,1900-01-01 18:12:00,130,2312,St. Lawrence,Colorado College,Non-Conference Game,3,7,Away Team,Home Team
+550,December 29 2019,Sunday,1900-01-01 16:00:00,1900-01-01 18:30:00,150,2579,Providence,Union,Non-Conference Game,1,1,Tie,Tie
+551,December 29 2019,Sunday,1900-01-01 16:00:00,1900-01-01 18:10:00,130,1629,Yale,McGill,Exhibition Game,4,1,Home Team,Away Team
+552,December 29 2019,Sunday,1900-01-01 16:05:00,1900-01-01 18:18:00,133,472,Canisius,Holy Cross,Atlantic Hockey Conference Game,3,1,Home Team,Away Team
+553,December 29 2019,Sunday,1900-01-01 16:05:00,1900-01-01 18:12:00,127,2614,Army West Point,New Hampshire,Non-Conference Game,5,4,Home Team,Away Team
+554,December 29 2019,Sunday,1900-01-01 17:00:00,1900-01-01 19:18:00,138,2332,Rensselaer,Massachusetts,Non-Conference Game,3,5,Away Team,Home Team
+555,December 29 2019,Sunday,1900-01-01 16:00:00,1900-01-01 18:08:00,128,6772,Minnesota State,Bemidji State,Non-Conference Game,2,0,Home Team,Away Team
+556,December 29 2019,Sunday,1900-01-01 17:05:00,1900-01-01 19:07:00,122,2346,UMass Lowell,CCHL All-Stars,Exhibition Game,3,1,Home Team,Away Team
+557,December 29 2019,Sunday,1900-01-01 19:05:00,1900-01-01 21:25:00,140,2885,Quinnipiac,Princeton,ECAC Hockey Conference Game,4,3,Home Team,Away Team
+558,December 29 2019,Sunday,1900-01-01 19:02:00,1900-01-01 21:28:00,146,2312,Dartmouth,UConn,Non-Conference Game,4,3,Home Team,Away Team
+559,December 29 2019,Sunday,1900-01-01 19:30:00,1900-01-01 21:52:00,142,2579,Vermont,Lake Superior State,Non-Conference Game,2,0,Home Team,Away Team
+560,December 29 2019,Sunday,1900-01-01 19:05:00,1900-01-01 21:24:00,139,6772,Minnesota,St. Cloud State,Non-Conference Game,4,1,Home Team,Away Team
+561,December 30 2019,Monday,1900-01-01 13:07:00,1900-01-01 15:32:00,145,16139,Michigan Tech,Michigan State,Non-Conference Game,4,2,Home Team,Away Team
+562,December 30 2019,Monday,1900-01-01 16:05:00,1900-01-01 18:20:00,135,1707,Merrimack,Minnesota Duluth,Non-Conference Game,1,5,Away Team,Home Team
+563,December 30 2019,Monday,1900-01-01 16:07:00,1900-01-01 18:42:00,155,16139,Michigan,Ferris State,Non-Conference Game,4,1,Home Team,Away Team
+564,December 30 2019,Monday,1900-01-01 19:37:00,1900-01-01 21:55:00,138,3263,Bowling Green,Miami,Non-Conference Game,2,4,Away Team,Home Team
+565,December 31 2019,Tuesday,1900-01-01 11:37:00,1900-01-01 13:52:00,135,10240,Michigan State,Ferris State,Non-Conference Game,5,2,Home Team,Away Team
+566,December 31 2019,Tuesday,1900-01-01 14:37:00,1900-01-01 17:07:00,150,10240,Michigan Tech,Michigan,Non-Conference Game,4,2,Home Team,Away Team
+567,January 3 2020,Friday,1900-01-01 18:00:00,1900-01-01 20:50:00,170,3123,Maine,Omaha,Non-Conference Game,2,2,Tie,Tie
+568,January 3 2020,Friday,1900-01-01 18:07:00,1900-01-01 20:29:00,142,1912,Bowling Green,Northern Michigan,WCHA Conference Game,2,5,Away Team,Home Team
+569,January 3 2020,Friday,1900-01-01 19:00:00,1900-01-01 21:05:00,125,2468,Clarkson,Rensselaer,ECAC Hockey Conference Game,1,3,Away Team,Home Team
+570,January 3 2020,Friday,1900-01-01 19:02:00,1900-01-01 21:15:00,133,1807,Princeton,Dartmouth,ECAC Hockey Conference Game,3,4,Away Team,Home Team
+571,January 3 2020,Friday,1900-01-01 19:05:00,1900-01-01 21:31:00,146,2840,Quinnipiac,Harvard,ECAC Hockey Conference Game,6,1,Home Team,Away Team
+572,January 3 2020,Friday,1900-01-01 19:00:00,1900-01-01 21:28:00,148,421,St. Lawrence,Union,ECAC Hockey Conference Game,4,5,Away Team,Home Team
+573,January 3 2020,Friday,1900-01-01 19:10:00,1900-01-01 21:40:00,150,5247,Notre Dame,Western Michigan,Non-Conference Game,1,1,Tie,Tie
+574,January 3 2020,Friday,1900-01-01 19:07:00,1900-01-01 21:12:00,125,5497,Penn State,Niagara,Non-Conference Game,3,2,Home Team,Away Team
+575,January 3 2020,Friday,1900-01-01 19:00:00,1900-01-01 21:13:00,133,3575,New Hampshire,Yale,Non-Conference Game,4,1,Home Team,Away Team
+576,January 3 2020,Friday,1900-01-01 19:00:00,1900-01-01 21:46:00,166,1679,USA Under-18 Team,Boston University,Exhibition Game,1,3,Away Team,Home Team
+577,January 3 2020,Friday,1900-01-01 19:05:00,1900-01-01 21:24:00,139,668,Holy Cross,Mercyhurst,Atlantic Hockey Conference Game,4,0,Home Team,Away Team
+578,January 3 2020,Friday,1900-01-01 19:05:00,1900-01-01 21:39:00,154,1620,RIT,Canisius,Atlantic Hockey Conference Game,1,1,Tie,Tie
+579,January 3 2020,Friday,1900-01-01 19:05:00,1900-01-01 21:23:00,138,4027,UConn,Northeastern,Hockey East Conference Game,2,5,Away Team,Home Team
+580,January 3 2020,Friday,1900-01-01 17:05:00,1900-01-01 19:30:00,145,3735,Providence,Army West Point,Non-Conference Game,3,1,Home Team,Away Team
+581,January 3 2020,Friday,1900-01-01 19:07:00,1900-01-01 21:17:00,130,2317,Bemidji State,Ferris State,WCHA Conference Game,5,2,Home Team,Away Team
+582,January 3 2020,Friday,1900-01-01 19:07:00,1900-01-01 21:22:00,135,3554,Minnesota State,Alaska,WCHA Conference Game,4,0,Home Team,Away Team
+583,January 3 2020,Friday,1900-01-01 19:37:00,1900-01-01 22:04:00,147,11214,North Dakota,Alabama Huntsville,Non-Conference Game,5,2,Home Team,Away Team
+584,January 3 2020,Friday,1900-01-01 19:05:00,1900-01-01 21:18:00,133,1779,Air Force,American International,Atlantic Hockey Conference Game,4,1,Home Team,Away Team
+585,January 3 2020,Friday,1900-01-01 19:07:00,1900-01-01 21:27:00,140,6017,Denver,Massachusetts,Non-Conference Game,4,2,Home Team,Away Team
+586,January 3 2020,Friday,1900-01-01 20:35:00,1900-01-01 22:52:00,137,3735,Ohio State,Cornell,Non-Conference Game,2,5,Away Team,Home Team
+587,January 4 2020,Saturday,1900-01-01 12:00:00,1900-01-01 14:31:00,151,3900,Maine,Omaha,Non-Conference Game,3,2,Home Team,Away Team
+588,January 4 2020,Saturday,1900-01-01 16:32:00,1900-01-01 18:55:00,143,6572,Boston College,Vermont,Hockey East Conference Game,8,3,Home Team,Away Team
+589,January 4 2020,Saturday,1900-01-01 17:05:00,1900-01-01 19:20:00,135,2142,Merrimack,UMass Lowell,Hockey East Conference Game,1,3,Away Team,Home Team
+590,January 4 2020,Saturday,1900-01-01 18:07:00,1900-01-01 20:24:00,137,5819,Penn State,Niagara,Non-Conference Game,2,0,Home Team,Away Team
+591,January 4 2020,Saturday,1900-01-01 19:00:00,1900-01-01 21:17:00,137,2463,Clarkson,Union,ECAC Hockey Conference Game,2,0,Home Team,Away Team
+592,January 4 2020,Saturday,1900-01-01 19:02:00,1900-01-01 21:22:00,140,2442,Princeton,Harvard,ECAC Hockey Conference Game,3,3,Tie,Tie
+593,January 4 2020,Saturday,1900-01-01 19:05:00,1900-01-01 21:19:00,134,2757,Quinnipiac,Dartmouth,ECAC Hockey Conference Game,5,1,Home Team,Away Team
+594,January 4 2020,Saturday,1900-01-01 19:00:00,1900-01-01 21:13:00,133,502,St. Lawrence,Rensselaer,ECAC Hockey Conference Game,0,3,Away Team,Home Team
+595,January 4 2020,Saturday,1900-01-01 19:05:00,1900-01-01 21:24:00,139,3241,New Hampshire,Brown,Non-Conference Game,5,1,Home Team,Away Team
+596,January 4 2020,Saturday,1900-01-01 17:05:00,1900-01-01 19:14:00,129,1704,Air Force,American International,Atlantic Hockey Conference Game,1,5,Away Team,Home Team
+597,January 4 2020,Saturday,1900-01-01 19:05:00,1900-01-01 20:18:00,73,437,Holy Cross,Mercyhurst,Atlantic Hockey Conference Game,7,2,Home Team,Away Team
+598,January 4 2020,Saturday,1900-01-01 19:07:00,1900-01-01 21:45:00,158,2113,Bowling Green,Northern Michigan,WCHA Conference Game,3,4,Away Team,Home Team
+599,January 4 2020,Saturday,1900-01-01 18:07:00,1900-01-01 20:27:00,140,3127,Bemidji State,Ferris State,WCHA Conference Game,4,1,Home Team,Away Team
+600,January 4 2020,Saturday,1900-01-01 18:07:00,1900-01-01 20:23:00,136,4065,Minnesota State,Alaska,WCHA Conference Game,3,1,Home Team,Away Team
+601,January 4 2020,Saturday,1900-01-01 19:35:00,1900-01-01 21:55:00,140,569,Canisius,RIT,Atlantic Hockey Conference Game,5,3,Home Team,Away Team
+602,January 4 2020,Saturday,1900-01-01 19:07:00,1900-01-01 21:30:00,143,11760,North Dakota,Alabama Huntsville,Non-Conference Game,5,2,Home Team,Away Team
+603,January 4 2020,Saturday,1900-01-01 17:30:00,1900-01-01 20:25:00,175,0,Providence,Cornell,Non-Conference Game,2,2,Tie,Tie
+604,January 4 2020,Saturday,1900-01-01 19:05:00,1900-01-01 21:19:00,134,768,Arizona State,Michigan Tech,Non-Conference Game,4,3,Home Team,Away Team
+605,January 4 2020,Saturday,1900-01-01 17:07:00,1900-01-01 19:21:00,134,725,Alaska Anchorage,Lake Superior State,WCHA Conference Game,2,0,Home Team,Away Team
+606,January 4 2020,Saturday,1900-01-01 19:07:00,1900-01-01 21:47:00,160,5986,Denver,Massachusetts,Non-Conference Game,4,3,Home Team,Away Team
+607,January 4 2020,Saturday,1900-01-01 21:05:00,1900-01-01 23:37:00,152,4769,Army West Point,Ohio State,Non-Conference Game,1,2,Away Team,Home Team

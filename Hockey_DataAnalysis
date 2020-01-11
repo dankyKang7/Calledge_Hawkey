@@ -1,0 +1,52 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Dec 30 21:09:30 2019
+
+@author: admin
+"""
+import os 
+import pandas as pd
+import re
+from bs4 import BeautifulSoup as bs
+import requests
+import urllib.request
+from datetime import datetime as dt
+from dateutil.parser import parse
+import matplotlib.pyplot as plt
+#Create the dataframe
+column_names = ['Date','Day','startTime','endTime','totalTime','attendance',
+                'homeTeam','awayTeam','gameType','homeScore','awayScore',
+                'winner','loser']
+raw_data = hockeyStatsDF(url_list)
+dir1 = '/Users/admin/Blog_Data/Cawledge_Hawkey/Raw_Data/Calledge_Hawkey'
+os.chdir(dir1)
+
+dataframe = pd.DataFrame({
+        'Date':raw_data[0],
+        'Day':raw_data[1],
+        'startTime':raw_data[2], 
+        'endTime':raw_data[3],
+        'totalTime':raw_data[4],
+        'attendance':raw_data[5],
+        'homeTeam':raw_data[6],
+        'awayTeam':raw_data[7],
+        'gameType':raw_data[8],
+        'homeScore':raw_data[9],
+        'awayScore':raw_data[10],
+        'winner':raw_data[11],
+        'loser':raw_data[12]
+        })
+
+pd.DataFrame.to_csv(dataframe,'/Users/admin/Blog_Data/Cawledge_Hawkey/Raw_Data/Calledge_Hawkey/collegiate_data.csv')
+    
+dataframe['attendance'].hist(by=dataframe['gameType'],sharey=True)
+plt.show()
+
+#North Dakota,Wisconsin, Minnesota
+Nodak = dataframe.loc[((dataframe['homeTeam']=='North Dakota') | (dataframe['awayTeam']=='North Dakota'))]
+Sconny = dataframe.loc[dataframe['homeTeam']=='Wisconsin']
+Sota   = dataframe.loc[dataframe['homeTeam']=='Minnesota']
+
+dataframe['totalTime'].hist()
+plt.show()
