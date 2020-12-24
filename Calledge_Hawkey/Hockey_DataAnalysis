@@ -1,0 +1,79 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Dec 30 21:09:30 2019
+
+@author: admin
+"""
+import os 
+import pandas as pd
+import re
+from bs4 import BeautifulSoup as bs
+import requests
+import urllib.request
+from datetime import datetime as dt
+from dateutil.parser import parse
+import matplotlib.pyplot as plt
+#Create the dataframe
+
+#raw_data = []
+#for urlList in url_list_chunks:
+#    data_chunk = hockeyStatsDF(urlList)
+#    raw_data.append(data_chunk)
+with open ('d1m_textscoreurl20142020.txt','r') as bs_urls_1920:
+    url_list=bs_urls_1920.readlines()
+def divide_chunks(l, n): 
+    # looping till length l 
+    for i in range(0, len(l), n):  
+        yield l[i:i + n] 
+  
+
+  
+url_list_chunks = list(divide_chunks(url_list, 100)) 
+
+
+    
+bs_urls_1920.close()
+reqText=[]
+for url_list in url_list_chunks:
+    for url in url_list:
+        print(url)
+        url = url.replace('\n','')
+        reqTest = requests.get(url)
+        reqReceive = reqTest.text
+        reqText.append(bs(reqReceive))
+
+raw_data = hockeyStatsDF(reqText)
+    
+#dir1 = '/Users/admin/Blog_Data/Cawledge_Hawkey/Raw_Data/Calledge_Hawkey'
+#os.chdir(dir1)
+
+   
+dataframe = pd.DataFrame({
+    'Date'            :raw_data[0],
+    'startTime'       :raw_data[1], 
+    'endTime'         :raw_data[2],
+    'totalTime'       :raw_data[3],
+    'attendance'      :raw_data[4],
+    'homeTeam'        :raw_data[5],
+    'awayTeam'        :raw_data[6],
+    'gameType'        :raw_data[7],
+    'winner'          :raw_data[8],
+    'loser'           :raw_data[9],
+    'location'        :raw_data[10],
+    'homeScore'       :raw_data[11],
+    'homegoalsallowed':raw_data[12],
+    'homeemptynetgoalsallowed':raw_data[13],
+    'homeadjustedgoalsallowed':raw_data[14],
+    'homeshotsonGoal':raw_data[15],
+    'awayScore'   :raw_data[16],
+    'awaygoalsallowed':raw_data[17],
+    'awayemptynetgoalsallowed':raw_data[18],
+    'awayadjustedgoalsallowed':raw_data[19],
+    'awayshotsonGoal':raw_data[20]
+    })
+
+
+Hockey_Data_Df = pd.merge(dataframe,arenaDF, how='left', left_on='location',right_on='Team')
+#Us under 18 has the incorrect score value, let's remove
+Hockey_Data_Df.to_csv('D:/Blog/Data_Analysis/Calledge_Hawkey-master/HockeyData.csv')

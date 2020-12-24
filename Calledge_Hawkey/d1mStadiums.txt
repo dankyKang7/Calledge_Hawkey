@@ -1,0 +1,1508 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>List of NCAA Division I ice hockey arenas - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XguzsgpAICMAADWvwJYAAABC","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"List_of_NCAA_Division_I_ice_hockey_arenas","wgTitle":"List of NCAA Division I ice hockey arenas","wgCurRevisionId":926606419,"wgRevisionId":926606419,"wgArticleId":37397886,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Orphaned articles from June 2013","All orphaned articles","Articles needing additional references from January 2019",
+"All articles needing additional references","Articles with multiple maintenance issues","NCAA Division I lists","College ice hockey in the United States lists","College ice hockey venues in the United States","Lists of indoor arenas","Lists of sports venues in the United States","Lists of college sports venues in the United States"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"List_of_NCAA_Division_I_ice_hockey_arenas","wgRelevantArticleId":37397886,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,
+"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q6591042","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse"
+,"ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.11" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/List_of_NCAA_Division_I_ice_hockey_arenas" rel="alternate"/>
+<link href="/w/index.php?title=List_of_NCAA_Division_I_ice_hockey_arenas&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=List_of_NCAA_Division_I_ice_hockey_arenas&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_ice_hockey_arenas" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-List_of_NCAA_Division_I_ice_hockey_arenas rootpage-List_of_NCAA_Division_I_ice_hockey_arenas skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">List of NCAA Division I ice hockey arenas</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="box-Multiple_issues plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" data-file-height="40" data-file-width="40" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" width="40"/></div></td><td class="mbox-text"><div class="mbox-text-span"><div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="https://en.wikipedia.org/w/index.php?title=List_of_NCAA_Division_I_ice_hockey_arenas&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:List_of_NCAA_Division_I_ice_hockey_arenas" title="Talk:List of NCAA Division I ice hockey arenas">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small>
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+<table class="box-Orphan plainlinks metadata ambox ambox-style ambox-Orphan" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a class="image" href="/wiki/File:Wiki_letter_w.svg"><img alt="Wiki letter w.svg" data-file-height="44" data-file-width="44" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/40px-Wiki_letter_w.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/60px-Wiki_letter_w.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/80px-Wiki_letter_w.svg.png 2x" width="40"/></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>is an <a href="/wiki/Wikipedia:Orphan" title="Wikipedia:Orphan">orphan</a>, as no other articles <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:Whatlinkshere&amp;target=List_of_NCAA_Division_I_ice_hockey_arenas&amp;namespace=0">link to it</a></b>. Please <a href="/wiki/Help:Link" title="Help:Link">introduce links</a> to this page from <span class="plainlinks"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special%3ASearch&amp;redirs=1&amp;search=List+of+NCAA+Division+I+ice+hockey+arenas&amp;fulltext=Search&amp;ns0=1&amp;title=Special%3ASearch&amp;advanced=1&amp;fulltext=List+of+NCAA+Division+I+ice+hockey+arenas">related articles</a></span>; try the <a class="external text" href="//edwardbetts.com/find_link?q=List_of_NCAA_Division_I_ice_hockey_arenas" rel="nofollow">Find link tool</a> for suggestions.  <small class="date-container"><i>(<span class="date">June 2013</span>)</i></small></div></td></tr></tbody></table>
+<table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" decoding="async" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=List_of_NCAA_Division_I_ice_hockey_arenas&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br/><small><span class="plainlinks"><i>Find sources:</i> <a class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22List+of+NCAA+Division+I+ice+hockey+arenas%22" rel="nofollow">"List of NCAA Division I ice hockey arenas"</a> – <a class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22List+of+NCAA+Division+I+ice+hockey+arenas%22+-wikipedia" rel="nofollow">news</a> <b>·</b> <a class="external text" href="//www.google.com/search?&amp;q=%22List+of+NCAA+Division+I+ice+hockey+arenas%22+site:news.google.com/newspapers&amp;source=newspapers" rel="nofollow">newspapers</a> <b>·</b> <a class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22List+of+NCAA+Division+I+ice+hockey+arenas%22+-wikipedia" rel="nofollow">books</a> <b>·</b> <a class="external text" href="//scholar.google.com/scholar?q=%22List+of+NCAA+Division+I+ice+hockey+arenas%22" rel="nofollow">scholar</a> <b>·</b> <a class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22List+of+NCAA+Division+I+ice+hockey+arenas%22&amp;acc=on&amp;wc=on" rel="nofollow">JSTOR</a></span></small></span> <small class="date-container"><i>(<span class="date">January 2019</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+</div>
+</div><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>This is a list of arenas that currently serve as the home venue for <b><a href="/wiki/National_Collegiate_Athletic_Association" title="National Collegiate Athletic Association">NCAA</a></b> <b><a href="/wiki/NCAA_Division_I" title="NCAA Division I">Division I</a></b> <b><a href="/wiki/College_ice_hockey" title="College ice hockey">college ice hockey</a></b> teams. Conference affiliations reflect those in the ongoing <b>2018–19 NCAA Division I men's ice hockey</b> and <b>2018–19 NCAA Division I women's ice hockey</b> seasons.  The arenas serve as home venues for both the men's and women's teams except where noted.  In addition, venues which are not located on campus or are used infrequently during the season have been listed.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Current_arenas"><span class="tocnumber">1</span> <span class="toctext">Current arenas</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Additional_arenas"><span class="tocnumber">2</span> <span class="toctext">Additional arenas</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Future_arenas"><span class="tocnumber">3</span> <span class="toctext">Future arenas</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Current_arenas">Current arenas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_NCAA_Division_I_ice_hockey_arenas&amp;action=edit&amp;section=1" title="Edit section: Current arenas">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tbody><tr>
+<td style="background:#9cf;"><b>Off-campus arena</b>
+</td></tr></tbody></table>
+<table class="wikitable sortable">
+<tbody><tr>
+<th class="unsortable">Image</th>
+<th>Arena</th>
+<th>City</th>
+<th>State</th>
+<th>Team</th>
+<th>Conference</th>
+<th>Capacity</th>
+<th>Opened
+</th></tr>
+<tr>
+<td>
+</td>
+<td><a href="/wiki/Cadet_Ice_Arena" title="Cadet Ice Arena">Cadet Ice Arena</a>
+</td>
+<td><a href="/wiki/Colorado_Springs,_Colorado" title="Colorado Springs, Colorado">Colorado Springs</a>
+</td>
+<td><a href="/wiki/Colorado" title="Colorado">CO</a>
+</td>
+<td><a href="/wiki/Air_Force_Falcons_men%27s_ice_hockey" title="Air Force Falcons men's ice hockey">Air Force</a>
+</td>
+<td><a href="/wiki/Atlantic_Hockey" title="Atlantic Hockey">Atlantic Hockey</a>
+</td>
+<td>2,502
+</td>
+<td>1968
+</td></tr>
+<tr style="background:#9cf;">
+<td>
+</td>
+<td><a href="/wiki/Olympia_Ice_Center" title="Olympia Ice Center">Olympia Ice Center</a>
+</td>
+<td><a href="/wiki/West_Springfield,_Massachusetts" title="West Springfield, Massachusetts">West Springfield</a>
+</td>
+<td><a href="/wiki/Massachusetts" title="Massachusetts">MA</a>
+</td>
+<td><a href="/wiki/American_International_Yellow_Jackets_men%27s_ice_hockey" title="American International Yellow Jackets men's ice hockey">American International</a>
+</td>
+<td><a href="/wiki/Atlantic_Hockey" title="Atlantic Hockey">Atlantic Hockey</a>
+</td>
+<td>2,200
+</td>
+<td>1998
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a href="/wiki/Tate_Rink" title="Tate Rink">Tate Rink</a>
+</td>
+<td><a href="/wiki/West_Point,_New_York" title="West Point, New York">West Point</a>
+</td>
+<td><a href="/wiki/New_York_(state)" title="New York (state)">NY</a>
+</td>
+<td><a href="/wiki/Army_Black_Knights_men%27s_ice_hockey" title="Army Black Knights men's ice hockey">Army</a>
+</td>
+<td><a href="/wiki/Atlantic_Hockey" title="Atlantic Hockey">Atlantic Hockey</a>
+</td>
+<td>2,648
+</td>
+<td>1985
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a href="/wiki/Bentley_Arena" title="Bentley Arena">Bentley Arena</a>
+</td>
+<td><a href="/wiki/Waltham,_Massachusetts" title="Waltham, Massachusetts">Waltham</a>
+</td>
+<td><a href="/wiki/Massachusetts" title="Massachusetts">MA</a>
+</td>
+<td><a href="/wiki/Bentley_Falcons_men%27s_ice_hockey" title="Bentley Falcons men's ice hockey">Bentley</a>
+</td>
+<td><a href="/wiki/Atlantic_Hockey" title="Atlantic Hockey">Atlantic Hockey</a>
+</td>
+<td>2,117
+</td>
+<td>2018
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a class="new" href="/w/index.php?title=LECOM_HarborCenter&amp;action=edit&amp;redlink=1" title="LECOM HarborCenter (page does not exist)">LECOM HarborCenter</a>
+</td>
+<td><a href="/wiki/Buffalo,_New_York" title="Buffalo, New York">Buffalo</a>
+</td>
+<td><a href="/wiki/New_York_(state)" title="New York (state)">NY</a>
+</td>
+<td><a href="/wiki/Canisius_Golden_Griffins" title="Canisius Golden Griffins">Canisius</a>
+</td>
+<td><a href="/wiki/Atlantic_Hockey" title="Atlantic Hockey">Atlantic Hockey</a>
+</td>
+<td>1,800
+</td>
+<td>2014
+</td></tr>
+<tr>
+<td><a class="image" href="/wiki/File:HartCenter2.jpg"><img alt="HartCenter2.jpg" data-file-height="1704" data-file-width="2272" decoding="async" height="60" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/HartCenter2.jpg/80px-HartCenter2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/HartCenter2.jpg/120px-HartCenter2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/HartCenter2.jpg/160px-HartCenter2.jpg 2x" width="80"/></a>
+</td>
+<td><a href="/wiki/Hart_Center" title="Hart Center">Hart Center</a>
+</td>
+<td><a href="/wiki/Worcester,_Massachusetts" title="Worcester, Massachusetts">Worcester</a>
+</td>
+<td><a href="/wiki/Massachusetts" title="Massachusetts">MA</a>
+</td>
+<td><a href="/wiki/Holy_Cross_Crusaders" title="Holy Cross Crusaders">Holy Cross</a>
+</td>
+<td><a href="/wiki/Atlantic_Hockey" title="Atlantic Hockey">Atlantic Hockey</a> (men)<br/><a href="/wiki/Hockey_East" title="Hockey East">Hockey East</a> (women)
+</td>
+<td>1,400
+</td>
+<td>1975
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a href="/wiki/Mercyhurst_Ice_Center" title="Mercyhurst Ice Center">Mercyhurst Ice Center</a>
+</td>
+<td><a href="/wiki/Erie,_Pennsylvania" title="Erie, Pennsylvania">Erie</a>
+</td>
+<td><a href="/wiki/Pennsylvania" title="Pennsylvania">PA</a>
+</td>
+<td><a href="/wiki/Mercyhurst_Lakers_men%27s_ice_hockey" title="Mercyhurst Lakers men's ice hockey">Mercyhurst men</a> &amp; <a href="/wiki/Mercyhurst_Lakers_women%27s_ice_hockey" title="Mercyhurst Lakers women's ice hockey">women</a>
+</td>
+<td><a href="/wiki/Atlantic_Hockey" title="Atlantic Hockey">Atlantic Hockey</a> (men)<br/> <a href="/wiki/College_Hockey_America" title="College Hockey America">CHA</a> (women)
+</td>
+<td>1,500
+</td>
+<td>1991
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a href="/wiki/Dwyer_Arena" title="Dwyer Arena">Dwyer Arena</a>
+</td>
+<td><a href="/wiki/Lewiston_(town),_New_York" title="Lewiston (town), New York">Lewiston</a>
+</td>
+<td><a href="/wiki/New_York_(state)" title="New York (state)">NY</a>
+</td>
+<td><a href="/wiki/Niagara_Purple_Eagles_men%27s_ice_hockey" title="Niagara Purple Eagles men's ice hockey">Niagara</a>
+</td>
+<td><a href="/wiki/Atlantic_Hockey" title="Atlantic Hockey">Atlantic Hockey</a>
+</td>
+<td>2,100
+</td>
+<td>1996
+</td></tr>
+<tr style="background:#9cf;">
+<td>
+</td>
+<td><a class="mw-redirect" href="/wiki/84_Lumber_Arena" title="84 Lumber Arena">84 Lumber Arena</a>
+</td>
+<td><a class="mw-redirect" href="/wiki/Neville_Township,_Allegheny_County,_Pennsylvania" title="Neville Township, Allegheny County, Pennsylvania">Neville Township</a>
+</td>
+<td><a href="/wiki/Pennsylvania" title="Pennsylvania">PA</a>
+</td>
+<td><a href="/wiki/Robert_Morris_Colonials_men%27s_ice_hockey" title="Robert Morris Colonials men's ice hockey">Robert Morris men</a> &amp; <a href="/wiki/Robert_Morris_Colonials_women%27s_ice_hockey" title="Robert Morris Colonials women's ice hockey">women</a>
+</td>
+<td><a href="/wiki/Atlantic_Hockey" title="Atlantic Hockey">Atlantic Hockey</a> <br/>Men <br/> <a href="/wiki/College_Hockey_America" title="College Hockey America">CHA</a> <br/>Women
+</td>
+<td>1,200
+</td>
+<td>1998
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a href="/wiki/Gene_Polisseni_Center" title="Gene Polisseni Center">Gene Polisseni Center</a>
+</td>
+<td><a href="/wiki/Rochester,_New_York" title="Rochester, New York">Rochester</a>
+</td>
+<td><a href="/wiki/New_York_(state)" title="New York (state)">NY</a>
+</td>
+<td><a href="/wiki/RIT_Tigers_men%27s_ice_hockey" title="RIT Tigers men's ice hockey">RIT men</a> &amp; <a href="/wiki/RIT_Tigers_women%27s_ice_hockey" title="RIT Tigers women's ice hockey">women</a>
+</td>
+<td><a href="/wiki/Atlantic_Hockey" title="Atlantic Hockey">Atlantic Hockey</a> <br/>Men <br/><a href="/wiki/College_Hockey_America" title="College Hockey America">CHA</a> <br/>Women
+</td>
+<td>4,300
+</td>
+<td>2014
+</td></tr>
+<tr style="background:#9cf;">
+<td>
+</td>
+<td><a href="/wiki/Milford_Ice_Pavilion" title="Milford Ice Pavilion">Milford Ice Pavilion</a>
+</td>
+<td><a href="/wiki/Milford,_Connecticut" title="Milford, Connecticut">Milford</a>
+</td>
+<td><a href="/wiki/Connecticut" title="Connecticut">CT</a>
+</td>
+<td><a href="/wiki/Sacred_Heart_Pioneers_men%27s_ice_hockey" title="Sacred Heart Pioneers men's ice hockey">Sacred Heart men</a> &amp; <a class="mw-redirect" href="/wiki/Sacred_Heart_Pioneers_women%27s_ice_hockey" title="Sacred Heart Pioneers women's ice hockey">women</a>
+</td>
+<td><a href="/wiki/Atlantic_Hockey" title="Atlantic Hockey">Atlantic Hockey</a> <br/>Men <br/> <a href="/wiki/NCAA_Division_I_independent_schools_(ice_hockey)" title="NCAA Division I independent schools (ice hockey)">Independent</a> <br/>Women
+</td>
+<td>1,000
+</td>
+<td>1975
+</td></tr>
+<tr>
+<td><a class="image" href="/wiki/File:YostIceArena.jpg"><img alt="YostIceArena.jpg" data-file-height="2192" data-file-width="3412" decoding="async" height="51" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/YostIceArena.jpg/80px-YostIceArena.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/YostIceArena.jpg/120px-YostIceArena.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/YostIceArena.jpg/160px-YostIceArena.jpg 2x" width="80"/></a>
+</td>
+<td><a href="/wiki/Yost_Ice_Arena" title="Yost Ice Arena">Yost Ice Arena</a>
+</td>
+<td><a href="/wiki/Ann_Arbor,_Michigan" title="Ann Arbor, Michigan">Ann Arbor</a>
+</td>
+<td><a href="/wiki/Michigan" title="Michigan">MI</a>
+</td>
+<td><a href="/wiki/Michigan_Wolverines_men%27s_ice_hockey" title="Michigan Wolverines men's ice hockey">Michigan</a>
+</td>
+<td><a href="/wiki/Big_Ten_Conference" title="Big Ten Conference">Big Ten</a>
+</td>
+<td>5,800
+</td>
+<td>1923
+</td></tr>
+<tr>
+<td><a class="image" href="/wiki/File:MSU_Munn_Ice_Arena.jpg"><img alt="MSU Munn Ice Arena.jpg" data-file-height="548" data-file-width="949" decoding="async" height="46" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/MSU_Munn_Ice_Arena.jpg/80px-MSU_Munn_Ice_Arena.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/MSU_Munn_Ice_Arena.jpg/120px-MSU_Munn_Ice_Arena.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/MSU_Munn_Ice_Arena.jpg/160px-MSU_Munn_Ice_Arena.jpg 2x" width="80"/></a>
+</td>
+<td><a href="/wiki/Munn_Ice_Arena" title="Munn Ice Arena">Munn Ice Arena</a>
+</td>
+<td><a href="/wiki/East_Lansing,_Michigan" title="East Lansing, Michigan">East Lansing</a>
+</td>
+<td><a href="/wiki/Michigan" title="Michigan">MI</a>
+</td>
+<td><a href="/wiki/Michigan_State_Spartans_men%27s_ice_hockey" title="Michigan State Spartans men's ice hockey">Michigan State</a>
+</td>
+<td><a href="/wiki/Big_Ten_Conference" title="Big Ten Conference">Big Ten</a>
+</td>
+<td>6,470
+</td>
+<td>1974
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a class="mw-redirect" href="/wiki/Mariucci_Arena" title="Mariucci Arena">Mariucci Arena</a>
+</td>
+<td><a href="/wiki/Minneapolis" title="Minneapolis">Minneapolis</a>
+</td>
+<td><a href="/wiki/Minnesota" title="Minnesota">MN</a>
+</td>
+<td><a href="/wiki/Minnesota_Golden_Gophers_men%27s_ice_hockey" title="Minnesota Golden Gophers men's ice hockey">Minnesota men</a>
+</td>
+<td><a href="/wiki/Big_Ten_Conference" title="Big Ten Conference">Big Ten</a>
+</td>
+<td>10,000
+</td>
+<td>1993
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a href="/wiki/Compton_Family_Ice_Arena" title="Compton Family Ice Arena">Compton Family Ice Arena</a>
+</td>
+<td><a href="/wiki/Notre_Dame,_Indiana" title="Notre Dame, Indiana">Notre Dame</a>
+</td>
+<td><a href="/wiki/Indiana" title="Indiana">IN</a>
+</td>
+<td><a href="/wiki/Notre_Dame_Fighting_Irish_men%27s_ice_hockey" title="Notre Dame Fighting Irish men's ice hockey">Notre Dame</a>
+</td>
+<td><a href="/wiki/Big_Ten_Conference" title="Big Ten Conference">Big Ten Conference </a>
+</td>
+<td>5,022
+</td>
+<td>2011
+</td></tr>
+<tr>
+<td><a class="image" href="/wiki/File:JSC_CIMG9590.JPG"><img alt="JSC CIMG9590.JPG" data-file-height="1200" data-file-width="1600" decoding="async" height="60" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/JSC_CIMG9590.JPG/80px-JSC_CIMG9590.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/JSC_CIMG9590.JPG/120px-JSC_CIMG9590.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/JSC_CIMG9590.JPG/160px-JSC_CIMG9590.JPG 2x" width="80"/></a>
+</td>
+<td><a href="/wiki/Value_City_Arena" title="Value City Arena">Value City Arena</a>
+</td>
+<td><a href="/wiki/Columbus,_Ohio" title="Columbus, Ohio">Columbus</a>
+</td>
+<td><a href="/wiki/Ohio" title="Ohio">OH</a>
+</td>
+<td><a href="/wiki/Ohio_State_Buckeyes_men%27s_ice_hockey" title="Ohio State Buckeyes men's ice hockey">Ohio State men</a>
+</td>
+<td><a href="/wiki/Big_Ten_Conference" title="Big Ten Conference">Big Ten</a>
+</td>
+<td>17,500
+</td>
+<td>1998
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a href="/wiki/Pegula_Ice_Arena" title="Pegula Ice Arena">Pegula Ice Arena</a>
+</td>
+<td><a href="/wiki/University_Park,_Pennsylvania" title="University Park, Pennsylvania">University Park</a>
+</td>
+<td><a href="/wiki/Pennsylvania" title="Pennsylvania">PA</a>
+</td>
+<td><a href="/wiki/Penn_State_Nittany_Lions_men%27s_ice_hockey" title="Penn State Nittany Lions men's ice hockey">Penn State men</a> &amp; <a href="/wiki/Penn_State_Nittany_Lions_women%27s_ice_hockey" title="Penn State Nittany Lions women's ice hockey">women</a>
+</td>
+<td><a href="/wiki/Big_Ten_Conference" title="Big Ten Conference">Big Ten</a> (men)<br/> <a href="/wiki/College_Hockey_America" title="College Hockey America">CHA</a> (women)
+</td>
+<td>6,000
+</td>
+<td>2013
+</td></tr>
+<tr>
+<td><a class="image" href="/wiki/File:Kohl_Center.jpg"><img alt="Kohl Center.jpg" data-file-height="768" data-file-width="1284" decoding="async" height="48" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kohl_Center.jpg/80px-Kohl_Center.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kohl_Center.jpg/120px-Kohl_Center.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kohl_Center.jpg/160px-Kohl_Center.jpg 2x" width="80"/></a>
+</td>
+<td><a href="/wiki/Kohl_Center" title="Kohl Center">Kohl Center</a>
+</td>
+<td><a href="/wiki/Madison,_Wisconsin" title="Madison, Wisconsin">Madison</a>
+</td>
+<td><a href="/wiki/Wisconsin" title="Wisconsin">WI</a>
+</td>
+<td><a href="/wiki/Wisconsin_Badgers_men%27s_ice_hockey" title="Wisconsin Badgers men's ice hockey">Wisconsin men</a>
+</td>
+<td><a href="/wiki/Big_Ten_Conference" title="Big Ten Conference">Big Ten</a>
+</td>
+<td>15,325
+</td>
+<td>1998
+</td></tr>
+<tr>
+<td><a class="image" href="/wiki/File:LindenwoodIceArena2011.jpg"><img alt="LindenwoodIceArena2011.jpg" data-file-height="843" data-file-width="1600" decoding="async" height="42" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/LindenwoodIceArena2011.jpg/80px-LindenwoodIceArena2011.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/LindenwoodIceArena2011.jpg/120px-LindenwoodIceArena2011.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/LindenwoodIceArena2011.jpg/160px-LindenwoodIceArena2011.jpg 2x" width="80"/></a>
+</td>
+<td><a class="mw-redirect" href="/wiki/Lindenwood_Ice_Arena" title="Lindenwood Ice Arena">Lindenwood Ice Arena</a>
+</td>
+<td><a href="/wiki/Wentzville,_Missouri" title="Wentzville, Missouri">Wentzville</a>
+</td>
+<td><a href="/wiki/Missouri" title="Missouri">MO</a>
+</td>
+<td><a href="/wiki/Lindenwood_Lady_Lions_ice_hockey" title="Lindenwood Lady Lions ice hockey">Lindenwood women</a>
+</td>
+<td><a href="/wiki/College_Hockey_America" title="College Hockey America">CHA</a>
+</td>
+<td>1,000
+</td>
+<td>1998
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a href="/wiki/Tennity_Ice_Skating_Pavilion" title="Tennity Ice Skating Pavilion">Tennity Ice Skating Pavilion</a>
+</td>
+<td><a href="/wiki/Syracuse,_New_York" title="Syracuse, New York">Syracuse</a>
+</td>
+<td><a href="/wiki/New_York_(state)" title="New York (state)">NY</a>
+</td>
+<td><a href="/wiki/Syracuse_Orange_women%27s_ice_hockey" title="Syracuse Orange women's ice hockey">Syracuse women</a>
+</td>
+<td><a href="/wiki/College_Hockey_America" title="College Hockey America">CHA</a>
+</td>
+<td>350
+</td>
+<td>2000
+</td></tr>
+<tr>
+<td><a class="image" href="/wiki/File:Meehan_Outside.JPG"><img alt="Meehan Outside.JPG" data-file-height="500" data-file-width="1250" decoding="async" height="32" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Meehan_Outside.JPG/80px-Meehan_Outside.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Meehan_Outside.JPG/120px-Meehan_Outside.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Meehan_Outside.JPG/160px-Meehan_Outside.JPG 2x" width="80"/></a>
+</td>
+<td><a href="/wiki/Meehan_Auditorium" title="Meehan Auditorium">Meehan Auditorium</a>
+</td>
+<td><a href="/wiki/Providence,_Rhode_Island" title="Providence, Rhode Island">Providence</a>
+</td>
+<td><a href="/wiki/Rhode_Island" title="Rhode Island">RI</a>
+</td>
+<td><a href="/wiki/Brown_Bears_men%27s_ice_hockey" title="Brown Bears men's ice hockey">Brown men</a> &amp; <a href="/wiki/Brown_Bears_women%27s_ice_hockey" title="Brown Bears women's ice hockey">women</a>
+</td>
+<td><a href="/wiki/ECAC_Hockey" title="ECAC Hockey">ECAC</a>
+</td>
+<td>3,100
+</td>
+<td>1961
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a href="/wiki/Cheel_Arena" title="Cheel Arena">Cheel Arena</a>
+</td>
+<td><a href="/wiki/Potsdam_(village),_New_York" title="Potsdam (village), New York">Potsdam</a>
+</td>
+<td><a href="/wiki/New_York_(state)" title="New York (state)">NY</a>
+</td>
+<td><a href="/wiki/Clarkson_Golden_Knights_men%27s_ice_hockey" title="Clarkson Golden Knights men's ice hockey">Clarkson men</a> &amp; <a href="/wiki/Clarkson_Golden_Knights_women%27s_ice_hockey" title="Clarkson Golden Knights women's ice hockey">women</a>
+</td>
+<td><a href="/wiki/ECAC_Hockey" title="ECAC Hockey">ECAC</a>
+</td>
+<td>3,000
+</td>
+<td>1991
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a class="mw-redirect" href="/wiki/Starr_Arena" title="Starr Arena">Starr Arena</a>
+</td>
+<td><a href="/wiki/Hamilton_(village),_New_York" title="Hamilton (village), New York">Hamilton</a>
+</td>
+<td><a href="/wiki/New_York_(state)" title="New York (state)">NY</a>
+</td>
+<td><a href="/wiki/Colgate_Raiders_men%27s_ice_hockey" title="Colgate Raiders men's ice hockey">Colgate men</a> &amp; <a href="/wiki/Colgate_Raiders_women%27s_ice_hockey" title="Colgate Raiders women's ice hockey">women</a>
+</td>
+<td><a href="/wiki/ECAC_Hockey" title="ECAC Hockey">ECAC</a>
+</td>
+<td>2,600
+</td>
+<td>1959
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a href="/wiki/Lynah_Rink" title="Lynah Rink">Lynah Rink</a>
+</td>
+<td><a href="/wiki/Ithaca,_New_York" title="Ithaca, New York">Ithaca</a>
+</td>
+<td><a href="/wiki/New_York_(state)" title="New York (state)">NY</a>
+</td>
+<td><a href="/wiki/Cornell_Big_Red_men%27s_ice_hockey" title="Cornell Big Red men's ice hockey">Cornell men</a> &amp; <a href="/wiki/Cornell_Big_Red_women%27s_ice_hockey" title="Cornell Big Red women's ice hockey">women</a>
+</td>
+<td><a href="/wiki/ECAC_Hockey" title="ECAC Hockey">ECAC</a>
+</td>
+<td>4,267
+</td>
+<td>1967
+</td></tr>
+<tr>
+<td><a class="image" href="/wiki/File:Dartmouth_College_campus_2007-10-03_Thompson_Arena.JPG"><img alt="Dartmouth College campus 2007-10-03 Thompson Arena.JPG" data-file-height="2112" data-file-width="2816" decoding="async" height="60" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Dartmouth_College_campus_2007-10-03_Thompson_Arena.JPG/80px-Dartmouth_College_campus_2007-10-03_Thompson_Arena.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Dartmouth_College_campus_2007-10-03_Thompson_Arena.JPG/120px-Dartmouth_College_campus_2007-10-03_Thompson_Arena.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Dartmouth_College_campus_2007-10-03_Thompson_Arena.JPG/160px-Dartmouth_College_campus_2007-10-03_Thompson_Arena.JPG 2x" width="80"/></a>
+</td>
+<td><a href="/wiki/Thompson_Arena" title="Thompson Arena">Thompson Arena</a>
+</td>
+<td><a href="/wiki/Hanover,_New_Hampshire" title="Hanover, New Hampshire">Hanover</a>
+</td>
+<td><a href="/wiki/New_Hampshire" title="New Hampshire">NH</a>
+</td>
+<td><a href="/wiki/Dartmouth_Big_Green_men%27s_ice_hockey" title="Dartmouth Big Green men's ice hockey">Dartmouth men</a> &amp; <a href="/wiki/Dartmouth_Big_Green_women%27s_ice_hockey" title="Dartmouth Big Green women's ice hockey">women</a>
+</td>
+<td><a href="/wiki/ECAC_Hockey" title="ECAC Hockey">ECAC</a>
+</td>
+<td>3,500
+</td>
+<td>1975
+</td></tr>
+<tr>
+<td><a class="image" href="/wiki/File:Harvard-BrightHockey1.JPG"><img alt="Harvard-BrightHockey1.JPG" data-file-height="1200" data-file-width="1600" decoding="async" height="60" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Harvard-BrightHockey1.JPG/80px-Harvard-BrightHockey1.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Harvard-BrightHockey1.JPG/120px-Harvard-BrightHockey1.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/Harvard-BrightHockey1.JPG/160px-Harvard-BrightHockey1.JPG 2x" width="80"/></a>
+</td>
+<td><a class="mw-redirect" href="/wiki/Bright_Hockey_Center" title="Bright Hockey Center">Bright Hockey Center</a>
+</td>
+<td><a href="/wiki/Boston" title="Boston">Boston</a>
+</td>
+<td><a href="/wiki/Massachusetts" title="Massachusetts">MA</a>
+</td>
+<td><a href="/wiki/Harvard_Crimson_men%27s_ice_hockey" title="Harvard Crimson men's ice hockey">Harvard men</a> &amp; <a href="/wiki/Harvard_Crimson_women%27s_ice_hockey" title="Harvard Crimson women's ice hockey">women</a>
+</td>
+<td><a href="/wiki/ECAC_Hockey" title="ECAC Hockey">ECAC</a>
+</td>
+<td>2,850
+</td>
+<td>1956
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a href="/wiki/Hobey_Baker_Memorial_Rink" title="Hobey Baker Memorial Rink">Hobey Baker Memorial Rink</a>
+</td>
+<td><a href="/wiki/Princeton,_New_Jersey" title="Princeton, New Jersey">Princeton</a>
+</td>
+<td><a href="/wiki/New_Jersey" title="New Jersey">NJ</a>
+</td>
+<td><a href="/wiki/Princeton_Tigers_men%27s_ice_hockey" title="Princeton Tigers men's ice hockey">Princeton men</a> &amp; <a href="/wiki/Princeton_Tigers_women%27s_ice_hockey" title="Princeton Tigers women's ice hockey">women</a>
+</td>
+<td><a href="/wiki/ECAC_Hockey" title="ECAC Hockey">ECAC</a>
+</td>
+<td>2,092
+</td>
+<td>1923
+</td></tr>
+<tr>
+<td><a class="image" href="/wiki/File:TDBankNorthCenter.jpg"><img alt="TDBankNorthCenter.jpg" data-file-height="1254" data-file-width="2186" decoding="async" height="46" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/TDBankNorthCenter.jpg/80px-TDBankNorthCenter.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/TDBankNorthCenter.jpg/120px-TDBankNorthCenter.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/TDBankNorthCenter.jpg/160px-TDBankNorthCenter.jpg 2x" width="80"/></a>
+</td>
+<td><a class="mw-redirect" href="/wiki/TD_Bank_Sports_Center" title="TD Bank Sports Center">TD Bank Sports Center</a>
+</td>
+<td><a href="/wiki/Hamden,_Connecticut" title="Hamden, Connecticut">Hamden</a>
+</td>
+<td><a href="/wiki/Connecticut" title="Connecticut">CT</a>
+</td>
+<td><a href="/wiki/Quinnipiac_Bobcats_men%27s_ice_hockey" title="Quinnipiac Bobcats men's ice hockey">Quinnipiac men</a> &amp; <a href="/wiki/Quinnipiac_Bobcats_women%27s_ice_hockey" title="Quinnipiac Bobcats women's ice hockey">women</a>
+</td>
+<td><a href="/wiki/ECAC_Hockey" title="ECAC Hockey">ECAC</a>
+</td>
+<td>3,386
+</td>
+<td>2007
+</td></tr>
+<tr>
+<td><a class="image" href="/wiki/File:RPIHoustonFieldHouse.jpg"><img alt="RPIHoustonFieldHouse.jpg" data-file-height="2592" data-file-width="3872" decoding="async" height="54" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/RPIHoustonFieldHouse.jpg/80px-RPIHoustonFieldHouse.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/RPIHoustonFieldHouse.jpg/120px-RPIHoustonFieldHouse.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/RPIHoustonFieldHouse.jpg/160px-RPIHoustonFieldHouse.jpg 2x" width="80"/></a>
+</td>
+<td><a href="/wiki/Houston_Field_House" title="Houston Field House">Houston Field House</a>
+</td>
+<td><a href="/wiki/Troy,_New_York" title="Troy, New York">Troy</a>
+</td>
+<td><a href="/wiki/New_York_(state)" title="New York (state)">NY</a>
+</td>
+<td><a href="/wiki/RPI_Engineers_men%27s_ice_hockey" title="RPI Engineers men's ice hockey">RPI men</a> &amp; <a href="/wiki/RPI_Engineers_women%27s_ice_hockey" title="RPI Engineers women's ice hockey">women</a>
+</td>
+<td><a href="/wiki/ECAC_Hockey" title="ECAC Hockey">ECAC</a>
+</td>
+<td>4,780
+</td>
+<td>1949
+</td></tr>
+<tr>
+<td><a class="image" href="/wiki/File:Appleton_arena.jpeg"><img alt="Appleton arena.jpeg" data-file-height="246" data-file-width="326" decoding="async" height="60" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Appleton_arena.jpeg/80px-Appleton_arena.jpeg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Appleton_arena.jpeg/120px-Appleton_arena.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Appleton_arena.jpeg/160px-Appleton_arena.jpeg 2x" width="80"/></a>
+</td>
+<td><a href="/wiki/Appleton_Arena" title="Appleton Arena">Appleton Arena</a>
+</td>
+<td><a href="/wiki/Canton_(village),_New_York" title="Canton (village), New York">Canton</a>
+</td>
+<td><a href="/wiki/New_York_(state)" title="New York (state)">NY</a>
+</td>
+<td><a href="/wiki/St._Lawrence_Saints_men%27s_ice_hockey" title="St. Lawrence Saints men's ice hockey">St. Lawrence men</a> &amp; <a href="/wiki/St._Lawrence_Saints_women%27s_ice_hockey" title="St. Lawrence Saints women's ice hockey">women</a>
+</td>
+<td><a href="/wiki/ECAC_Hockey" title="ECAC Hockey">ECAC</a>
+</td>
+<td>3,000
+</td>
+<td>1951
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a href="/wiki/Achilles_Rink" title="Achilles Rink">Achilles Rink</a>
+</td>
+<td><a href="/wiki/Schenectady,_New_York" title="Schenectady, New York">Schenectady</a>
+</td>
+<td><a href="/wiki/New_York_(state)" title="New York (state)">NY</a>
+</td>
+<td><a href="/wiki/Union_Dutchmen_ice_hockey" title="Union Dutchmen ice hockey">Union men</a> &amp; <a href="/wiki/Union_Dutchwomen_ice_hockey" title="Union Dutchwomen ice hockey">women</a>
+</td>
+<td><a href="/wiki/ECAC_Hockey" title="ECAC Hockey">ECAC</a>
+</td>
+<td>2,275
+</td>
+<td>1975
+</td></tr>
+<tr>
+<td><a class="image" href="/wiki/File:Yale_Ingalls_Rink.jpg"><img alt="Yale Ingalls Rink.jpg" data-file-height="850" data-file-width="1588" decoding="async" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Yale_Ingalls_Rink.jpg/80px-Yale_Ingalls_Rink.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Yale_Ingalls_Rink.jpg/120px-Yale_Ingalls_Rink.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/62/Yale_Ingalls_Rink.jpg/160px-Yale_Ingalls_Rink.jpg 2x" width="80"/></a>
+</td>
+<td><a href="/wiki/Ingalls_Rink" title="Ingalls Rink">Ingalls Rink</a>
+</td>
+<td><a href="/wiki/New_Haven,_Connecticut" title="New Haven, Connecticut">New Haven</a>
+</td>
+<td><a href="/wiki/Connecticut" title="Connecticut">CT</a>
+</td>
+<td><a href="/wiki/Yale_Bulldogs_men%27s_ice_hockey" title="Yale Bulldogs men's ice hockey">Yale men</a> &amp; <a href="/wiki/Yale_Bulldogs_women%27s_ice_hockey" title="Yale Bulldogs women's ice hockey">women</a>
+</td>
+<td><a href="/wiki/ECAC_Hockey" title="ECAC Hockey">ECAC</a>
+</td>
+<td>3,500
+</td>
+<td>1958
+</td></tr>
+<tr>
+<td><a class="image" href="/wiki/File:BC-ConteForum1.JPG"><img alt="BC-ConteForum1.JPG" data-file-height="1200" data-file-width="1600" decoding="async" height="60" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/BC-ConteForum1.JPG/80px-BC-ConteForum1.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/BC-ConteForum1.JPG/120px-BC-ConteForum1.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/BC-ConteForum1.JPG/160px-BC-ConteForum1.JPG 2x" width="80"/></a>
+</td>
+<td><a href="/wiki/Conte_Forum" title="Conte Forum">Conte Forum</a>
+</td>
+<td><a href="/wiki/Chestnut_Hill,_Massachusetts" title="Chestnut Hill, Massachusetts">Chestnut Hill</a>
+</td>
+<td><a href="/wiki/Massachusetts" title="Massachusetts">MA</a>
+</td>
+<td><a href="/wiki/Boston_College_Eagles_men%27s_ice_hockey" title="Boston College Eagles men's ice hockey">Boston College men</a> &amp; <a href="/wiki/Boston_College_Eagles_women%27s_ice_hockey" title="Boston College Eagles women's ice hockey">women</a>
+</td>
+<td><a href="/wiki/Hockey_East" title="Hockey East">Hockey East</a>
+</td>
+<td>7,884
+</td>
+<td>1988
+</td></tr>
+<tr>
+<td><a class="image" href="/wiki/File:Agganis_Arena_Exterior.jpg"><img alt="Agganis Arena Exterior.jpg" data-file-height="2880" data-file-width="2160" decoding="async" height="107" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Agganis_Arena_Exterior.jpg/80px-Agganis_Arena_Exterior.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Agganis_Arena_Exterior.jpg/120px-Agganis_Arena_Exterior.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Agganis_Arena_Exterior.jpg/160px-Agganis_Arena_Exterior.jpg 2x" width="80"/></a>
+</td>
+<td><a href="/wiki/Agganis_Arena" title="Agganis Arena">Agganis Arena</a>
+</td>
+<td><a href="/wiki/Boston" title="Boston">Boston</a>
+</td>
+<td><a href="/wiki/Massachusetts" title="Massachusetts">MA</a>
+</td>
+<td><a href="/wiki/Boston_University_Terriers_men%27s_ice_hockey" title="Boston University Terriers men's ice hockey">Boston University men</a>
+</td>
+<td><a href="/wiki/Hockey_East" title="Hockey East">Hockey East</a>
+</td>
+<td>6,150
+</td>
+<td>2005
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a href="/wiki/Walter_Brown_Arena" title="Walter Brown Arena">Walter Brown Arena</a>
+</td>
+<td><a href="/wiki/Boston" title="Boston">Boston</a>
+</td>
+<td><a href="/wiki/Massachusetts" title="Massachusetts">MA</a>
+</td>
+<td><a href="/wiki/Boston_University_Terriers_women%27s_ice_hockey" title="Boston University Terriers women's ice hockey">Boston University women</a>
+</td>
+<td><a href="/wiki/Hockey_East" title="Hockey East">Hockey East</a>
+</td>
+<td>3,806
+</td>
+<td>1971
+</td></tr>
+<tr style="background:#9cf;">
+<td>
+</td>
+<td><a href="/wiki/XL_Center" title="XL Center">XL Center</a>
+</td>
+<td><a href="/wiki/Hartford,_Connecticut" title="Hartford, Connecticut">Hartford</a>
+</td>
+<td><a href="/wiki/Connecticut" title="Connecticut">CT</a>
+</td>
+<td><a class="mw-redirect" href="/wiki/Connecticut_Huskies_men%27s_ice_hockey" title="Connecticut Huskies men's ice hockey">Connecticut men</a>
+</td>
+<td><a href="/wiki/Hockey_East" title="Hockey East">Hockey East</a>
+</td>
+<td>15,564
+</td>
+<td>1980
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a href="/wiki/Mark_Edward_Freitas_Ice_Forum" title="Mark Edward Freitas Ice Forum">Mark Edward Freitas Ice Forum</a>
+</td>
+<td><a href="/wiki/Storrs,_Connecticut" title="Storrs, Connecticut">Storrs</a>
+</td>
+<td><a href="/wiki/Connecticut" title="Connecticut">CT</a>
+</td>
+<td><a class="mw-redirect" href="/wiki/Connecticut_Huskies_women%27s_ice_hockey" title="Connecticut Huskies women's ice hockey">Connecticut women</a>
+</td>
+<td><a href="/wiki/Hockey_East" title="Hockey East">Hockey East</a>
+</td>
+<td>2,000
+</td>
+<td>1996
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a href="/wiki/Alfond_Arena" title="Alfond Arena">Alfond Arena</a>
+</td>
+<td><a href="/wiki/Orono,_Maine" title="Orono, Maine">Orono</a>
+</td>
+<td><a href="/wiki/Maine" title="Maine">ME</a>
+</td>
+<td><a href="/wiki/Maine_Black_Bears_men%27s_ice_hockey" title="Maine Black Bears men's ice hockey">Maine men</a> &amp; <a href="/wiki/Maine_Black_Bears_women%27s_ice_hockey" title="Maine Black Bears women's ice hockey">women</a>
+</td>
+<td><a href="/wiki/Hockey_East" title="Hockey East">Hockey East</a>
+</td>
+<td>5,124
+</td>
+<td>1977
+</td></tr>
+<tr>
+<td><a class="image" href="/wiki/File:William_D._Mullins_Center.jpg"><img alt="William D. Mullins Center.jpg" data-file-height="3456" data-file-width="4608" decoding="async" height="60" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/William_D._Mullins_Center.jpg/80px-William_D._Mullins_Center.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/William_D._Mullins_Center.jpg/120px-William_D._Mullins_Center.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/William_D._Mullins_Center.jpg/160px-William_D._Mullins_Center.jpg 2x" width="80"/></a>
+</td>
+<td><a class="mw-redirect" href="/wiki/William_D._Mullins_Memorial_Center" title="William D. Mullins Memorial Center">William D. Mullins Memorial Center</a>
+</td>
+<td><a href="/wiki/Amherst,_Massachusetts" title="Amherst, Massachusetts">Amherst</a>
+</td>
+<td><a href="/wiki/Massachusetts" title="Massachusetts">MA</a>
+</td>
+<td><a href="/wiki/UMass_Minutemen_ice_hockey" title="UMass Minutemen ice hockey">Massachusetts</a>
+</td>
+<td><a href="/wiki/Hockey_East" title="Hockey East">Hockey East</a>
+</td>
+<td>8,387
+</td>
+<td>1993
+</td></tr>
+<tr>
+<td><a class="image" href="/wiki/File:Tsongas_Center_at_UMass_Lowell.jpg"><img alt="Tsongas Center at UMass Lowell.jpg" data-file-height="3456" data-file-width="4608" decoding="async" height="60" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Tsongas_Center_at_UMass_Lowell.jpg/80px-Tsongas_Center_at_UMass_Lowell.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Tsongas_Center_at_UMass_Lowell.jpg/120px-Tsongas_Center_at_UMass_Lowell.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Tsongas_Center_at_UMass_Lowell.jpg/160px-Tsongas_Center_at_UMass_Lowell.jpg 2x" width="80"/></a>
+</td>
+<td><a class="mw-redirect" href="/wiki/Paul_E._Tsongas_Center_at_UMass_Lowell" title="Paul E. Tsongas Center at UMass Lowell">Paul E. Tsongas Center at UMass Lowell</a>
+</td>
+<td><a href="/wiki/Lowell,_Massachusetts" title="Lowell, Massachusetts">Lowell</a>
+</td>
+<td><a href="/wiki/Massachusetts" title="Massachusetts">MA</a>
+</td>
+<td><a href="/wiki/UMass_Lowell_River_Hawks_men%27s_ice_hockey" title="UMass Lowell River Hawks men's ice hockey">Massachusetts-Lowell</a>
+</td>
+<td><a href="/wiki/Hockey_East" title="Hockey East">Hockey East</a>
+</td>
+<td>6,003
+</td>
+<td>1998
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a class="mw-redirect" href="/wiki/Volpe_Complex" title="Volpe Complex">Volpe Complex</a>
+</td>
+<td><a href="/wiki/North_Andover,_Massachusetts" title="North Andover, Massachusetts">North Andover</a>
+</td>
+<td><a href="/wiki/Massachusetts" title="Massachusetts">MA</a>
+</td>
+<td><a href="/wiki/Merrimack_Warriors_men%27s_ice_hockey" title="Merrimack Warriors men's ice hockey">Merrimack men</a> &amp; <a href="/wiki/Merrimack_Warriors_women%27s_ice_hockey" title="Merrimack Warriors women's ice hockey">women</a>
+</td>
+<td><a href="/wiki/Hockey_East" title="Hockey East">Hockey East</a>
+</td>
+<td>3,000
+</td>
+<td>1972
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a href="/wiki/Whittemore_Center" title="Whittemore Center">Whittemore Center</a>
+</td>
+<td><a href="/wiki/Durham,_New_Hampshire" title="Durham, New Hampshire">Durham</a>
+</td>
+<td><a href="/wiki/New_Hampshire" title="New Hampshire">NH</a>
+</td>
+<td><a href="/wiki/New_Hampshire_Wildcats_men%27s_ice_hockey" title="New Hampshire Wildcats men's ice hockey">New Hampshire men</a> &amp; <a href="/wiki/New_Hampshire_Wildcats_women%27s_ice_hockey" title="New Hampshire Wildcats women's ice hockey">women</a>
+</td>
+<td><a href="/wiki/Hockey_East" title="Hockey East">Hockey East</a>
+</td>
+<td>6,501
+</td>
+<td>1995
+</td></tr>
+<tr>
+<td><a class="image" href="/wiki/File:MatthewsArenaExterior2009.jpg"><img alt="MatthewsArenaExterior2009.jpg" data-file-height="2736" data-file-width="3648" decoding="async" height="60" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/MatthewsArenaExterior2009.jpg/80px-MatthewsArenaExterior2009.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/MatthewsArenaExterior2009.jpg/120px-MatthewsArenaExterior2009.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/MatthewsArenaExterior2009.jpg/160px-MatthewsArenaExterior2009.jpg 2x" width="80"/></a>
+</td>
+<td><a href="/wiki/Matthews_Arena" title="Matthews Arena">Matthews Arena</a>
+</td>
+<td><a href="/wiki/Boston" title="Boston">Boston</a>
+</td>
+<td><a href="/wiki/Massachusetts" title="Massachusetts">MA</a>
+</td>
+<td><a href="/wiki/Northeastern_Huskies_men%27s_ice_hockey" title="Northeastern Huskies men's ice hockey">Northeastern men</a> &amp; <a href="/wiki/Northeastern_Huskies_women%27s_ice_hockey" title="Northeastern Huskies women's ice hockey">women</a>
+</td>
+<td><a href="/wiki/Hockey_East" title="Hockey East">Hockey East</a>
+</td>
+<td>4,666
+</td>
+<td>1910
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a href="/wiki/Schneider_Arena" title="Schneider Arena">Schneider Arena</a>
+</td>
+<td><a href="/wiki/Providence,_Rhode_Island" title="Providence, Rhode Island">Providence</a>
+</td>
+<td><a href="/wiki/Rhode_Island" title="Rhode Island">RI</a>
+</td>
+<td><a href="/wiki/Providence_Friars_men%27s_ice_hockey" title="Providence Friars men's ice hockey">Providence men</a> &amp; <a href="/wiki/Providence_Friars_women%27s_ice_hockey" title="Providence Friars women's ice hockey">women</a>
+</td>
+<td><a href="/wiki/Hockey_East" title="Hockey East">Hockey East</a>
+</td>
+<td>3,030
+</td>
+<td>1973
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a href="/wiki/Gutterson_Fieldhouse" title="Gutterson Fieldhouse">Gutterson Fieldhouse</a>
+</td>
+<td><a href="/wiki/Burlington,_Vermont" title="Burlington, Vermont">Burlington</a>
+</td>
+<td><a href="/wiki/Vermont" title="Vermont">VT</a>
+</td>
+<td><a href="/wiki/Vermont_Catamounts_men%27s_ice_hockey" title="Vermont Catamounts men's ice hockey">Vermont men</a> &amp; <a href="/wiki/Vermont_Catamounts_women%27s_ice_hockey" title="Vermont Catamounts women's ice hockey">women</a>
+</td>
+<td><a href="/wiki/Hockey_East" title="Hockey East">Hockey East</a>
+</td>
+<td>4,035
+</td>
+<td>1963
+</td></tr>
+<tr style="background:#9cf;">
+<td>
+</td>
+<td>Oceanside Ice Arena
+</td>
+<td><a href="/wiki/Tempe,_Arizona" title="Tempe, Arizona">Tempe</a>
+</td>
+<td><a href="/wiki/Arizona" title="Arizona">AZ</a>
+</td>
+<td><a href="/wiki/Arizona_State_Sun_Devils_men%27s_ice_hockey" title="Arizona State Sun Devils men's ice hockey">Arizona State</a>
+</td>
+<td><a href="/wiki/NCAA_Division_I_independent_schools_(ice_hockey)" title="NCAA Division I independent schools (ice hockey)">Independent</a>
+</td>
+<td>747
+</td>
+<td>1974
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a class="mw-redirect" href="/wiki/World_Arena,_Colorado_Springs" title="World Arena, Colorado Springs">World Arena</a>
+</td>
+<td><a href="/wiki/Colorado_Springs,_Colorado" title="Colorado Springs, Colorado">Colorado Springs</a>
+</td>
+<td><a href="/wiki/Colorado" title="Colorado">CO</a>
+</td>
+<td><a href="/wiki/Colorado_College_Tigers_men%27s_ice_hockey" title="Colorado College Tigers men's ice hockey">Colorado College</a>
+</td>
+<td><a href="/wiki/National_Collegiate_Hockey_Conference" title="National Collegiate Hockey Conference">NCHC</a>
+</td>
+<td>7,750
+</td>
+<td>1998
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a href="/wiki/Magness_Arena" title="Magness Arena">Magness Arena</a>
+</td>
+<td><a href="/wiki/Denver" title="Denver">Denver</a>
+</td>
+<td><a href="/wiki/Colorado" title="Colorado">CO</a>
+</td>
+<td><a href="/wiki/Denver_Pioneers_men%27s_ice_hockey" title="Denver Pioneers men's ice hockey">Denver</a>
+</td>
+<td><a href="/wiki/National_Collegiate_Hockey_Conference" title="National Collegiate Hockey Conference">NCHC</a>
+</td>
+<td>6,026
+</td>
+<td>1999
+</td></tr>
+<tr>
+<td><a class="image" href="/wiki/File:Goggin_Ice.jpg"><img alt="Goggin Ice.jpg" data-file-height="411" data-file-width="548" decoding="async" height="60" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Goggin_Ice.jpg/80px-Goggin_Ice.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Goggin_Ice.jpg/120px-Goggin_Ice.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Goggin_Ice.jpg/160px-Goggin_Ice.jpg 2x" width="80"/></a>
+</td>
+<td><a href="/wiki/Goggin_Ice_Center" title="Goggin Ice Center">Goggin Ice Center</a>
+</td>
+<td><a href="/wiki/Oxford,_Ohio" title="Oxford, Ohio">Oxford</a>
+</td>
+<td><a href="/wiki/Ohio" title="Ohio">OH</a>
+</td>
+<td><a href="/wiki/Miami_RedHawks_men%27s_ice_hockey" title="Miami RedHawks men's ice hockey">Miami (OH)</a>
+</td>
+<td><a href="/wiki/National_Collegiate_Hockey_Conference" title="National Collegiate Hockey Conference">NCHC</a>
+</td>
+<td>4,000
+</td>
+<td>2006
+</td></tr>
+<tr style="background:#9cf;">
+<td>
+</td>
+<td><a href="/wiki/AMSOIL_Arena#AMSOIL_Arena" title="AMSOIL Arena">AMSOIL Arena</a>
+</td>
+<td><a href="/wiki/Duluth,_Minnesota" title="Duluth, Minnesota">Duluth</a>
+</td>
+<td><a href="/wiki/Minnesota" title="Minnesota">MN</a>
+</td>
+<td><a href="/wiki/Minnesota%E2%80%93Duluth_Bulldogs_men%27s_ice_hockey" title="Minnesota–Duluth Bulldogs men's ice hockey">Minnesota-Duluth men</a> &amp; <a href="/wiki/Minnesota%E2%80%93Duluth_Bulldogs_women%27s_ice_hockey" title="Minnesota–Duluth Bulldogs women's ice hockey">women</a>
+</td>
+<td><a href="/wiki/National_Collegiate_Hockey_Conference" title="National Collegiate Hockey Conference">NCHC</a><br/>Men<br/><a href="/wiki/Western_Collegiate_Hockey_Association" title="Western Collegiate Hockey Association">WCHA</a><br/>Women
+</td>
+<td>6,600
+</td>
+<td>2010
+</td></tr>
+<tr>
+<td><a class="image" href="/wiki/File:Ralph_Engelstadt_Arena_2007.JPG"><img alt="Ralph Engelstadt Arena 2007.JPG" data-file-height="1704" data-file-width="2272" decoding="async" height="60" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ralph_Engelstadt_Arena_2007.JPG/80px-Ralph_Engelstadt_Arena_2007.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ralph_Engelstadt_Arena_2007.JPG/120px-Ralph_Engelstadt_Arena_2007.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ralph_Engelstadt_Arena_2007.JPG/160px-Ralph_Engelstadt_Arena_2007.JPG 2x" width="80"/></a>
+</td>
+<td><a href="/wiki/Ralph_Engelstad_Arena" title="Ralph Engelstad Arena">Ralph Engelstad Arena</a>
+</td>
+<td><a href="/wiki/Grand_Forks,_North_Dakota" title="Grand Forks, North Dakota">Grand Forks</a>
+</td>
+<td><a href="/wiki/North_Dakota" title="North Dakota">ND</a>
+</td>
+<td><a href="/wiki/North_Dakota_Fighting_Hawks_men%27s_ice_hockey" title="North Dakota Fighting Hawks men's ice hockey">North Dakota men</a>
+</td>
+<td><a href="/wiki/National_Collegiate_Hockey_Conference" title="National Collegiate Hockey Conference">NCHC</a>
+</td>
+<td>11,640
+</td>
+<td>2001
+</td></tr>
+<tr>
+<td><a class="image" href="/wiki/File:Baxter_Arena_opening_night_vs_Air_Force.jpg"><img alt="Baxter Arena opening night vs Air Force.jpg" data-file-height="2952" data-file-width="5248" decoding="async" height="45" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Baxter_Arena_opening_night_vs_Air_Force.jpg/80px-Baxter_Arena_opening_night_vs_Air_Force.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Baxter_Arena_opening_night_vs_Air_Force.jpg/120px-Baxter_Arena_opening_night_vs_Air_Force.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Baxter_Arena_opening_night_vs_Air_Force.jpg/160px-Baxter_Arena_opening_night_vs_Air_Force.jpg 2x" width="80"/></a>
+</td>
+<td><a href="/wiki/Baxter_Arena" title="Baxter Arena">Baxter Arena</a>
+</td>
+<td><a href="/wiki/Omaha,_Nebraska" title="Omaha, Nebraska">Omaha</a>
+</td>
+<td><a href="/wiki/Nebraska" title="Nebraska">NE</a>
+</td>
+<td><a href="/wiki/Omaha_Mavericks_men%27s_ice_hockey" title="Omaha Mavericks men's ice hockey">Omaha</a>
+</td>
+<td><a href="/wiki/National_Collegiate_Hockey_Conference" title="National Collegiate Hockey Conference">NCHC</a>
+</td>
+<td>7,898
+</td>
+<td>2015
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a class="mw-redirect" href="/wiki/National_Hockey_Center" title="National Hockey Center">National Hockey Center</a>
+</td>
+<td><a href="/wiki/St._Cloud,_Minnesota" title="St. Cloud, Minnesota">St. Cloud</a>
+</td>
+<td><a href="/wiki/Minnesota" title="Minnesota">MN</a>
+</td>
+<td><a href="/wiki/St._Cloud_State_Huskies" title="St. Cloud State Huskies">St. Cloud State men</a> &amp; <a href="/wiki/St._Cloud_State_Huskies_women%27s_ice_hockey" title="St. Cloud State Huskies women's ice hockey">women</a>
+</td>
+<td><a href="/wiki/National_Collegiate_Hockey_Conference" title="National Collegiate Hockey Conference">NCHC</a><br/>Men<br/> <a href="/wiki/Western_Collegiate_Hockey_Association" title="Western Collegiate Hockey Association">WCHA</a><br/> Women
+</td>
+<td>5,763
+</td>
+<td>1989
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a href="/wiki/Lawson_Arena" title="Lawson Arena">Lawson Arena</a>
+</td>
+<td><a href="/wiki/Kalamazoo,_Michigan" title="Kalamazoo, Michigan">Kalamazoo</a>
+</td>
+<td><a href="/wiki/Michigan" title="Michigan">MI</a>
+</td>
+<td><a href="/wiki/Western_Michigan_Broncos_men%27s_ice_hockey" title="Western Michigan Broncos men's ice hockey">Western Michigan</a>
+</td>
+<td><a href="/wiki/National_Collegiate_Hockey_Conference" title="National Collegiate Hockey Conference">NCHC</a>
+</td>
+<td>3,667
+</td>
+<td>1974
+</td></tr>
+<tr style="background:#9cf;">
+<td><a class="image" href="/wiki/File:Von_Braun_Center.jpg"><img alt="Von Braun Center.jpg" data-file-height="399" data-file-width="2032" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Von_Braun_Center.jpg/80px-Von_Braun_Center.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Von_Braun_Center.jpg/120px-Von_Braun_Center.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Von_Braun_Center.jpg/160px-Von_Braun_Center.jpg 2x" width="80"/></a>
+</td>
+<td><a href="/wiki/Von_Braun_Center" title="Von Braun Center">Von Braun Center</a>
+</td>
+<td><a href="/wiki/Huntsville,_Alabama" title="Huntsville, Alabama">Huntsville</a>
+</td>
+<td><a href="/wiki/Alabama" title="Alabama">AL</a>
+</td>
+<td><a href="/wiki/Alabama%E2%80%93Huntsville_Chargers_men%27s_ice_hockey" title="Alabama–Huntsville Chargers men's ice hockey">Alabama-Huntsville</a>
+</td>
+<td><a href="/wiki/Western_Collegiate_Hockey_Association" title="Western Collegiate Hockey Association">WCHA</a>
+</td>
+<td>6,602
+</td>
+<td>1975
+</td></tr>
+<tr style="background:#9cf;">
+<td>
+</td>
+<td><a href="/wiki/Wells_Fargo_Sports_Complex" title="Wells Fargo Sports Complex">Wells Fargo Sports Complex</a>
+</td>
+<td><a href="/wiki/Anchorage,_Alaska" title="Anchorage, Alaska">Anchorage</a>
+</td>
+<td><a href="/wiki/Alaska" title="Alaska">AK</a>
+</td>
+<td><a class="mw-redirect" href="/wiki/Alaska%E2%80%93Anchorage_Seawolves_men%27s_ice_hockey" title="Alaska–Anchorage Seawolves men's ice hockey">Alaska–Anchorage</a>
+</td>
+<td><a href="/wiki/Western_Collegiate_Hockey_Association" title="Western Collegiate Hockey Association">WCHA</a>
+</td>
+<td>800
+</td>
+<td>1978
+</td></tr>
+<tr style="background:#9cf;">
+<td>
+</td>
+<td><a href="/wiki/Carlson_Center" title="Carlson Center">Carlson Center</a>
+</td>
+<td><a href="/wiki/Fairbanks,_Alaska" title="Fairbanks, Alaska">Fairbanks</a>
+</td>
+<td><a href="/wiki/Alaska" title="Alaska">AK</a>
+</td>
+<td><a href="/wiki/Alaska_Nanooks_men%27s_ice_hockey" title="Alaska Nanooks men's ice hockey">Alaska</a>
+</td>
+<td><a href="/wiki/Western_Collegiate_Hockey_Association" title="Western Collegiate Hockey Association">WCHA</a>
+</td>
+<td>4,595
+</td>
+<td>1990
+</td></tr>
+<tr style="background:#9cf;">
+<td>
+</td>
+<td><a href="/wiki/Sanford_Center" title="Sanford Center">Sanford Center</a>
+</td>
+<td><a href="/wiki/Bemidji,_Minnesota" title="Bemidji, Minnesota">Bemidji</a>
+</td>
+<td><a href="/wiki/Minnesota" title="Minnesota">MN</a>
+</td>
+<td><a href="/wiki/Bemidji_State_Beavers_men%27s_ice_hockey" title="Bemidji State Beavers men's ice hockey">Benmidji State men</a> &amp; <a href="/wiki/Bemidji_State_Beavers_women%27s_ice_hockey" title="Bemidji State Beavers women's ice hockey">women</a>
+</td>
+<td><a href="/wiki/Western_Collegiate_Hockey_Association" title="Western Collegiate Hockey Association">WCHA</a>
+</td>
+<td>4,700
+</td>
+<td>2010
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a class="mw-redirect" href="/wiki/BGSU_Ice_Arena" title="BGSU Ice Arena">BGSU Ice Arena</a>
+</td>
+<td><a href="/wiki/Bowling_Green,_Ohio" title="Bowling Green, Ohio">Bowling Green</a>
+</td>
+<td><a href="/wiki/Ohio" title="Ohio">OH</a>
+</td>
+<td><a href="/wiki/Bowling_Green_Falcons_men%27s_ice_hockey" title="Bowling Green Falcons men's ice hockey">Bowling Green</a>
+</td>
+<td><a href="/wiki/Western_Collegiate_Hockey_Association" title="Western Collegiate Hockey Association">WCHA</a>
+</td>
+<td>5,000
+</td>
+<td>1967
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a href="/wiki/Ewigleben_Arena" title="Ewigleben Arena">Ewigleben Arena</a>
+</td>
+<td><a href="/wiki/Big_Rapids,_Michigan" title="Big Rapids, Michigan">Big Rapids</a>
+</td>
+<td><a href="/wiki/Michigan" title="Michigan">MI</a>
+</td>
+<td><a href="/wiki/Ferris_State_Bulldogs_men%27s_ice_hockey" title="Ferris State Bulldogs men's ice hockey">Ferris State</a>
+</td>
+<td><a href="/wiki/Western_Collegiate_Hockey_Association" title="Western Collegiate Hockey Association">WCHA</a>
+</td>
+<td>2,493
+</td>
+<td>1976
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a href="/wiki/Taffy_Abel_Arena" title="Taffy Abel Arena">Taffy Abel Arena</a>
+</td>
+<td><a href="/wiki/Sault_Ste._Marie,_Michigan" title="Sault Ste. Marie, Michigan">Sault Ste. Marie</a>
+</td>
+<td><a href="/wiki/Michigan" title="Michigan">MI</a>
+</td>
+<td><a href="/wiki/Lake_Superior_State_Lakers_men%27s_ice_hockey" title="Lake Superior State Lakers men's ice hockey">Lake Superior State</a>
+</td>
+<td><a href="/wiki/Western_Collegiate_Hockey_Association" title="Western Collegiate Hockey Association">WCHA</a>
+</td>
+<td>4,000
+</td>
+<td>1995
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a href="/wiki/MacInnes_Student_Ice_Arena" title="MacInnes Student Ice Arena">MacInnes Student Ice Arena</a>
+</td>
+<td><a href="/wiki/Houghton,_Michigan" title="Houghton, Michigan">Houghton</a>
+</td>
+<td><a href="/wiki/Michigan" title="Michigan">MI</a>
+</td>
+<td><a href="/wiki/Michigan_Tech_Huskies_men%27s_ice_hockey" title="Michigan Tech Huskies men's ice hockey">Michigan Tech</a>
+</td>
+<td><a href="/wiki/Western_Collegiate_Hockey_Association" title="Western Collegiate Hockey Association">WCHA</a>
+</td>
+<td>4,128
+</td>
+<td>1972
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a href="/wiki/Ridder_Arena" title="Ridder Arena">Ridder Arena</a>
+</td>
+<td><a href="/wiki/Minneapolis" title="Minneapolis">Minneapolis</a>
+</td>
+<td><a href="/wiki/Minnesota" title="Minnesota">MN</a>
+</td>
+<td><a href="/wiki/Minnesota_Golden_Gophers_women%27s_ice_hockey" title="Minnesota Golden Gophers women's ice hockey">Minnesota women</a>
+</td>
+<td><a href="/wiki/Western_Collegiate_Hockey_Association" title="Western Collegiate Hockey Association">WCHA</a>
+</td>
+<td>3,400
+</td>
+<td>2002
+</td></tr>
+<tr style="background:#9cf;">
+<td>
+</td>
+<td><a class="mw-redirect" href="/wiki/Mankato_Civic_Center" title="Mankato Civic Center">Mankato Civic Center</a>
+</td>
+<td><a href="/wiki/Mankato,_Minnesota" title="Mankato, Minnesota">Mankato</a>
+</td>
+<td><a href="/wiki/Minnesota" title="Minnesota">MN</a>
+</td>
+<td><a href="/wiki/Minnesota_State_Mavericks_men%27s_ice_hockey" title="Minnesota State Mavericks men's ice hockey">Minnesota State men</a> &amp; <a href="/wiki/Minnesota_State_Mavericks_women%27s_ice_hockey" title="Minnesota State Mavericks women's ice hockey">women</a>
+</td>
+<td><a href="/wiki/Western_Collegiate_Hockey_Association" title="Western Collegiate Hockey Association">WCHA</a>
+</td>
+<td>5,280
+</td>
+<td>1995
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a href="/wiki/Berry_Events_Center" title="Berry Events Center">Berry Events Center</a>
+</td>
+<td><a href="/wiki/Marquette,_Michigan" title="Marquette, Michigan">Marquette</a>
+</td>
+<td><a href="/wiki/Michigan" title="Michigan">MI</a>
+</td>
+<td><a href="/wiki/Northern_Michigan_Wildcats_men%27s_ice_hockey" title="Northern Michigan Wildcats men's ice hockey">Northern Michigan</a>
+</td>
+<td><a href="/wiki/Western_Collegiate_Hockey_Association" title="Western Collegiate Hockey Association">WCHA</a>
+</td>
+<td>3,902
+</td>
+<td>1999
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a href="/wiki/OSU_Ice_Rink" title="OSU Ice Rink">OSU Ice Rink</a>
+</td>
+<td><a href="/wiki/Columbus,_Ohio" title="Columbus, Ohio">Columbus</a>
+</td>
+<td><a href="/wiki/Ohio" title="Ohio">OH</a>
+</td>
+<td><a href="/wiki/Ohio_State_Buckeyes_women%27s_ice_hockey" title="Ohio State Buckeyes women's ice hockey">Ohio State women</a>
+</td>
+<td><a href="/wiki/Western_Collegiate_Hockey_Association" title="Western Collegiate Hockey Association">WCHA</a>
+</td>
+<td>1,415
+</td>
+<td>1961
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a href="/wiki/LaBahn_Arena" title="LaBahn Arena">LaBahn Arena</a>
+</td>
+<td><a href="/wiki/Madison,_Wisconsin" title="Madison, Wisconsin">Madison</a>
+</td>
+<td><a href="/wiki/Wisconsin" title="Wisconsin">WI</a>
+</td>
+<td><a href="/wiki/Wisconsin_Badgers_women%27s_ice_hockey" title="Wisconsin Badgers women's ice hockey">Wisconsin women</a>
+</td>
+<td><a href="/wiki/Western_Collegiate_Hockey_Association" title="Western Collegiate Hockey Association">WCHA</a>
+</td>
+<td>2,273
+</td>
+<td>2012
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="Additional_arenas">Additional arenas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_NCAA_Division_I_ice_hockey_arenas&amp;action=edit&amp;section=2" title="Edit section: Additional arenas">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tbody><tr>
+<td style="background:#9cf;"><b>Off-campus arena</b>
+</td></tr></tbody></table>
+<table class="wikitable sortable">
+<tbody><tr>
+<th class="unsortable">Image</th>
+<th>Arena</th>
+<th>City</th>
+<th>State</th>
+<th>Team</th>
+<th>Conference</th>
+<th>Capacity</th>
+<th>Opened
+</th></tr>
+<tr style="background:#9cf;">
+<td><a class="image" href="/wiki/File:PensArena.jpg"><img alt="PensArena.jpg" data-file-height="2088" data-file-width="3712" decoding="async" height="45" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/PensArena.jpg/80px-PensArena.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/PensArena.jpg/120px-PensArena.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/PensArena.jpg/160px-PensArena.jpg 2x" width="80"/></a>
+</td>
+<td><a href="/wiki/PPG_Paints_Arena" title="PPG Paints Arena">PPG Paints Arena</a>
+</td>
+<td><a href="/wiki/Pittsburgh" title="Pittsburgh">Pittsburgh</a>
+</td>
+<td><a href="/wiki/Pennsylvania" title="Pennsylvania">PA</a>
+</td>
+<td><a href="/wiki/Robert_Morris_Colonials_men%27s_ice_hockey" title="Robert Morris Colonials men's ice hockey">Robert Morris</a>
+</td>
+<td><a href="/wiki/Atlantic_Hockey" title="Atlantic Hockey">Atlantic Hockey</a>
+</td>
+<td>18,387
+</td>
+<td>2010
+</td></tr>
+<tr style="background:#9cf;">
+<td><a class="image" href="/wiki/File:Rochester_Blue_Cross_Arena_-_NW_Exterior.jpg"><img alt="Rochester Blue Cross Arena - NW Exterior.jpg" data-file-height="1221" data-file-width="2083" decoding="async" height="47" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Rochester_Blue_Cross_Arena_-_NW_Exterior.jpg/80px-Rochester_Blue_Cross_Arena_-_NW_Exterior.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Rochester_Blue_Cross_Arena_-_NW_Exterior.jpg/120px-Rochester_Blue_Cross_Arena_-_NW_Exterior.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Rochester_Blue_Cross_Arena_-_NW_Exterior.jpg/160px-Rochester_Blue_Cross_Arena_-_NW_Exterior.jpg 2x" width="80"/></a>
+</td>
+<td><a href="/wiki/Blue_Cross_Arena" title="Blue Cross Arena">Blue Cross Arena</a>
+</td>
+<td><a href="/wiki/Rochester,_New_York" title="Rochester, New York">Rochester</a>
+</td>
+<td><a href="/wiki/New_York_(state)" title="New York (state)">NY</a>
+</td>
+<td><a href="/wiki/RIT_Tigers_men%27s_ice_hockey" title="RIT Tigers men's ice hockey">RIT</a>
+</td>
+<td><a href="/wiki/Atlantic_Hockey" title="Atlantic Hockey">Atlantic Hockey</a>
+</td>
+<td>11,200
+</td>
+<td>1955
+</td></tr>
+<tr style="background:#9cf;">
+<td>
+</td>
+<td><a href="/wiki/Webster_Bank_Arena" title="Webster Bank Arena">Webster Bank Arena</a>
+</td>
+<td><a href="/wiki/Bridgeport,_Connecticut" title="Bridgeport, Connecticut">Bridgeport</a>
+</td>
+<td><a href="/wiki/Connecticut" title="Connecticut">CT</a>
+</td>
+<td><a href="/wiki/Sacred_Heart_Pioneers_men%27s_ice_hockey" title="Sacred Heart Pioneers men's ice hockey">Sacred Heart</a>
+</td>
+<td><a href="/wiki/Atlantic_Hockey" title="Atlantic Hockey">Atlantic Hockey</a>
+</td>
+<td>8,412
+</td>
+<td>2001
+</td></tr>
+<tr style="background:#9cf;">
+<td>
+</td>
+<td><a href="/wiki/Gila_River_Arena" title="Gila River Arena">Gila River Arena</a>
+</td>
+<td><a href="/wiki/Glendale,_Arizona" title="Glendale, Arizona">Glendale</a>
+</td>
+<td><a href="/wiki/Arizona" title="Arizona">AZ</a>
+</td>
+<td><a href="/wiki/Arizona_State_Sun_Devils_men%27s_ice_hockey" title="Arizona State Sun Devils men's ice hockey">Arizona State</a>
+</td>
+<td><a href="/wiki/NCAA_Division_I_independent_schools_(ice_hockey)" title="NCAA Division I independent schools (ice hockey)">Independent</a>
+</td>
+<td>17,125
+</td>
+<td>2003
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Future_arenas">Future arenas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_NCAA_Division_I_ice_hockey_arenas&amp;action=edit&amp;section=3" title="Edit section: Future arenas">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This list includes both arenas under construction and existing venues to be used by programs that are confirmed to be joining Division I hockey in the future. 
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td style="background:#9cf;"><b>Off-campus arena</b>
+</td></tr></tbody></table>
+<table class="wikitable sortable">
+<tbody><tr>
+<th class="unsortable">Image</th>
+<th>Arena</th>
+<th>City</th>
+<th>State</th>
+<th>Team</th>
+<th>Conference</th>
+<th>Capacity</th>
+<th>Opening
+</th></tr>
+<tr>
+<td></td>
+<td><a class="new" href="/w/index.php?title=Edward_J._Robson_Arena&amp;action=edit&amp;redlink=1" title="Edward J. Robson Arena (page does not exist)">Edward J. Robson Arena</a></td>
+<td><a href="/wiki/Colorado_Springs,_Colorado" title="Colorado Springs, Colorado">Colorado Springs</a></td>
+<td><a href="/wiki/Colorado" title="Colorado">CO</a></td>
+<td><a href="/wiki/Colorado_College_Tigers_men%27s_ice_hockey" title="Colorado College Tigers men's ice hockey">Colorado College</a></td>
+<td><a href="/wiki/National_Collegiate_Hockey_Conference" title="National Collegiate Hockey Conference">NCHC</a></td>
+<td><span data-sort-value="7003337600000000000♠">3,376</span><sup class="reference" id="cite_ref-Shefte_1-0"><a href="#cite_note-Shefte-1">[1]</a></sup></td>
+<td>2021<sup class="reference" id="cite_ref-Shefte_1-1"><a href="#cite_note-Shefte-1">[1]</a></sup>
+</td></tr></tbody></table>
+<p>In addition, <a href="/wiki/Long_Island_University" title="Long Island University">Long Island University</a> will add a women's ice hockey program in the 2019–20 school year, but has not yet announced the team's future venue. The team was originally planned to represent <a href="/wiki/LIU_Brooklyn" title="LIU Brooklyn">LIU's Brooklyn campus</a>,<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> but shortly after the announcement of a women's hockey program, LIU announced that it would merge the Division I <a href="/wiki/LIU_Brooklyn_Blackbirds" title="LIU Brooklyn Blackbirds">Brooklyn athletic program</a> with the Division II program of its <a href="/wiki/LIU_Post_Pioneers" title="LIU Post Pioneers">Post campus</a>, creating a single D-I athletic program that now competes as the <a href="/wiki/LIU_Sharks" title="LIU Sharks">LIU Sharks</a>. The women's hockey program carried over to the unified athletic program.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_NCAA_Division_I_ice_hockey_arenas&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Shefte-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Shefte_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Shefte_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Shefte, Kate (June 29, 2019). <a class="external text" href="https://gazette.com/sports/colorado-college-s-upcoming-robson-arena-gets-new-renderings-with/article_13db57d2-9ad4-11e9-9963-afc594c127af.html" rel="nofollow">"Colorado College's upcoming Robson Arena gets new renderings, with public feedback highlighted"</a>. <i><a href="/wiki/The_Gazette_(Colorado_Springs)" title="The Gazette (Colorado Springs)">The Gazette</a></i>. <a href="/wiki/Colorado_Springs,_Colorado" title="Colorado Springs, Colorado">Colorado Springs, CO</a><span class="reference-accessdate">. Retrieved <span class="nowrap">July 28,</span> 2019</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Gazette&amp;rft.atitle=Colorado+College%27s+upcoming+Robson+Arena+gets+new+renderings%2C+with+public+feedback+highlighted&amp;rft.date=2019-06-29&amp;rft.aulast=Shefte&amp;rft.aufirst=Kate&amp;rft_id=https%3A%2F%2Fgazette.com%2Fsports%2Fcolorado-college-s-upcoming-robson-arena-gets-new-renderings-with%2Farticle_13db57d2-9ad4-11e9-9963-afc594c127af.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+NCAA+Division+I+ice+hockey+arenas"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a class="external text" href="https://liuathletics.com/news/2018/9/10/general-womens-ice-hockey-added-as-newest-varsity-sport-at-liu-brooklyn-morgan-tabbed-as-inaugural-head-coach.aspx" rel="nofollow">"Women's Ice Hockey Added as Varsity Sport at LIU Brooklyn; Morgan Tabbed as Inaugural Head Coach"</a> (Press release). LIU Brooklyn Blackbirds. September 10, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">September 21,</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Women%E2%80%99s+Ice+Hockey+Added+as+Varsity+Sport+at+LIU+Brooklyn%3B+Morgan+Tabbed+as+Inaugural+Head+Coach&amp;rft.pub=LIU+Brooklyn+Blackbirds&amp;rft.date=2018-09-10&amp;rft_id=https%3A%2F%2Fliuathletics.com%2Fnews%2F2018%2F9%2F10%2Fgeneral-womens-ice-hockey-added-as-newest-varsity-sport-at-liu-brooklyn-morgan-tabbed-as-inaugural-head-coach.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+NCAA+Division+I+ice+hockey+arenas"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a class="external text" href="https://liuathletics.com/news/2018/10/3/general-long-island-university-announces-unification-into-one-liu-division-i-program." rel="nofollow">"Long Island University Announces Unification Into One LIU Division I Program"</a> (Press release). LIU Brooklyn Blackbirds. October 3, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">October 11,</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Long+Island+University+Announces+Unification+Into+One+LIU+Division+I+Program&amp;rft.pub=LIU+Brooklyn+Blackbirds&amp;rft.date=2018-10-03&amp;rft_id=https%3A%2F%2Fliuathletics.com%2Fnews%2F2018%2F10%2F3%2Fgeneral-long-island-university-announces-unification-into-one-liu-division-i-program.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+NCAA+Division+I+ice+hockey+arenas"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1319
+Cached time: 20191231030422
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.340 seconds
+Real time usage: 0.504 seconds
+Preprocessor visited node count: 928/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 45269/2097152 bytes
+Template argument size: 10226/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 9830/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.127/10.000 seconds
+Lua memory usage: 3.51 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  282.840      1 -total
+ 67.05%  189.649      3 Template:Ambox
+ 51.04%  144.372      1 Template:Multiple_issues
+ 42.01%  118.828      1 Template:Reflist
+ 32.75%   92.632      1 Template:Cite_news
+ 16.27%   46.028      1 Template:Refimprove
+ 15.59%   44.083      1 Template:Orphan
+ 13.82%   39.083      1 Template:Draft_other
+ 12.85%   36.346      1 Template:Find_sources_mainspace
+  5.29%   14.951      1 Template:Nts
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:37397886-0!canonical and timestamp 20191231030422 and revision id 926606419
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=List_of_NCAA_Division_I_ice_hockey_arenas&amp;oldid=926606419">https://en.wikipedia.org/w/index.php?title=List_of_NCAA_Division_I_ice_hockey_arenas&amp;oldid=926606419</a>"</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:NCAA_Division_I_lists" title="Category:NCAA Division I lists">NCAA Division I lists</a></li><li><a href="/wiki/Category:College_ice_hockey_in_the_United_States_lists" title="Category:College ice hockey in the United States lists">College ice hockey in the United States lists</a></li><li><a href="/wiki/Category:College_ice_hockey_venues_in_the_United_States" title="Category:College ice hockey venues in the United States">College ice hockey venues in the United States</a></li><li><a href="/wiki/Category:Lists_of_indoor_arenas" title="Category:Lists of indoor arenas">Lists of indoor arenas</a></li><li><a href="/wiki/Category:Lists_of_sports_venues_in_the_United_States" title="Category:Lists of sports venues in the United States">Lists of sports venues in the United States</a></li><li><a href="/wiki/Category:Lists_of_college_sports_venues_in_the_United_States" title="Category:Lists of college sports venues in the United States">Lists of college sports venues in the United States</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Orphaned_articles_from_June_2013" title="Category:Orphaned articles from June 2013">Orphaned articles from June 2013</a></li><li><a href="/wiki/Category:All_orphaned_articles" title="Category:All orphaned articles">All orphaned articles</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_January_2019" title="Category:Articles needing additional references from January 2019">Articles needing additional references from January 2019</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_with_multiple_maintenance_issues" title="Category:Articles with multiple maintenance issues">Articles with multiple maintenance issues</a></li></ul></div></div>
+<div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-data-after-content">
+<div class="read-more-container"></div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=List+of+NCAA+Division+I+ice+hockey+arenas" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+NCAA+Division+I+ice+hockey+arenas" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/List_of_NCAA_Division_I_ice_hockey_arenas" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:List_of_NCAA_Division_I_ice_hockey_arenas" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<ul class="menu">
+</ul>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><a href="/wiki/List_of_NCAA_Division_I_ice_hockey_arenas">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=List_of_NCAA_Division_I_ice_hockey_arenas&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=List_of_NCAA_Division_I_ice_hockey_arenas&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<ul class="menu">
+</ul>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+<input name="title" type="hidden" value="Special:Search"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Wikipedia:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/List_of_NCAA_Division_I_ice_hockey_arenas" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/List_of_NCAA_Division_I_ice_hockey_arenas" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=List_of_NCAA_Division_I_ice_hockey_arenas&amp;oldid=926606419" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=List_of_NCAA_Division_I_ice_hockey_arenas&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6591042" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=List_of_NCAA_Division_I_ice_hockey_arenas&amp;id=926606419" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=List+of+NCAA+Division+I+ice+hockey+arenas">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=List+of+NCAA+Division+I+ice+hockey+arenas&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=List_of_NCAA_Division_I_ice_hockey_arenas&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6591042#sitelinks-wikipedia" title="Add interlanguage links">Add links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 17 November 2019, at 14:41<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=List_of_NCAA_Division_I_ice_hockey_arenas&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.340","walltime":"0.504","ppvisitednodes":{"value":928,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":45269,"limit":2097152},"templateargumentsize":{"value":10226,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":9830,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  282.840      1 -total"," 67.05%  189.649      3 Template:Ambox"," 51.04%  144.372      1 Template:Multiple_issues"," 42.01%  118.828      1 Template:Reflist"," 32.75%   92.632      1 Template:Cite_news"," 16.27%   46.028      1 Template:Refimprove"," 15.59%   44.083      1 Template:Orphan"," 13.82%   39.083      1 Template:Draft_other"," 12.85%   36.346      1 Template:Find_sources_mainspace","  5.29%   14.951      1 Template:Nts"]},"scribunto":{"limitreport-timeusage":{"value":"0.127","limit":"10.000"},"limitreport-memusage":{"value":3684965,"limit":52428800}},"cachereport":{"origin":"mw1319","timestamp":"20191231030422","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"List of NCAA Division I ice hockey arenas","url":"https:\/\/en.wikipedia.org\/wiki\/List_of_NCAA_Division_I_ice_hockey_arenas","sameAs":"http:\/\/www.wikidata.org\/entity\/Q6591042","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q6591042","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2012-10-21T03:07:16Z","dateModified":"2019-11-17T14:41:41Z","headline":"Wikimedia list article"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":74,"wgHostname":"mw1333"});});</script>
+</body>
+</html>

@@ -1,0 +1,103 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Dec 26 12:19:45 2019
+
+@author: admin
+"""
+
+#This python query will take in the txt file of the urls and create a dataframe
+#with all the meta data of the game this woudl include:
+
+#  1. Score
+#  2. Time 
+#  3. Team reocrds
+#  4. Hockey arenas https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_ice_hockey_arenas
+
+import os 
+import pandas as pd
+import re
+from bs4 import BeautifulSoup as bs
+import requests
+import urllib.request
+from datetime import datetime as dt
+from dateutil.parser import parse
+#oepn the txt file and dump into list
+urltest_2 = 'http://www.collegehockeystats.net/1920/textbox/mosurit1.o12'
+urltest_3 = 'http://www.collegehockeystats.net/1920/textbox/mndkuno1.j10'
+
+#let's test the text box score for additional data..
+
+req_1 = requests.get(urltest_3)
+
+print(req_1.raise_for_status()) # Check for any errors in the url
+reqTest = urllib.request.urlopen(urltest_3)
+reqText = bs(reqTest)
+#Let's make it into a text object and use regex to get the data
+contentsData = reqText.find('div','reg13').text
+
+#Let's get the teams data
+teamStr = re.search('.*?(?=Date:)',contentsData).group(0)
+textstr = contentsData.replace(teamStr,'')
+textstr2 = textstr.replace('\n',' ')
+textstr3 = textstr2.replace('\xa0',' ')
+
+#Team Information
+teamsDict = teamLocation(teamStr)
+#Attendance
+#<must make an excpetion for when no attendance records are created
+if bool(re.search('Attendance',textstr3)) == True:
+    Attd = int(re.search('(?<=Attendance:\s).\d+',textstr3).group(0)) 
+else:
+    Attd = 0
+
+#Start Time, End Time, Total Time (minutes)
+startTimeStr  = re.search('\d+:\d+\s\s\w{2}(?=\&nbsp\sEnd\sTime)',textstr3).group(0)
+startTime     = dt.strftime(dt.strptime(startTimeStr,'%I:%M %p'),'%H:%M')
+endTimeStr    = re.search('\d+:\d+\s\s\w{2}(?=\&nbsp\sTotal\sTime)',textstr3).group(0)
+endTime       = dt.strftime(dt.strptime(endTimeStr,'%I:%M %p'),'%H:%M')
+totalTimeStr  = re.search('\d+:\d+(?=\sScoring\sby\sPeriod)',textstr3).group(0)
+totalTimeDtobj= dt.strptime(totalTimeStr,'%H:%M')   
+totalTime     = totalTimeDtobj.hour*60 + totalTimeDtobj.minute
+
+#Date values
+dateTimestr = re.search('.*?(?=\Start\sTime:)',textstr3).group(0).replace('Date:  ','')
+dateStr     = re.search('\w+,\s\w+\s\d+,\s\d{4}(?=\W)',dateTimestr).group(0)
+dateStrLs   = dateStr.split(',')
+#Get the data
+Day = dateStrLs[0]
+dateStr2    = dateStr.replace(Day+',','').strip()
+
+date = dt.strftime(dt.strptime(dateStr2,'%B %d, %Y'),'%m/%d/%Y')
+       
+#Shots on goal Data and goaltending data
+detailedScoring_reqText = reqText.findAll('p')
+textData = []
+for p in detailedScoring_reqText:
+    textData.append(p.text)
+
+#This for loop gets teh scoring data 
+pSOG_GT = []
+
+#Merging Dictionaries function
+liter = 0
+goaliter = 0
+
+
+       
+
+
+
+
+    
+
+
+#Now take the dictionary data and find the winner and the location of the game
+
+
+
+
+    
+
+    
+        

@@ -1,0 +1,68 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Dec 31 15:01:58 2019
+
+@author: admin
+"""
+
+import os 
+import pandas as pd
+import re
+from bs4 import BeautifulSoup as bs
+import requests
+import urllib.request
+
+
+dir1 = '/Users/admin/Blog_Data/Cawledge_Hawkey/Raw_Data/Calledge_Hawkey'
+os.chdir(dir1)
+
+#Let's get the 
+#wikipedia url of the location of college campuses
+
+wikiUrl_d1m = 'https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_ice_hockey_arenas'
+wikiBase_Url = 'https://en.wikipedia.org'
+d1m_req = requests.get(wikiUrl_d1m)
+print(d1m_req.raise_for_status()) # Check for any errors in the url
+
+#Get the url into a text format
+d1m_stadium = bs(d1m_req.text)
+
+#Get the table form 
+dfTest = pd.read_html(wikiUrl_d1m)
+
+stadiumData = dfTest[4]
+stadiumData.drop(column='Image')
+#Get the ahref data on the stadiums to get the size
+wikiURL_StadSeries = stadiumData['Arena']
+urlAdder = '/wiki/'
+wikiURL_list = []
+for url in wikiURL_StadSeries:
+    urlUnderscore = url.replace(' ','_')
+    urlComplete = wikiBase_Url + urlAdder + urlUnderscore
+    wikiURL_list.append(urlComplete)
+
+testURL = 'https://en.wikipedia.org/wiki/Hart_Center'
+testreq = requests.get(testURL)
+testbs = bs(testreq.text)
+testrinkInfo = testbs.find('table','inkfobox vcard')
+#Dump this into a text string to get the data
+#open the first url in the wiki url list 
+iteration = 0
+for stadiumURL in wikiURL_list:
+    dataURL = requests.get(stadiumURL)
+    rinkSizePage = bs(dataURL.text)
+    iteration +=1
+    print(iteration,stadiumURL)
+    #Get the infocard data
+    rinkInfocard = rinkSizePage.find('table','infobox vcard')
+    trTag_Rink = []
+    for tag in rinkInfocard.findAll('tr'):
+        if 'Surface' in tag.text:
+            tag2 = tag.text.split('Surface')
+            tag3 = re.split('x|\s',tag2[1])
+            trTag_Rink.append(tag3)
+            trTag_Rink.append(testURL)
+        else:
+            continue
+

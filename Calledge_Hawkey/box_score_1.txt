@@ -1,0 +1,716 @@
+<!--Status: OK--><html>
+<head>
+<title>Welcome to collegehockeystats.net</title>
+<style>
+.small { font-size: smaller }
+ pre { font-size: 12px; line-height: 15px; margin-top: 2px; margin-bottom: 2px; }
+.tiny { font-size: 11px; line-height: 13px; margin-top: 2px; margin-bottom: 2px; }
+.rostable { font-family: "Verdana", "Arial", "Helvetica"; font-size: xx-small; background-color:#FFF }
+.contents { margin-right: 3px; margin-left: 3px; }
+@media screen and (max-device-width: 480px){
+  body{
+    -webkit-text-size-adjust: none;
+  }
+}
+.chswhite10 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color:#333
+}
+
+.chssmallreg {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}
+
+.chssmallbold {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+}
+
+.chsblackheaders {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+table.chssmallreg {border: 1px solid #000000; background-color:#FFF}
+table.chssmallreg td {border: 1px solid #666666;}
+
+.chsschedreg {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}
+table.chsschedreg {border: 0px solid #000000; }
+table.chsschedreg td {border: 0px solid #666666;}
+
+.reg13 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #000000;
+}
+
+</style>
+</head>
+<body bgcolor="#EEEEEE" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+<form name="chs">
+<table border="0" cellpadding="2" cellspacing="0" width="100%">
+<tr>
+<td bgcolor="000099">
+<img align="RIGHT" height="22" src="/images/2202.gif" width="286"/>
+<img align="LEFT" height="22" src="/images/favicon.gif" width="16"/>
+</td></tr></table>
+</form><div class="contents">
+<hr noshade="" size="3" width="100%"/>
+<p><img align="RIGHT" height="120" src="/img120/1920/mrc120.gif" width="120"/>
+<img align="RIGHT" height="120" src="/img120/1920/stl120.gif" width="120"/>
+<font face="Verdana,Arial, Helvetica">
+<b>Saturday, October 12, 2019<br/>
+St. Lawrence (STL) at Mercyhurst (MRC)<br/>
+<font size="-1">Non-Conference Game</font><br/>
+</b>
+<p>Final Score: <b>St. Lawrence 3, Mercyhurst 2</b><br/>
+New Records: <b>St. Lawrence 1-1-0, Mercyhurst 2-2-0</b><br/></p></font><font face="Verdana,Arial, Helvetica" size="-1">
+<p>Attendance: <b>830</b><br/>
+Start Time: <b>7:05  pm</b>&amp;nbsp End Time: <b>9:22  pm</b>&amp;nbsp Total Time: <b>2:17</b>
+</p></font>
+<br clear="ALL"/>
+</p><hr noshade="" size="3" width="100%"/>
+<br/>
+<table border="0" cellpadding="2" cellspacing="0" width="100%">
+<tr>
+<td bgcolor="000099"><font color="fefefe" face="Verdana" size="-1"><b><i> Score By Periods </i></b></font></td>
+<td align="center" bgcolor="000099" width="40"><font color="fefefe" face="Verdana" size="-1"><b><i>1st</i></b></font></td>
+<td align="center" bgcolor="000099" width="40"><font color="fefefe" face="Verdana" size="-1"><b><i>2nd</i></b></font></td>
+<td align="center" bgcolor="000099" width="40"><font color="fefefe" face="Verdana" size="-1"><b><i>3rd</i></b></font></td>
+<td align="center" bgcolor="000099" width="40"><font color="fefefe" face="Verdana" size="-1"><b><i>Final</i></b></font></td>
+<td width="30"> </td>
+<td align="center" bgcolor="000099" colspan="5">
+<font color="fefefe" face="Verdana" size="-1"><b><i>Power Plays</i></b></font></td>
+</tr>
+<tr>
+<td><font face="Verdana" size="-1"><b> St. Lawrence </b></font></td>
+<td align="center" width="40"><font face="Verdana" size="-1">1</font></td>
+<td align="center" width="40"><font face="Verdana" size="-1">1</font></td>
+<td align="center" width="40"><font face="Verdana" size="-1">1</font></td>
+<td align="center" width="40"><font face="Verdana" size="-1"><b>3</b></font></td>
+<td> </td>
+<td><font face="Verdana" size="-1"><b> St. Lawrence </b></font></td>
+<td align="RIGHT"><font face="Verdana" size="-1">
+<b>0</b></font></td>
+<td align="CENTER"><font face="Verdana" size="-1">
+<b>/</b></font></td>
+<td><font face="Verdana" size="-1">
+<b>1</b></font></td>
+<td align="RIGHT"><font face="Verdana" size="-1">
+<b>(.000)</b> </font></td>
+</tr>
+<tr>
+<td><font face="Verdana" size="-1"><b> Mercyhurst </b></font></td>
+<td align="center" width="40"><font face="Verdana" size="-1">0</font></td>
+<td align="center" width="40"><font face="Verdana" size="-1">1</font></td>
+<td align="center" width="40"><font face="Verdana" size="-1">1</font></td>
+<td align="center" width="40"><font face="Verdana" size="-1"><b>2</b></font></td>
+<td> </td>
+<td><font face="Verdana" size="-1"><b> Mercyhurst </b></font></td>
+<td align="RIGHT"><font face="Verdana" size="-1">
+<b>1</b></font></td>
+<td align="CENTER"><font face="Verdana" size="-1">
+<b>/</b></font></td>
+<td><font face="Verdana" size="-1">
+<b>7</b></font></td>
+<td align="RIGHT"><font face="Verdana" size="-1">
+<b>(.143)</b> </font></td>
+</tr>
+<tr>
+<td colspan="11"> </td>
+</tr>
+<tr>
+<td bgcolor="000099"><font color="fefefe" face="Verdana" size="-1"><b><i> Shots On Goal </i></b></font></td>
+<td align="center" bgcolor="000099" width="40"><font color="fefefe" face="Verdana" size="-1"><b><i>1st</i></b></font></td>
+<td align="center" bgcolor="000099" width="40"><font color="fefefe" face="Verdana" size="-1"><b><i>2nd</i></b></font></td>
+<td align="center" bgcolor="000099" width="40"><font color="fefefe" face="Verdana" size="-1"><b><i>3rd</i></b></font></td>
+<td align="center" bgcolor="000099" width="40"><font color="fefefe" face="Verdana" size="-1"><b><i>Total</i></b></font></td>
+<td width="30"> </td>
+<td align="center" bgcolor="000099" colspan="4">
+<font color="fefefe" face="Verdana" size="-1"><b><i>Penalties/Minutes</i></b></font></td>
+<td align="right" bgcolor="000099">
+<font color="fefefe" face="Verdana" size="-1"><b><i>SHGF </i></b></font></td>
+</tr>
+<tr>
+<td><font face="Verdana" size="-1"><b> St. Lawrence </b></font></td>
+<td align="center" width="40"><font face="Verdana" size="-1">5</font></td>
+<td align="center" width="40"><font face="Verdana" size="-1">16</font></td>
+<td align="center" width="40"><font face="Verdana" size="-1">6</font></td>
+<td align="center" width="40"><font face="Verdana" size="-1"><b>27</b></font></td>
+<td> </td>
+<td><font face="Verdana" size="-1"><b> St. Lawrence </b></font></td>
+<td align="RIGHT"><font face="Verdana" size="-1">
+<b>7</b></font></td>
+<td align="CENTER"><font face="Verdana" size="-1">
+<b>/</b></font></td>
+<td><font face="Verdana" size="-1">
+<b>14</b></font></td>
+<td align="RIGHT"><font face="Verdana" size="-1">
+<b>0</b> </font></td>
+</tr>
+<tr>
+<td><font face="Verdana" size="-1"><b> Mercyhurst </b></font></td>
+<td align="center" width="40"><font face="Verdana" size="-1">18</font></td>
+<td align="center" width="40"><font face="Verdana" size="-1">4</font></td>
+<td align="center" width="40"><font face="Verdana" size="-1">20</font></td>
+<td align="center" width="40"><font face="Verdana" size="-1"><b>42</b></font></td>
+<td> </td>
+<td><font face="Verdana" size="-1"><b> Mercyhurst </b></font></td>
+<td align="RIGHT"><font face="Verdana" size="-1">
+<b>1</b></font></td>
+<td align="CENTER"><font face="Verdana" size="-1">
+<b>/</b></font></td>
+<td><font face="Verdana" size="-1">
+<b>2</b></font></td>
+<td align="RIGHT"><font face="Verdana" size="-1">
+<b>0</b> </font></td>
+</tr>
+</table>
+<br/>
+<hr noshade="" size="3" width="100%"/>
+<br/>
+<table border="0" cellpadding="2" cellspacing="0" width="100%">
+<tr bgcolor="000099">
+<td align="center" colspan="17"><font color="fefefe" face="Verdana" size="-1"><b><i>
+St. Lawrence Lineup</i></b></font></td></tr>
+<tr valign="bottom">
+<td><font face="Verdana" size="-1"><b>LW</b></font></td>
+<td align="right"><font face="Verdana" size="-1"><b>9</b></font></td>
+<td><font face="Verdana" size="-2"><b>Ryan Garvey </b></font></td>
+<td><font face="Verdana" size="-2">1-0-1</font></td>
+<td align="right"><font face="Verdana" size="-2"> 2/E</font></td>
+<td width="30"> </td>
+<td><font face="Verdana" size="-1"><b>C</b></font></td>
+<td align="right"><font face="Verdana" size="-1"><b>25</b></font></td>
+<td><font face="Verdana" size="-2"><b>Michael Laidley </b></font></td>
+<td><font face="Verdana" size="-2">0-0-0</font></td>
+<td align="right"><font face="Verdana" size="-2"> 0/E</font></td>
+<td width="30"> </td>
+<td><font face="Verdana" size="-1"><b>RW</b></font></td>
+<td align="right"><font face="Verdana" size="-1"><b>11</b></font></td>
+<td><font face="Verdana" size="-2"><b>Carson Gicewicz </b></font></td>
+<td><font face="Verdana" size="-2">0-0-0</font></td>
+<td align="right"><font face="Verdana" size="-2"> 0/+1</font></td>
+</tr>
+<tr valign="bottom">
+<td><font face="Verdana" size="-1">LW</font></td>
+<td align="right"><font face="Verdana" size="-1">15</font></td>
+<td><font face="Verdana" size="-2">Jacob Nielsen </font></td>
+<td><font face="Verdana" size="-2">0-0-0</font></td>
+<td align="right"><font face="Verdana" size="-2"> 0/E</font></td>
+<td width="30"> </td>
+<td><font face="Verdana" size="-1">C</font></td>
+<td align="right"><font face="Verdana" size="-1">10</font></td>
+<td><font face="Verdana" size="-2">David Jankowski </font></td>
+<td><font face="Verdana" size="-2">0-1-1</font></td>
+<td align="right"><font face="Verdana" size="-2"> 1/-1</font></td>
+<td width="30"> </td>
+<td><font face="Verdana" size="-1">RW</font></td>
+<td align="right"><font face="Verdana" size="-1">18</font></td>
+<td><font face="Verdana" size="-2">Kaden Pickering </font></td>
+<td><font face="Verdana" size="-2">1-0-1</font></td>
+<td align="right"><font face="Verdana" size="-2"> 3/+1</font></td>
+</tr>
+<tr valign="bottom">
+<td><font face="Verdana" size="-1">LW</font></td>
+<td align="right"><font face="Verdana" size="-1">13</font></td>
+<td><font face="Verdana" size="-2">Aleksi Peltonen </font></td>
+<td><font face="Verdana" size="-2">0-0-0</font></td>
+<td align="right"><font face="Verdana" size="-2"> 2/+1</font></td>
+<td width="30"> </td>
+<td><font face="Verdana" size="-1">C</font></td>
+<td align="right"><font face="Verdana" size="-1">24</font></td>
+<td><font face="Verdana" size="-2">Cameron Buhl </font></td>
+<td><font face="Verdana" size="-2">0-0-0</font></td>
+<td align="right"><font face="Verdana" size="-2"> 3/+1</font></td>
+<td width="30"> </td>
+<td><font face="Verdana" size="-1">RW</font></td>
+<td align="right"><font face="Verdana" size="-1">29</font></td>
+<td><font face="Verdana" size="-2">Jordan Steinmetz </font></td>
+<td><font face="Verdana" size="-2">0-0-0</font></td>
+<td align="right"><font face="Verdana" size="-2"> 1/-1</font></td>
+</tr>
+<tr valign="bottom">
+<td><font face="Verdana" size="-1">LW</font></td>
+<td align="right"><font face="Verdana" size="-1">17</font></td>
+<td><font face="Verdana" size="-2">Alex Gilmour </font></td>
+<td><font face="Verdana" size="-2">0-0-0</font></td>
+<td align="right"><font face="Verdana" size="-2"> 5/+1</font></td>
+<td width="30"> </td>
+<td><font face="Verdana" size="-1">C</font></td>
+<td align="right"><font face="Verdana" size="-1">27</font></td>
+<td><font face="Verdana" size="-2">Keenan Suthers </font></td>
+<td><font face="Verdana" size="-2">0-1-1</font></td>
+<td align="right"><font face="Verdana" size="-2"> 2/E</font></td>
+<td width="30"> </td>
+<td><font face="Verdana" size="-1">RW</font></td>
+<td align="right"><font face="Verdana" size="-1">20</font></td>
+<td><font face="Verdana" size="-2">Zach Risteau </font></td>
+<td><font face="Verdana" size="-2">1-1-2</font></td>
+<td align="right"><font face="Verdana" size="-2"> 3/+2</font></td>
+</tr>
+<tr valign="bottom">
+<td><font face="Verdana" size="-1"><b>LD</b></font></td>
+<td align="right"><font face="Verdana" size="-1"><b>33</b></font></td>
+<td><font face="Verdana" size="-2"><b>Tim Makowski </b></font></td>
+<td><font face="Verdana" size="-2">0-0-0</font></td>
+<td align="right"><font face="Verdana" size="-2"> 2/E</font></td>
+<td width="30"> </td>
+<td><font face="Verdana" size="-1"><b>RD</b></font></td>
+<td align="right"><font face="Verdana" size="-1"><b>2</b></font></td>
+<td><font face="Verdana" size="-2"><b>Dylan Woolf </b></font></td>
+<td><font face="Verdana" size="-2">0-0-0</font></td>
+<td align="right"><font face="Verdana" size="-2"> 1/E</font></td>
+<td width="30"> </td>
+<td><font face="Verdana" size="-1">G</font></td>
+<td align="right"><font face="Verdana" size="-1">1</font></td>
+<td><font face="Verdana" size="-2">Emil Zetterquist </font></td>
+<td><font face="Verdana" size="-2">DNP</font></td>
+<td></td></tr>
+<tr valign="bottom">
+<td><font face="Verdana" size="-1">LD</font></td>
+<td align="right"><font face="Verdana" size="-1">22</font></td>
+<td><font face="Verdana" size="-2">Jeff Clarke </font></td>
+<td><font face="Verdana" size="-2">0-0-0</font></td>
+<td align="right"><font face="Verdana" size="-2"> 1/+1</font></td>
+<td width="30"> </td>
+<td><font face="Verdana" size="-1">RD</font></td>
+<td align="right"><font face="Verdana" size="-1">12</font></td>
+<td><font face="Verdana" size="-2">Bo Hanson </font></td>
+<td><font face="Verdana" size="-2">0-1-1</font></td>
+<td align="right"><font face="Verdana" size="-2"> 0/+1</font></td>
+<td width="30"> </td>
+<td><font face="Verdana" size="-1"><b>G</b></font></td>
+<td align="right"><font face="Verdana" size="-1"><b>30</b></font></td>
+<td><font face="Verdana" size="-2"><b>Daniel Mannella </b></font></td>
+<td><font face="Verdana" size="-2">0-0-0</font></td>
+<td align="right"><font face="Verdana" size="-2"> 0</font></td>
+</tr>
+<tr valign="bottom">
+<td><font face="Verdana" size="-1">LD</font></td>
+<td align="right"><font face="Verdana" size="-1">4</font></td>
+<td><font face="Verdana" size="-2">Cameron White </font></td>
+<td><font face="Verdana" size="-2">0-0-0</font></td>
+<td align="right"><font face="Verdana" size="-2"> 0/+1</font></td>
+<td width="30"> </td>
+<td><font face="Verdana" size="-1">RD</font></td>
+<td align="right"><font face="Verdana" size="-1">3</font></td>
+<td><font face="Verdana" size="-2">Mark Mahoney </font></td>
+<td><font face="Verdana" size="-2">0-0-0</font></td>
+<td align="right"><font face="Verdana" size="-2"> 1/+2</font></td>
+<td width="30"> </td>
+<td><font face="Verdana" size="-1">G</font></td>
+<td align="right"><font face="Verdana" size="-1">35</font></td>
+<td><font face="Verdana" size="-2">Francis Boisvert </font></td>
+<td><font face="Verdana" size="-2">DNP</font></td>
+<td></td></tr>
+<tr valign="bottom">
+<td><font face="Verdana" size="-1">XF</font></td>
+<td align="right"><font face="Verdana" size="-1">7</font></td>
+<td><font face="Verdana" size="-2">Andrew McIntyre </font></td>
+<td><font face="Verdana" size="-2">0-0-0</font></td>
+<td align="right"><font face="Verdana" size="-2"> 0/E</font></td>
+<td width="30"> </td>
+<td colspan="5"></td>
+<td width="30"> </td>
+<td colspan="5"></td>
+</tr>
+<tr><td colspan="17"> </td></tr>
+<tr bgcolor="000099">
+<td align="center" colspan="17"><font color="fefefe" face="Verdana" size="-1"><b><i>
+Mercyhurst Lineup</i></b></font></td></tr>
+<tr valign="bottom">
+<td><font face="Verdana" size="-1"><b>LW</b></font></td>
+<td align="right"><font face="Verdana" size="-1"><b>3</b></font></td>
+<td><font face="Verdana" size="-2"><b>Brendan Riley </b></font></td>
+<td><font face="Verdana" size="-2">0-0-0</font></td>
+<td align="right"><font face="Verdana" size="-2"> 1/-1</font></td>
+<td width="30"> </td>
+<td><font face="Verdana" size="-1"><b>C</b></font></td>
+<td align="right"><font face="Verdana" size="-1"><b>14</b></font></td>
+<td><font face="Verdana" size="-2"><b>Gueorgui Feduolov </b></font></td>
+<td><font face="Verdana" size="-2">0-0-0</font></td>
+<td align="right"><font face="Verdana" size="-2"> 2/-2</font></td>
+<td width="30"> </td>
+<td><font face="Verdana" size="-1"><b>RW</b></font></td>
+<td align="right"><font face="Verdana" size="-1"><b>13</b></font></td>
+<td><font face="Verdana" size="-2"><b>Paul Maust </b></font></td>
+<td><font face="Verdana" size="-2">0-0-0</font></td>
+<td align="right"><font face="Verdana" size="-2"> 2/-1</font></td>
+</tr>
+<tr valign="bottom">
+<td><font face="Verdana" size="-1">LW</font></td>
+<td align="right"><font face="Verdana" size="-1">27</font></td>
+<td><font face="Verdana" size="-2">James Anderson </font></td>
+<td><font face="Verdana" size="-2">1-0-1</font></td>
+<td align="right"><font face="Verdana" size="-2"> 5/E</font></td>
+<td width="30"> </td>
+<td><font face="Verdana" size="-1">C</font></td>
+<td align="right"><font face="Verdana" size="-1">11</font></td>
+<td><font face="Verdana" size="-2">Steven Ipri </font></td>
+<td><font face="Verdana" size="-2">0-1-1</font></td>
+<td align="right"><font face="Verdana" size="-2"> 3/+1</font></td>
+<td width="30"> </td>
+<td><font face="Verdana" size="-1">RW</font></td>
+<td align="right"><font face="Verdana" size="-1">18</font></td>
+<td><font face="Verdana" size="-2">Dalton Hunter </font></td>
+<td><font face="Verdana" size="-2">1-0-1</font></td>
+<td align="right"><font face="Verdana" size="-2"> 1/E</font></td>
+</tr>
+<tr valign="bottom">
+<td><font face="Verdana" size="-1">LW</font></td>
+<td align="right"><font face="Verdana" size="-1">24</font></td>
+<td><font face="Verdana" size="-2">Ethan Johnson </font></td>
+<td><font face="Verdana" size="-2">0-0-0</font></td>
+<td align="right"><font face="Verdana" size="-2"> 2/+1</font></td>
+<td width="30"> </td>
+<td><font face="Verdana" size="-1">C</font></td>
+<td align="right"><font face="Verdana" size="-1">22</font></td>
+<td><font face="Verdana" size="-2">Brendan Schneider </font></td>
+<td><font face="Verdana" size="-2">0-0-0</font></td>
+<td align="right"><font face="Verdana" size="-2"> 1/E</font></td>
+<td width="30"> </td>
+<td><font face="Verdana" size="-1">RW</font></td>
+<td align="right"><font face="Verdana" size="-1">23</font></td>
+<td><font face="Verdana" size="-2">Jonny Lazarus </font></td>
+<td><font face="Verdana" size="-2">0-0-0</font></td>
+<td align="right"><font face="Verdana" size="-2"> 3/-2</font></td>
+</tr>
+<tr valign="bottom">
+<td><font face="Verdana" size="-1">LW</font></td>
+<td align="right"><font face="Verdana" size="-1">19</font></td>
+<td><font face="Verdana" size="-2">Corey Caruso </font></td>
+<td><font face="Verdana" size="-2">0-0-0</font></td>
+<td align="right"><font face="Verdana" size="-2"> 1/E</font></td>
+<td width="30"> </td>
+<td><font face="Verdana" size="-1">C</font></td>
+<td align="right"><font face="Verdana" size="-1">10</font></td>
+<td><font face="Verdana" size="-2">Geoff Kitt </font></td>
+<td><font face="Verdana" size="-2">0-0-0</font></td>
+<td align="right"><font face="Verdana" size="-2"> 2/-1</font></td>
+<td width="30"> </td>
+<td><font face="Verdana" size="-1">RW</font></td>
+<td align="right"><font face="Verdana" size="-1">21</font></td>
+<td><font face="Verdana" size="-2">Khristian Acosta </font></td>
+<td><font face="Verdana" size="-2">0-0-0</font></td>
+<td align="right"><font face="Verdana" size="-2"> 3/E</font></td>
+</tr>
+<tr valign="bottom">
+<td><font face="Verdana" size="-1"><b>LD</b></font></td>
+<td align="right"><font face="Verdana" size="-1"><b>2</b></font></td>
+<td><font face="Verdana" size="-2"><b>Cade Townend </b></font></td>
+<td><font face="Verdana" size="-2">0-0-0</font></td>
+<td align="right"><font face="Verdana" size="-2"> 2/E</font></td>
+<td width="30"> </td>
+<td><font face="Verdana" size="-1"><b>RD</b></font></td>
+<td align="right"><font face="Verdana" size="-1"><b>5</b></font></td>
+<td><font face="Verdana" size="-2"><b>Michael Bevilacqua </b></font></td>
+<td><font face="Verdana" size="-2">0-0-0</font></td>
+<td align="right"><font face="Verdana" size="-2"> 3/-2</font></td>
+<td width="30"> </td>
+<td><font face="Verdana" size="-1">G</font></td>
+<td align="right"><font face="Verdana" size="-1">1</font></td>
+<td><font face="Verdana" size="-2">Stefano Cantali </font></td>
+<td><font face="Verdana" size="-2">DNP</font></td>
+<td></td></tr>
+<tr valign="bottom">
+<td><font face="Verdana" size="-1">LD</font></td>
+<td align="right"><font face="Verdana" size="-1">4</font></td>
+<td><font face="Verdana" size="-2">Quinn Wichers </font></td>
+<td><font face="Verdana" size="-2">0-0-0</font></td>
+<td align="right"><font face="Verdana" size="-2"> 2/E</font></td>
+<td width="30"> </td>
+<td><font face="Verdana" size="-1">RD</font></td>
+<td align="right"><font face="Verdana" size="-1">29</font></td>
+<td><font face="Verdana" size="-2">Josh McDougall </font></td>
+<td><font face="Verdana" size="-2">0-1-1</font></td>
+<td align="right"><font face="Verdana" size="-2"> 4/+1</font></td>
+<td width="30"> </td>
+<td><font face="Verdana" size="-1">G</font></td>
+<td align="right"><font face="Verdana" size="-1">33</font></td>
+<td><font face="Verdana" size="-2">Colin DeAugustine </font></td>
+<td><font face="Verdana" size="-2">DNP</font></td>
+<td></td></tr>
+<tr valign="bottom">
+<td><font face="Verdana" size="-1">LD</font></td>
+<td align="right"><font face="Verdana" size="-1">25</font></td>
+<td><font face="Verdana" size="-2">Joseph Maziarz </font></td>
+<td><font face="Verdana" size="-2">0-0-0</font></td>
+<td align="right"><font face="Verdana" size="-2"> 3/-1</font></td>
+<td width="30"> </td>
+<td><font face="Verdana" size="-1">RD</font></td>
+<td align="right"><font face="Verdana" size="-1">8</font></td>
+<td><font face="Verdana" size="-2">Owen Norton </font></td>
+<td><font face="Verdana" size="-2">0-0-0</font></td>
+<td align="right"><font face="Verdana" size="-2"> 1/-1</font></td>
+<td width="30"> </td>
+<td><font face="Verdana" size="-1"><b>G</b></font></td>
+<td align="right"><font face="Verdana" size="-1"><b>39</b></font></td>
+<td><font face="Verdana" size="-2"><b>Garrett Metcalf </b></font></td>
+<td><font face="Verdana" size="-2">0-0-0</font></td>
+<td align="right"><font face="Verdana" size="-2"> 0</font></td>
+</tr>
+<tr valign="bottom">
+<td><font face="Verdana" size="-1">XF</font></td>
+<td align="right"><font face="Verdana" size="-1">28</font></td>
+<td><font face="Verdana" size="-2">Carver Watson </font></td>
+<td><font face="Verdana" size="-2">0-0-0</font></td>
+<td align="right"><font face="Verdana" size="-2"> 1/-1</font></td>
+<td width="30"> </td>
+<td colspan="5"></td>
+<td width="30"> </td>
+<td colspan="5"></td>
+</tr>
+</table>
+<br/>
+<hr noshade="" size="3" width="100%"/>
+<br/>
+<table border="0" cellpadding="2" cellspacing="0" width="100%">
+<tr bgcolor="000099">
+<td colspan="6"><b><font color="fefefe" face="Verdana" size="-1"> <i>Goals</i></font></b></td>
+<td><font color="fefefe" face="Verdana" size="-1"> <b><i>Scoring/Penalties</i></b></font></td>
+<td width="100%"> </td>
+<td align="RIGHT"><b><font color="fefefe" face="Verdana" size="-1"><i>Time</i> </font></b></td>
+</tr>
+<tr>
+<td colspan="6"><hr noshade="" size="1" width="100%"/></td>
+<td><font face="Verdana" size="-1"> <i><b>1st Period</b> (20:00)</i> </font></td>
+<td colspan="2"><hr noshade="" size="1" width="100%"/></td>
+</tr>
+<tr>
+<td><b><font face="Verdana" size="-1"> STL </font></b></td>
+<td align="RIGHT"><b><font face="Verdana" size="-1">1</font></b></td>
+<td><b><font face="Verdana" size="-1">-</font></b></td>
+<td><b><font face="Verdana" size="-1">0 </font></b></td>
+<td><b><font face="Verdana" size="-1">6x6</font></b></td>
+<td><b><font face="Verdana" size="-1"> LL</font></b></td>
+<td colspan="2"><font face="Verdana" size="-1"> <b>Kaden Pickering (1) (David Jankowski/1)</b></font></td>
+<td align="RIGHT"><b><font face="Verdana" size="-1">2:00 </font></b></td>
+</tr>
+<tr><td colspan="6"></td><td colspan="2"><font face="Verdana" size="-1"> </font><font face="Verdana" size="-2">STL (+): 3,12,13,18,24,G30   MRC (-): 5,8,10,18,27,G39</font></td></tr>
+<tr>
+<td colspan="6"></td>
+<td colspan="2"><font face="Verdana" size="-1"> STL-1 Jeff Clarke (2-Interference) MRC 0x1</font></td>
+<td align="RIGHT"><font face="Verdana" size="-1">2:36 </font></td>
+</tr>
+<tr>
+<td colspan="6"></td>
+<td colspan="2"><font face="Verdana" size="-1"> STL-2 Ryan Garvey (2-High-Sticking) MRC 0x2</font></td>
+<td align="RIGHT"><font face="Verdana" size="-1">7:45 </font></td>
+</tr>
+<tr>
+<td colspan="6"></td>
+<td colspan="2"><font face="Verdana" size="-1"> STL-3 Carson Gicewicz (2-Tripping) MRC 0x3</font></td>
+<td align="RIGHT"><font face="Verdana" size="-1">8:22 </font></td>
+</tr>
+<tr>
+<td colspan="6"></td>
+<td colspan="2"><font face="Verdana" size="-1"> STL-4 David Jankowski (2-Tripping) MRC 0x4</font></td>
+<td align="RIGHT"><font face="Verdana" size="-1">18:17 </font></td>
+</tr>
+<tr>
+<td colspan="6"><hr noshade="" size="1" width="100%"/></td>
+<td><font face="Verdana" size="-1"> <i><b>2nd Period</b> (20:00)</i> </font></td>
+<td colspan="2"><hr noshade="" size="1" width="100%"/></td>
+</tr>
+<tr>
+<td colspan="6"></td>
+<td colspan="2"><font face="Verdana" size="-1"> MRC-1 Cade Townend (2-Holding) STL 0x1</font></td>
+<td align="RIGHT"><font face="Verdana" size="-1">1:48 </font></td>
+</tr>
+<tr>
+<td><b><font face="Verdana" size="-1"> STL </font></b></td>
+<td align="RIGHT"><b><font face="Verdana" size="-1">2</font></b></td>
+<td><b><font face="Verdana" size="-1">-</font></b></td>
+<td><b><font face="Verdana" size="-1">0 </font></b></td>
+<td><b><font face="Verdana" size="-1">6x6</font></b></td>
+<td><b><font face="Verdana" size="-1"></font></b></td>
+<td colspan="2"><font face="Verdana" size="-1"> <b>Ryan Garvey (1) (Zach Risteau/2, Bo Hanson/1)</b></font></td>
+<td align="RIGHT"><b><font face="Verdana" size="-1">16:18 </font></b></td>
+</tr>
+<tr><td colspan="6"></td><td colspan="2"><font face="Verdana" size="-1"> </font><font face="Verdana" size="-2">STL (+): 3,4,9,11,20,G30   MRC (-): 8,13,14,23,25,G39</font></td></tr>
+<tr>
+<td colspan="6"></td>
+<td colspan="2"><font face="Verdana" size="-1"> STL-5 Bo Hanson (2-Cross-Checking) MRC 1x5</font></td>
+<td align="RIGHT"><font face="Verdana" size="-1">18:42 </font></td>
+</tr>
+<tr>
+<td><b><font face="Verdana" size="-1"> MRC </font></b></td>
+<td align="RIGHT"><b><font face="Verdana" size="-1">1</font></b></td>
+<td><b><font face="Verdana" size="-1">-</font></b></td>
+<td><b><font face="Verdana" size="-1">2 </font></b></td>
+<td><b><font face="Verdana" size="-1">6x5 <font color="0000CC">PP</font></font></b></td>
+<td><b><font face="Verdana" size="-1"></font></b></td>
+<td colspan="2"><font face="Verdana" size="-1"> <b>Dalton Hunter (2) (Steven Ipri/3, Josh McDougall/3)</b></font></td>
+<td align="RIGHT"><b><font face="Verdana" size="-1">18:57 </font></b></td>
+</tr>
+<tr><td colspan="6"></td><td colspan="2"><font face="Verdana" size="-1"> </font><font face="Verdana" size="-2">MRC: 11,18,24,27,29,G39   STL: 2,9,11,33,G30</font></td></tr>
+<tr>
+<td colspan="6"><hr noshade="" size="1" width="100%"/></td>
+<td><font face="Verdana" size="-1"> <i><b>3rd Period</b> (20:00)</i> </font></td>
+<td colspan="2"><hr noshade="" size="1" width="100%"/></td>
+</tr>
+<tr>
+<td colspan="6"></td>
+<td colspan="2"><font face="Verdana" size="-1"> STL-6 Michael Laidley (2-Roughing) MRC 1x6</font></td>
+<td align="RIGHT"><font face="Verdana" size="-1">0:26 </font></td>
+</tr>
+<tr>
+<td colspan="6"></td>
+<td colspan="2"><font face="Verdana" size="-1"> STL-7 Jeff Clarke (2-Interference) MRC 1x7</font></td>
+<td align="RIGHT"><font face="Verdana" size="-1">4:55 </font></td>
+</tr>
+<tr>
+<td><b><font face="Verdana" size="-1"> STL </font></b></td>
+<td align="RIGHT"><b><font face="Verdana" size="-1">3</font></b></td>
+<td><b><font face="Verdana" size="-1">-</font></b></td>
+<td><b><font face="Verdana" size="-1">1 </font></b></td>
+<td><b><font face="Verdana" size="-1">6x6</font></b></td>
+<td><b><font face="Verdana" size="-1"> GW</font></b></td>
+<td colspan="2"><font face="Verdana" size="-1"> <b>Zach Risteau (2) (Keenan Suthers/2)</b></font></td>
+<td align="RIGHT"><b><font face="Verdana" size="-1">11:54 </font></b></td>
+</tr>
+<tr><td colspan="6"></td><td colspan="2"><font face="Verdana" size="-1"> </font><font face="Verdana" size="-2">STL (+): 12,17,20,22,27,G30   MRC (-): 3,5,14,23,28,G39</font></td></tr>
+<tr>
+<td colspan="6"></td>
+<td colspan="2"><font face="Verdana" size="-1"> <i>Timeout - St. Lawrence</i></font></td>
+<td align="RIGHT"><font face="Verdana" size="-1">19:18.9 </font></td>
+</tr>
+<tr>
+<td><b><font face="Verdana" size="-1"> MRC </font></b></td>
+<td align="RIGHT"><b><font face="Verdana" size="-1">2</font></b></td>
+<td><b><font face="Verdana" size="-1">-</font></b></td>
+<td><b><font face="Verdana" size="-1">3 </font></b></td>
+<td><b><font face="Verdana" size="-1">6x6</font></b></td>
+<td><b><font face="Verdana" size="-1"> EA</font></b></td>
+<td colspan="2"><font face="Verdana" size="-1"> <b>James Anderson (3)</b> (unassisted)</font></td>
+<td align="RIGHT"><b><font face="Verdana" size="-1">19:53.3 </font></b></td>
+</tr>
+<tr><td colspan="6"></td><td colspan="2"><font face="Verdana" size="-1"> </font><font face="Verdana" size="-2">MRC (+): 8,11,18,24,27,29   STL (-): 9,10,12,27,29,G30</font></td></tr>
+<tr>
+<td colspan="6"><hr noshade="" size="1" width="100%"/></td>
+<td><font face="Verdana" size="-1"> <i><b>End of Game</b></i> </font></td>
+<td colspan="2"><hr noshade="" size="1" width="100%"/></td>
+</tr>
+</table>
+<br/>
+<hr noshade="" size="3" width="100%"/>
+<br/>
+<table border="0" cellpadding="2" cellspacing="0" width="100%">
+<tr align="center" bgcolor="000099">
+<td align="left"><b><font color="fefefe" face="Verdana" size="-1"><i> St. Lawrence Goaltending </i></font></b></td>
+<td width="40"><font color="fefefe" face="Verdana" size="-1"><b>
+1st</b></font></td>
+<td width="40"><font color="fefefe" face="Verdana" size="-1"><b>
+2nd</b></font></td>
+<td width="40"><font color="fefefe" face="Verdana" size="-1"><b>
+3rd</b></font></td>
+<td width="40"><font color="fefefe" face="Verdana" size="-1"><b>Total</b></font></td>
+<td><font color="fefefe" face="Verdana" size="-1"><b>Minutes</b></font></td>
+<td><font color="fefefe" face="Verdana" size="-1"><b>GA</b></font></td>
+</tr>
+<tr align="center">
+<td align="left"><font face="Verdana" size="-1"> Daniel Mannella (W, 1-0-0) </font></td>
+<td width="40"><font face="Verdana" size="-1">18</font></td>
+<td width="40"><font face="Verdana" size="-1">3</font></td>
+<td width="40"><font face="Verdana" size="-1">19</font></td>
+<td width="40"><font face="Verdana" size="-1">40</font></td>
+<td><font face="Verdana" size="-1">
+60:00</font></td>
+<td><font face="Verdana" size="-1">
+2</font></td>
+</tr>
+<tr><td> </td></tr>
+<tr align="center" bgcolor="000099">
+<td align="left"><b><font color="fefefe" face="Verdana" size="-1"><i> Mercyhurst Goaltending </i></font></b></td>
+<td width="40"><font color="fefefe" face="Verdana" size="-1"><b>
+1st</b></font></td>
+<td width="40"><font color="fefefe" face="Verdana" size="-1"><b>
+2nd</b></font></td>
+<td width="40"><font color="fefefe" face="Verdana" size="-1"><b>
+3rd</b></font></td>
+<td width="40"><font color="fefefe" face="Verdana" size="-1"><b>Total</b></font></td>
+<td><font color="fefefe" face="Verdana" size="-1"><b>Minutes</b></font></td>
+<td><font color="fefefe" face="Verdana" size="-1"><b>GA</b></font></td>
+</tr>
+<tr align="center">
+<td align="left"><font face="Verdana" size="-1"> Garrett Metcalf </font></td>
+<td width="40"><font face="Verdana" size="-1">4</font></td>
+<td width="40"><font face="Verdana" size="-1">0</font></td>
+<td width="40"><font face="Verdana" size="-1">0</font></td>
+<td width="40"><font face="Verdana" size="-1">4</font></td>
+<td><font face="Verdana" size="-1">
+18:15</font></td>
+<td><font face="Verdana" size="-1">
+1</font></td>
+</tr>
+<tr align="center">
+<td align="left"><font face="Verdana" size="-1"> EMPTY NET </font></td>
+<td width="40"><font face="Verdana" size="-1"></font></td>
+<td width="40"><font face="Verdana" size="-1"></font></td>
+<td width="40"><font face="Verdana" size="-1"></font></td>
+<td width="40"><font face="Verdana" size="-1">0</font></td>
+<td><font face="Verdana" size="-1">
+0:02</font></td>
+<td><font face="Verdana" size="-1">
+0</font></td>
+</tr>
+<tr align="center">
+<td align="left"><font face="Verdana" size="-1"> Garrett Metcalf (L, 2-2-0) </font></td>
+<td width="40"><font face="Verdana" size="-1">0</font></td>
+<td width="40"><font face="Verdana" size="-1">15</font></td>
+<td width="40"><font face="Verdana" size="-1">5</font></td>
+<td width="40"><font face="Verdana" size="-1">20</font></td>
+<td><font face="Verdana" size="-1">
+39:09</font></td>
+<td><font face="Verdana" size="-1">
+2</font></td>
+</tr>
+<tr align="center">
+<td align="left"><font face="Verdana" size="-1"> EMPTY NET </font></td>
+<td width="40"><font face="Verdana" size="-1"></font></td>
+<td width="40"><font face="Verdana" size="-1"></font></td>
+<td width="40"><font face="Verdana" size="-1"></font></td>
+<td width="40"><font face="Verdana" size="-1">0</font></td>
+<td><font face="Verdana" size="-1">
+2:34</font></td>
+<td><font face="Verdana" size="-1">
+0</font></td>
+</tr>
+</table>
+<br/>
+<hr noshade="" size="3" width="100%"/>
+<br/>
+<font face="Verdana,Arial, Helvetica" size="-1">
+First Star: <b>Daniel Mannella (St. Lawrence)</b><br/>
+Second Star: <b>Zach Risteau (St. Lawrence)</b><br/>
+Third Star: <b>Dalton Hunter (Mercyhurst)</b><br/>
+</font><br/>
+<hr noshade="" size="3" width="100%"/>
+<a href="/"><img align="RIGHT" border="0" height="27" src="/images/hockey.gif" width="27"/></a>
+<font face="Arial, Helvetica"><b><i>
+Please use the "Back" button on your browser to return to the previous page,<br/>or click on the puck at the right to return to the collegehockeystats.net Index.</i></b></font>
+<br/>
+<hr noshade="" size="3" width="100%"/>
+<table border="0" cellpadding="2" cellspacing="0" width="100%">
+<tr valign="CENTER"><td align="LEFT">
+<font face="Verdana,Arial,Helvetica" size="-2"><b>
+Sunday, January 5, 2020  11:57:51 AM  EST <br/>
+268587107 Pages Accessed Since April 6, 2013<br/>
+E-mail: <a href="mailto:info@collegehockeystats.net">info@collegehockeystats.net</a></b></font></td><td align="RIGHT"><font face="Verdana,Arial,Helvetica" size="-2"><b>
+Archives: <a href="/9900/teamstats">1999-00</a> | <a href="/0001/teamstats">2000-01</a> | <a href="/0102/teamstats">2001-02</a> | <a href="/0203/teamstats">2002-03</a> | <a href="/0304/teamstats">2003-04</a> | <a href="/0405/teamstats">2004-05</a><br/>
+<a href="/0506/teamstats">2005-06</a> | <a href="/0607/teamstats">2006-07</a> | <a href="/0708/teamstats">2007-08</a> | <a href="/0809/teamstats">2008-09</a> | <a href="/0910/teamstats">2009-10</a> | <a href="/1011/teamstats">2010-11</a> | <a href="/1112/teamstats">2011-12</a><br/>
+<a href="/1213/teamstats">2012-13</a> | <a href="/1314/teamstats">2013-14</a> | <a href="/1415/teamstats">2014-15</a> | <a href="/1516/teamstats">2015-16</a> | <a href="/1617/teamstats">2016-17</a> | <a href="/1718/teamstats">2017-18</a> | <a href="/1819/teamstats">2018-19</a><br/>
+</b></font></td></tr></table>
+<p></p></div></body></html>
